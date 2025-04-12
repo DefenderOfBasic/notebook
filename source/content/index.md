@@ -1,6 +1,4 @@
 ---
 title: Defender's Notebook
 ---
-
-### Background
-
+TODO
