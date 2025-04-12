@@ -1,7 +1,6 @@
 ---
-title: My GitHub Pages Notebook!
+title: Defender's Notebook
 ---
 
-Hello world!
+### Background
 
-Write some words here!
