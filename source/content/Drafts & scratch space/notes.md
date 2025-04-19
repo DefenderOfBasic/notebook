@@ -1,0 +1,2 @@
+- "ecumenical consilience" is a big concept for me
+- "gnostic peer review"

@@ -11,3 +11,4 @@
 ### See also 
 
 - Discourse Graphs https://discoursegraphs.com/. [@theproteindance](https://x.com/theproteindance)  has a contact there. They already have research labs using this! It's also open source and has plugins for various things like Obsidian?? 
+- Ideaflow is working on an interconnected research notebook (https://www.ideaflow.io/). Defender has a friend there. 
