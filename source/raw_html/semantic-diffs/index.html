@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic Similarity Checker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .title {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .editors {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        .editor-column {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        .editor-label {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        textarea {
+            width: 100%;
+            height: 400px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            resize: none;
+            font-family: monospace;
+            font-size: 14px;
+        }
+        .controls {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .results {
+            padding: 20px;
+            background-color: white;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .similarity-score {
+            font-size: 24px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .meter-container {
+            width: 100%;
+            background-color: #e0e0e0;
+            height: 30px;
+            border-radius: 15px;
+            overflow: hidden;
+            margin-bottom: 20px;
+        }
+        .meter-fill {
+            height: 100%;
+            background: linear-gradient(to right, #ff6b6b, #feca57, #48dbfb, #1dd1a1);
+            transition: width 0.5s ease-in-out;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+        }
+        .comparison-details {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title">
+            <h1>Text Diff Semantic Similarity Checker</h1>
+            <h3 id="result">Similarity: 0</h3>
+        </div>
+        
+        <div class="editors">
+            <div class="editor-column">
+                <div class="editor-label">Document 1</div>
+                <textarea id="document1" placeholder="Paste first document here...">The quick brown fox jumps over the lazy dog. The animal was fast and agile, moving swiftly across the field while the canine rested peacefully, unaware of the approaching danger.</textarea>
+            </div>
+            
+            <div class="editor-column">
+                <div class="editor-label">Document 2</div>
+                <textarea id="document2" placeholder="Paste second document here...">A rapid auburn fox leaped above the inactive hound. The fox was speedy and nimble, traversing the meadow rapidly as the dog slept calmly, oblivious to the impending threat.</textarea>
+            </div>
+        </div>
+
+        
+
+    </div>
+
+    <script>
+        let debounceTimer;
+        document.querySelector("#document1").oninput = debounce(updateSimilarity, 500);
+        document.querySelector("#document2").oninput = debounce(updateSimilarity, 500);
+
+        function debounce(callback, delay) {
+            return function() {
+                clearTimeout(debounceTimer);
+                debounceTimer = setTimeout(callback, delay);
+            }
+        }
+
+        const openaiKey = `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`
+
+        async function updateSimilarity() {
+            document.querySelector("#result").innerHTML = `Similarity: ...computing...`
+
+            const doc1 = document.querySelector("#document1").value 
+            const doc2 = document.querySelector("#document2").value 
+
+            console.log({ doc1, doc2 })
+
+            const vector1 = await computeEmbedding(doc1)
+            const vector2 = await computeEmbedding(doc2)
+
+            const distance = cosineSimilarity(vector1, vector2)
+            document.querySelector("#result").innerHTML = `
+            Similarity: ${distance.toFixed(6)}
+
+            `
+        }
+
+        updateSimilarity()
+
+        async function computeEmbedding(text) {
+            const response = await fetch('https://api.openai.com/v1/embeddings', {
+                method: 'POST',
+                headers: {
+                    'Authorization': 'Bearer ' + openaiKey,
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    'input': text,
+                    'model': 'text-embedding-3-large',
+                    'encoding_format': 'float'
+                })
+            });
+
+            const data = await response.json();
+            return data.data[0].embedding;
+        }
+
+        const cosineSimilarity = (vecA, vecB) => {
+            if (vecA.length !== vecB.length) {
+                throw new Error('Vectors must have the same length');
+            }
+            
+            const dot = dotProduct(vecA, vecB);
+            const magA = magnitude(vecA);
+            const magB = magnitude(vecB);
+            
+            if (magA === 0 || magB === 0) {
+                throw new Error('Cannot calculate cosine similarity for zero vector');
+            }
+            
+            return dot / (magA * magB);
+        };
+
+        // Calculate dot product of two vectors
+        const dotProduct = (vecA, vecB) => {
+            if (vecA.length !== vecB.length) {
+                throw new Error('Vectors must have the same length');
+            }
+            return vecA.reduce((sum, a, i) => sum + a * vecB[i], 0);
+        };
+
+        // Calculate magnitude (length) of a vector
+        const magnitude = (vec) => {
+            return Math.sqrt(vec.reduce((sum, val) => sum + val * val, 0));
+        };
+    </script>
+</body>
+</html>
