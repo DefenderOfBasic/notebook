@@ -131,7 +131,11 @@
             }
         }
 
-        const openaiKey = `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`
+
+        let params = new URL(document.location.toString()).searchParams;
+        const openaiKey = params.get("key");
+       
+
 
         async function updateSimilarity() {
             document.querySelector("#result").innerHTML = `Similarity: ...computing...`
