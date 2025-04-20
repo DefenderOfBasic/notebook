@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memetics/notes.md",
+                "file": "Open Research Institute/Comparables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "Comparables"
             }
           }
         ],
@@ -256,6 +256,8 @@
   },
   "active": "25783b1c6fd85359",
   "lastOpenFiles": [
+    "Open Research Institute/Metaphysics 101.md",
+    "Memetics/notes.md",
     "New paradigms.md",
     "Open Research Institute/Comparables.md",
     "index.md",
@@ -263,7 +265,6 @@
     "ecumenical consilience.md",
     "Memetics/Journal.md",
     "Memetics/Untitled.md",
-    "Memetics/notes.md",
     "Projects/Twitter Archive -> Obsidian Vault.md",
     "Projects/Org Chart for Spaceship Earth.md",
     "Open Research Institute/Vision.md",
