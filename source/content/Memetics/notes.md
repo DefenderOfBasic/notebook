@@ -6,3 +6,9 @@
 
 
 Project for google forms -> cluster responses, all 100% in the browser
+
+
+### What subcultures do I have access to?
+
+- medical doctors 
+- "people struggling to pay rent" - https://x.com/DefenderOfBasic/status/1689723613883011072
