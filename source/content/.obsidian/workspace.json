@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,11 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c554d0b3f8f29563",
+  "active": "4405e1539bf289a4",
   "lastOpenFiles": [
+    "Marketing companies into existence.md",
     "ORI/Retroactive funding.md",
     "_/attachments /Pasted image 20250512120433.png",
-    "Marketing companies into existence.md",
     "_/How the Twitter Community Archive started.md",
     "index.md",
     "What I actually do.md",
