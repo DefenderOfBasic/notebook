@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitter Trigram Analyzer</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f7f9fa;
+            color: #1a1a1a;
+        }
+        
+        h1 {
+            color: #1DA1F2;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        
+        .dropzone {
+            border: 3px dashed #1DA1F2;
+            border-radius: 10px;
+            padding: 40px;
+            text-align: center;
+            background-color: rgba(29, 161, 242, 0.05);
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .dropzone:hover, .dropzone.drag-over {
+            background-color: rgba(29, 161, 242, 0.1);
+            border-color: #0d8ecf;
+        }
+        
+        .slider-container {
+            margin: 30px 0;
+        }
+        
+        .slider-label {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+        
+        .slider {
+            width: 100%;
+            height: 10px;
+            background: #ddd;
+            outline: none;
+            -webkit-appearance: none;
+            border-radius: 5px;
+        }
+        
+        .slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #1DA1F2;
+            cursor: pointer;
+        }
+        
+        .slider::-moz-range-thumb {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #1DA1F2;
+            cursor: pointer;
+        }
+        
+        #results {
+            background-color: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        }
+        
+        #trigramList {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 15px;
+        }
+        
+        .trigram-item {
+            background-color: #f0f7ff;
+            padding: 10px 15px;
+            border-radius: 8px;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .date-range {
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+        
+        .status {
+            margin-top: 10px;
+            font-style: italic;
+            color: #666;
+        }
+        
+        .file-info {
+            margin-top: 10px;
+            font-size: 0.9em;
+            color: #666;
+        }
+        
+        .error {
+            color: #e74c3c;
+            margin-top: 10px;
+        }
+        
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Twitter Trigram Analyzer</h1>
+    
+    <div class="container">
+        <div id="dropzone" class="dropzone">
+            <p>Drag & drop your Twitter CSV file here or click to browse</p>
+            <input type="file" id="fileInput" accept=".csv" style="display: none;">
+            <div id="fileInfo" class="file-info hidden"></div>
+            <div id="error" class="error hidden"></div>
+        </div>
+        
+        <div id="controls" class="hidden">
+            <div class="slider-container">
+                <div class="slider-label">
+                    <span>Time Range:</span>
+                    <span id="percentageLabel">50%</span>
+                </div>
+                <input type="range" min="1" max="100" value="50" class="slider" id="timeSlider">
+                <div class="date-range">
+                    Analyzing posts from <span id="startDate">-</span> to <span id="endDate">-</span>
+                </div>
+            </div>
+        </div>
+        
+        <div id="results" class="hidden">
+            <h2>Top Trigrams</h2>
+            <p><span id="postCount">0</span> posts analyzed from the selected time period.</p>
+            <div id="trigramList"></div>
+        </div>
+    </div>
+
+    <!-- Load PapaParse first -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js" integrity="sha512-dfX5uYVXzyU8+KHqj8bjo7UkOdg18PaOtpa48djpNbZHwExddghZ+ZmzWT06R5v6NSk3ZUfsH6FNEDepLx9hPQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    
+    <!-- Main script -->
+    <script>
+        // Wait for DOM to be fully loaded
+        document.addEventListener('DOMContentLoaded', function() {
+            // DOM elements
+            const dropzone = document.getElementById('dropzone');
+            const fileInput = document.getElementById('fileInput');
+            const fileInfo = document.getElementById('fileInfo');
+            const errorEl = document.getElementById('error');
+            const controls = document.getElementById('controls');
+            const resultsEl = document.getElementById('results');
+            const timeSlider = document.getElementById('timeSlider');
+            const percentageLabel = document.getElementById('percentageLabel');
+            const startDateEl = document.getElementById('startDate');
+            const endDateEl = document.getElementById('endDate');
+            const postCountEl = document.getElementById('postCount');
+            const trigramListEl = document.getElementById('trigramList');
+
+            // App state
+            let twitterData = null;
+            let sortedDates = [];
+            let currentPercentage = 50;
+
+            // Verify PapaParse is loaded
+            if (typeof Papa === 'undefined') {
+                showError('PapaParse library failed to load. Please check your internet connection and try again.');
+                return;
+            }
+
+            // Event listeners
+            dropzone.addEventListener('click', () => fileInput.click());
+            dropzone.addEventListener('dragover', handleDragOver);
+            dropzone.addEventListener('dragleave', handleDragLeave);
+            dropzone.addEventListener('drop', handleDrop);
+            fileInput.addEventListener('change', handleFileSelect);
+            timeSlider.addEventListener('input', handleSliderChange);
+
+            // Handle file drag over
+            function handleDragOver(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                dropzone.classList.add('drag-over');
+            }
+
+            // Handle file drag leave
+            function handleDragLeave(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                dropzone.classList.remove('drag-over');
+            }
+
+            // Handle file drop
+            function handleDrop(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                dropzone.classList.remove('drag-over');
+                
+                const files = e.dataTransfer.files;
+                if (files.length > 0) {
+                    processFile(files[0]);
+                }
+            }
+
+            // Handle file selection from input
+            function handleFileSelect(e) {
+                const files = e.target.files;
+                if (files.length > 0) {
+                    processFile(files[0]);
+                }
+            }
+
+            // Process the uploaded CSV file
+            function processFile(file) {
+                if (!file.name.endsWith('.csv')) {
+                    showError('Please upload a CSV file.');
+                    return;
+                }
+
+                fileInfo.textContent = `File: ${file.name}`;
+                fileInfo.classList.remove('hidden');
+                errorEl.classList.add('hidden');
+
+                Papa.parse(file, {
+                    header: true,
+                    skipEmptyLines: true,
+                    complete: function(parseResults) {
+                        if (parseResults.errors && parseResults.errors.length > 0) {
+                            showError('Error parsing CSV file. Please make sure it\'s a valid Twitter export CSV.');
+                            return;
+                        }
+                        
+                        try {
+                            processParsedData(parseResults.data);
+                            controls.classList.remove('hidden');
+                            resultsEl.classList.remove('hidden');
+                            updateBigrams();
+                        } catch (err) {
+                            showError(`Error processing data: ${err.message}`);
+                        }
+                    },
+                    error: function(error) {
+                        showError(`Error reading file: ${error.message}`);
+                    }
+                });
+            }
+
+            // Process the parsed data
+            function processParsedData(data) {
+                // Filter out rows without post text
+                twitterData = data.filter(row => row['Post text'] && row['Post text'].trim() !== '');
+                
+                if (twitterData.length === 0) {
+                    throw new Error('No valid posts found in the CSV file.');
+                }
+                
+                // Sort by date
+                twitterData.sort((a, b) => {
+                    const dateA = parseTwitterDate(a.Date);
+                    const dateB = parseTwitterDate(b.Date);
+                    return dateA - dateB;
+                });
+                
+                // Store sorted dates for time slider filtering
+                sortedDates = twitterData.map(post => parseTwitterDate(post.Date));
+                
+                // Initial update of date range display
+                updateDateRange();
+            }
+
+            // Parse Twitter date format
+            function parseTwitterDate(dateString) {
+                // Example: "Wed, Apr 30, 2025"
+                const parts = dateString.match(/\w+, (\w+) (\d+), (\d+)/);
+                if (!parts) return new Date(0); // Invalid date
+                
+                const months = {
+                    Jan: 0, Feb: 1, Mar: 2, Apr: 3, May: 4, Jun: 5,
+                    Jul: 6, Aug: 7, Sep: 8, Oct: 9, Nov: 10, Dec: 11
+                };
+                
+                const month = months[parts[1]];
+                const day = parseInt(parts[2]);
+                const year = parseInt(parts[3]);
+                
+                return new Date(year, month, day);
+            }
+
+            // Format date for display
+            function formatDate(date) {
+                const options = { year: 'numeric', month: 'short', day: 'numeric' };
+                return date.toLocaleDateString(undefined, options);
+            }
+
+            // Handle slider change
+            function handleSliderChange(e) {
+                currentPercentage = parseInt(e.target.value);
+                percentageLabel.textContent = `${currentPercentage}%`;
+                updateDateRange();
+                updateBigrams();
+            }
+
+            // Update date range based on slider percentage
+            function updateDateRange() {
+                if (!sortedDates.length) return;
+                
+                const startDate = sortedDates[0];
+                const endDate = sortedDates[sortedDates.length - 1];
+                
+                // Calculate the cutoff date based on percentage
+                const timeRange = endDate - startDate;
+                const cutoffTime = startDate.getTime() + (timeRange * (currentPercentage / 100));
+                const cutoffDate = new Date(cutoffTime);
+                
+                startDateEl.textContent = formatDate(startDate);
+                endDateEl.textContent = formatDate(cutoffDate);
+            }
+
+            // Extract trigrams from text
+            function extractTrigrams(text) {
+                // Clean the text
+                const cleanText = text
+                    .toLowerCase()
+                    .replace(/https?:\/\/\S+/g, '') // Remove URLs
+                    .replace(/[@#]\S+/g, '')       // Remove mentions and hashtags
+                    .replace(/[^\w\s]/g, '')       // Remove punctuation
+                    .replace(/\s+/g, ' ')          // Normalize whitespace
+                    .trim();
+                
+                const words = cleanText.split(' ').filter(word => word.length > 1);
+                
+                // Generate trigrams
+                const trigrams = [];
+                for (let i = 0; i < words.length - 2; i++) {
+                    trigrams.push(`${words[i]} ${words[i + 1]} ${words[i + 2]}`);
+                }
+                
+                return trigrams;
+            }
+
+            // Count trigram occurrences
+            function countTrigrams(posts) {
+                const trigramCounts = {};
+                
+                posts.forEach(post => {
+                    const trigrams = extractTrigrams(post['Post text']);
+                    
+                    trigrams.forEach(trigram => {
+                        trigramCounts[trigram] = (trigramCounts[trigram] || 0) + 1;
+                    });
+                });
+                
+                return trigramCounts;
+            }
+
+            // Update bigrams based on current slider value
+            function updateBigrams() {
+                if (!twitterData || !twitterData.length) return;
+                
+                // Get cutoff date based on slider percentage
+                const startDate = sortedDates[0];
+                const endDate = sortedDates[sortedDates.length - 1];
+                const timeRange = endDate - startDate;
+                const cutoffTime = startDate.getTime() + (timeRange * (currentPercentage / 100));
+                const cutoffDate = new Date(cutoffTime);
+                
+                // Filter posts based on date range
+                const filteredPosts = twitterData.filter(post => {
+                    const postDate = parseTwitterDate(post.Date);
+                    return postDate >= startDate && postDate <= cutoffDate;
+                });
+                
+                // Update post count
+                postCountEl.textContent = filteredPosts.length;
+                
+                // Generate and count trigrams
+                const trigramCounts = countTrigrams(filteredPosts);
+                
+                // Sort trigrams by frequency
+                const sortedTrigrams = Object.entries(trigramCounts)
+                    .sort((a, b) => b[1] - a[1])
+                    .slice(0, 30); // Get top 30 trigrams
+                
+                // Update UI
+                trigramListEl.innerHTML = '';
+                
+                sortedTrigrams.forEach(([trigram, count]) => {
+                    const trigramItem = document.createElement('div');
+                    trigramItem.className = 'trigram-item';
+                    trigramItem.innerHTML = `
+                        <span class="trigram">${trigram}</span>
+                        <span class="count">${count}</span>
+                    `;
+                    trigramListEl.appendChild(trigramItem);
+                });
+                
+                // Show results
+                resultsEl.classList.remove('hidden');
+            }
+
+            // Show error message
+            function showError(message) {
+                errorEl.textContent = message;
+                errorEl.classList.remove('hidden');
+                controls.classList.add('hidden');
+                resultsEl.classList.add('hidden');
+            }
+        });
+    </script>
+</body>
+</html>
