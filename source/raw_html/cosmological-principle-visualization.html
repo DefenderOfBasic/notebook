@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cosmological Principle Visualization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+        
+        .container {
+            position: relative;
+            width: 500px;
+            height: 500px;
+            margin: 20px auto;
+            border: 1px solid #ccc;
+            overflow: hidden;
+            background-color: #000;
+            touch-action: none;
+        }
+        
+        #pastLayer {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        
+        #presentLayer {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            cursor: grab;
+        }
+        
+        #presentLayer.grabbing {
+            cursor: grabbing;
+        }
+        
+        .dot {
+            position: absolute;
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+        }
+        
+        .pastDot {
+            background-color: #ff6b6b;
+        }
+        
+        .presentDot {
+            background-color: #4ecdc4;
+        }
+        
+        .instructions {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        
+        .explanation {
+            background-color: #e3f2fd;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 10px;
+            display: block;
+            margin: 10px auto;
+        }
+        
+        button:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Cosmological Principle Visualization</h1>
+    
+    <div class="instructions">
+        <h2>Try this!</h2>
+        <p>The visualization below has two layers:</p>
+        <ul>
+            <li>The <strong>bottom layer (red dots)</strong> represents the universe a billion years ago.</li>
+            <li>The <strong>top layer (blue-green dots)</strong> represents the universe today, expanded 5% from its size a billion years ago.</li>
+        </ul>
+        <p><strong>Instructions:</strong> Use your mouse to drag the top (blue-green) layer. Try to align any dot from the top layer with its corresponding dot on the bottom layer. Notice how it looks like the universe is expanding from that point!</p>
+    </div>
+    
+    <div class="container" id="universeContainer">
+        <div id="pastLayer"></div>
+        <div id="presentLayer"></div>
+    </div>
+    
+    <button id="resetButton">Reset Position</button>
+    
+    <div class="explanation">
+        <h2>What's going on?</h2>
+        <p>The top layer (the universe today) was made by enlarging the bottom layer (the universe 1 billion years ago) by 5%. That means every space on the top layer is enlarged by 5 percent.</p>
+        <p>The real universe works the same way: in a billion years, all of the spaces between galaxy clusters have expanded by about 5 percent. Viewed from any point, the universe seems to be expanding around that point.</p>
+        <p>This demonstrates an important concept in cosmology called the <strong>cosmological principle</strong>: there is no special location in the universe. Every observer, no matter where they are, will see the universe expanding away from them - making it appear as if they're at the center of the expansion.</p>
+    </div>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const container = document.getElementById('universeContainer');
+            const pastLayer = document.getElementById('pastLayer');
+            const presentLayer = document.getElementById('presentLayer');
+            const resetButton = document.getElementById('resetButton');
+            
+            const containerWidth = container.offsetWidth;
+            const containerHeight = container.offsetHeight;
+            
+            // Expansion factor
+            const expansionFactor = 1.05; // 5% larger
+            
+            // Number of dots
+            const numDots = 50;
+            
+            // Initial position of the present layer
+            let presentLayerX = 0;
+            let presentLayerY = 0;
+            
+            // Arrays to store dot positions
+            const pastDots = [];
+            const presentDots = [];
+            
+            // Create dots for past layer (universe a billion years ago)
+            // Start with dots near the center of the container
+            const centerX = containerWidth / 2;
+            const centerY = containerHeight / 2;
+            
+            for (let i = 0; i < numDots; i++) {
+                // Random positions around the center of the container
+                const angle = Math.random() * 2 * Math.PI;
+                const radius = Math.random() * 200; // Max 200px from center
+                
+                const x = centerX + radius * Math.cos(angle);
+                const y = centerY + radius * Math.sin(angle);
+                
+                // Random size between 2 and 5 pixels
+                const size = 2 + Math.random() * 3;
+                
+                // Create dot element
+                const dot = document.createElement('div');
+                dot.className = 'dot pastDot';
+                dot.style.width = `${size}px`;
+                dot.style.height = `${size}px`;
+                dot.style.left = `${x}px`;
+                dot.style.top = `${y}px`;
+                
+                pastLayer.appendChild(dot);
+                
+                // Store position
+                pastDots.push({ x, y, size });
+                
+                // Create corresponding dot for present layer (expanded universe)
+                // Expand from the center of the container
+                const presentX = centerX + (x - centerX) * expansionFactor;
+                const presentY = centerY + (y - centerY) * expansionFactor;
+                
+                const presentDot = document.createElement('div');
+                presentDot.className = 'dot presentDot';
+                presentDot.style.width = `${size}px`;
+                presentDot.style.height = `${size}px`;
+                presentDot.style.left = `${presentX}px`;
+                presentDot.style.top = `${presentY}px`;
+                
+                presentLayer.appendChild(presentDot);
+                
+                // Store position
+                presentDots.push({ x: presentX, y: presentY, size });
+            }
+            
+            // Dragging variables
+            let isDragging = false;
+            let startX = 0;
+            let startY = 0;
+            
+            // Function to update present layer position
+            function updatePresentLayerPosition() {
+                presentLayer.style.transform = `translate(${presentLayerX}px, ${presentLayerY}px)`;
+            }
+            
+            // Mouse/touch event handlers
+            presentLayer.addEventListener('mousedown', startDrag);
+            presentLayer.addEventListener('touchstart', startDrag);
+            document.addEventListener('mousemove', drag);
+            document.addEventListener('touchmove', drag);
+            document.addEventListener('mouseup', endDrag);
+            document.addEventListener('touchend', endDrag);
+            
+            function startDrag(e) {
+                e.preventDefault();
+                isDragging = true;
+                presentLayer.classList.add('grabbing');
+                
+                // Get starting point
+                if (e.type === 'touchstart') {
+                    startX = e.touches[0].clientX - presentLayerX;
+                    startY = e.touches[0].clientY - presentLayerY;
+                } else {
+                    startX = e.clientX - presentLayerX;
+                    startY = e.clientY - presentLayerY;
+                }
+            }
+            
+            function drag(e) {
+                if (!isDragging) return;
+                e.preventDefault();
+                
+                // Calculate new position
+                if (e.type === 'touchmove') {
+                    presentLayerX = e.touches[0].clientX - startX;
+                    presentLayerY = e.touches[0].clientY - startY;
+                } else {
+                    presentLayerX = e.clientX - startX;
+                    presentLayerY = e.clientY - startY;
+                }
+                
+                updatePresentLayerPosition();
+            }
+            
+            function endDrag() {
+                isDragging = false;
+                presentLayer.classList.remove('grabbing');
+            }
+            
+            // Reset button
+            resetButton.addEventListener('click', function() {
+                presentLayerX = 0;
+                presentLayerY = 0;
+                updatePresentLayerPosition();
+            });
+            
+            // Initial position
+            updatePresentLayerPosition();
+        });
+    </script>
+</body>
+</html>
