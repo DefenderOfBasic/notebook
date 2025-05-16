@@ -1,5 +1,5 @@
 # Defender's notebook
 
-Open research notebook on consciousness, memetics, coordination, and philodosy
+Open notebook for stuff I'm currently working on:
 
 https://defenderofbasic.github.io/notebook/

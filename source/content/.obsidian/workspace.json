@@ -36,6 +36,48 @@
             }
           },
           {
+            "id": "62a0860ffdc24ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing companies into existence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marketing companies into existence"
+            }
+          },
+          {
+            "id": "4557e47c72429917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anatomy of an Internet Argument.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anatomy of an Internet Argument"
+            }
+          },
+          {
+            "id": "7bb94e6e7621122c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ORI/Universal Principles/Unbundle the axes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unbundle the axes"
+            }
+          },
+          {
             "id": "c554d0b3f8f29563",
             "type": "leaf",
             "state": {
@@ -64,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -212,36 +254,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4405e1539bf289a4",
+  "active": "7bb94e6e7621122c",
   "lastOpenFiles": [
-    "Marketing companies into existence.md",
+    "\"Half Art Half Science\" is not the maximum it can be.md",
     "ORI/Retroactive funding.md",
-    "_/attachments /Pasted image 20250512120433.png",
+    "ORI/Universal Principles/Unbundle the axes.md",
+    "Untitled.canvas",
+    "_/books/Who Are We Now.md",
+    "Untitled.md",
+    "_/books",
+    "_/Human Memome Project.md",
+    "ORI/Universal Principles/Untitled.md",
+    "ORI/Universal Principles",
+    "_/attachments /Pasted image 20250514201506.png",
+    "Anatomy of an Internet Argument.md",
+    "_/Religion Was Discovered, Not Invented.md",
+    "⭐️ Open Research Institute.md",
+    "_/TODO.md",
+    "ORI/Peer review doubles as marketing.md",
+    "memetics/Collaborators.md",
+    "memetics/Untitled.md",
+    "memetics/Open Memetics Journal.md",
+    "Consciousness.md",
+    "Marketing companies into existence.md",
     "_/How the Twitter Community Archive started.md",
     "index.md",
+    "_/attachments /Pasted image 20250512120433.png",
     "What I actually do.md",
-    "⭐️ Open Research Institute.md",
-    "memetics/Open Memetics Journal.md",
-    "ORI/Peer review doubles as marketing.md",
-    "_/TODO.md",
-    "memetics/Collaborators.md",
     "ORI",
     "memetics",
-    "_/Religion Was Discovered, Not Invented.md",
-    "_/Human Memeome Project.md",
     "_/backup_may_2025/Memetics/notes.md",
     "_/backup_may_2025/Memetics/Journal.md",
     "_/backup_may_2025/Memetics/Is culture splitting?.md",
     "_/backup_may_2025/Memetics/How does a breakthrough reach the physicists?.md",
     "_/backup_may_2025/Projects/Twitter Archive -> Obsidian Vault.md",
-    "_/backup_may_2025/Projects/Semantically cluster any Blue Sky thread.md",
-    "_/backup_may_2025/Projects/Org Chart for Spaceship Earth.md",
-    "_/backup_may_2025/Open Research Institute/New paradigms.md",
-    "_/backup_may_2025/Open Research Institute/Metaphysics 101.md",
-    "_/backup_may_2025/Open Research Institute/Comparables.md",
-    "_/backup_may_2025/Drafts & scratch space/notes.md",
-    "_/backup_may_2025/Drafts & scratch space/Inspiration.md",
-    "_/backup_may_2025/index2.md",
     "_/backup_may_2025/Projects",
     "_/backup_may_2025/Pasted image 20250425095002.png",
     "_/backup_may_2025/Open Research Institute",
@@ -251,8 +297,6 @@
     "_/attachments /Pasted image 20250512094552.png",
     "_/backup_may_2025",
     "_/attachments ",
-    "_",
-    "Projects",
     "backup_may_2025/Pasted image 20250425095002.png",
     "Pasted image 20250425095002.png"
   ]

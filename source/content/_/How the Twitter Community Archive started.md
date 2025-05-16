@@ -2,7 +2,7 @@
 >
 >  https://github.com/DefenderOfBasic/PhD/blob/main/twitter-community-archive.md
 
-This is an example of [[Marketing companies into existence]]. 
+This story is an example of [[Marketing companies into existence]]. 
 
  On Dec 2023 I wrote:
 

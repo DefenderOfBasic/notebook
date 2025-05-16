@@ -1,5 +1,11 @@
 
+Someone wrote an essay that I could respond to with one called "What is Religion?"
 
+https://x.com/Hshsiwkmefbg/status/1922554563728437271
+
+> Religion, culture and institutions On the definition, categorization, origin and historical (and contemporary) role of religion (as distinct from the rest of culture and non-religious institutions)
+
+----
 
 People I want to respond to with this essay:
 
