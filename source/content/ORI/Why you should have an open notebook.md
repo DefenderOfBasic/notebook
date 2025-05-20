@@ -1,0 +1,1 @@
+Everyone should have an open notebook. Plant your flag. 

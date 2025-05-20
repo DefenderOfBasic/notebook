@@ -78,6 +78,34 @@
             }
           },
           {
+            "id": "d5cb463cc15e5b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ORI/Universal Principles/Unbundle the axes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unbundle the axes"
+            }
+          },
+          {
+            "id": "1029447cd8d7e0aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_/backup_may_2025/Drafts & scratch space/Inspiration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inspiration"
+            }
+          },
+          {
             "id": "c554d0b3f8f29563",
             "type": "leaf",
             "state": {
@@ -106,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -163,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.50271224975586
+    "width": 235.50043487548828
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -254,40 +282,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bb94e6e7621122c",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "\"Half Art Half Science\" is not the maximum it can be.md",
-    "ORI/Retroactive funding.md",
-    "ORI/Universal Principles/Unbundle the axes.md",
-    "Untitled.canvas",
     "_/books/Who Are We Now.md",
-    "Untitled.md",
+    "_/Religion Was Discovered, Not Invented.md",
+    "_/How the Twitter Community Archive started.md",
+    "⭐️ Open Research Institute.md",
+    "Marketing companies into existence.md",
+    "index.md",
+    "Consciousness.md",
+    "Daily Notes/2025-05-20.md",
+    "_/TODO.md",
+    "ORI/Untestable Axioms.md",
+    "ORI/Universal Principles/Unbundle the axes.md",
+    "memetics/People.md",
+    "memetics/Was the prophet illiterate?.md",
+    "memetics/Push vs Pull.md",
+    "memetics/Local-Global Connections.md",
+    "ORI/Untitled.md",
+    "_/attachments /Pasted image 20250520090904.png",
+    "Daily Notes/2025-05-19.md",
+    "memetics/Egregore.md",
+    "memetics/Cultural Negative Space.md",
+    "Daily Notes/2025-05-17.md",
+    "Daily Notes/2025-05-18.md",
+    "ORI/Why you should have an open notebook.md",
+    "ORI/Peer review doubles as marketing.md",
+    "memetics/Human Memome Project.md",
+    "memetics/Blackbird Narrative Analysis.md",
+    "memetics/Open Memetics Journal.md",
+    "_/attachments /Geopolitics - Blackbird.AI's Constellation Narrative Intelligence Platform.mp4",
+    "Daily Notes",
+    "Untitled.canvas",
+    "_/attachments /Pasted image 20250516080214.png",
     "_/books",
-    "_/Human Memome Project.md",
-    "ORI/Universal Principles/Untitled.md",
     "ORI/Universal Principles",
     "_/attachments /Pasted image 20250514201506.png",
-    "Anatomy of an Internet Argument.md",
-    "_/Religion Was Discovered, Not Invented.md",
-    "⭐️ Open Research Institute.md",
-    "_/TODO.md",
-    "ORI/Peer review doubles as marketing.md",
-    "memetics/Collaborators.md",
-    "memetics/Untitled.md",
-    "memetics/Open Memetics Journal.md",
-    "Consciousness.md",
-    "Marketing companies into existence.md",
-    "_/How the Twitter Community Archive started.md",
-    "index.md",
     "_/attachments /Pasted image 20250512120433.png",
-    "What I actually do.md",
     "ORI",
     "memetics",
-    "_/backup_may_2025/Memetics/notes.md",
-    "_/backup_may_2025/Memetics/Journal.md",
-    "_/backup_may_2025/Memetics/Is culture splitting?.md",
-    "_/backup_may_2025/Memetics/How does a breakthrough reach the physicists?.md",
-    "_/backup_may_2025/Projects/Twitter Archive -> Obsidian Vault.md",
     "_/backup_may_2025/Projects",
     "_/backup_may_2025/Pasted image 20250425095002.png",
     "_/backup_may_2025/Open Research Institute",
@@ -295,8 +328,6 @@
     "_/backup_may_2025/Drafts & scratch space",
     "_/attachments /Pasted image 20250512094604.png",
     "_/attachments /Pasted image 20250512094552.png",
-    "_/backup_may_2025",
-    "_/attachments ",
     "backup_may_2025/Pasted image 20250425095002.png",
     "Pasted image 20250425095002.png"
   ]

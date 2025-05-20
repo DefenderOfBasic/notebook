@@ -1,4 +1,8 @@
-Thread on my thoughts / what I liked about it:
+
+Human physics https://whoarewenow.net/chapter-16/#tataouineatnight
+![[Pasted image 20250516080214.png]]
+
+----
 
 https://x.com/DefenderOfBasic/status/1818811919714709839
 
