@@ -97,12 +97,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memetics/💡 Meta-memes.md",
+                "file": "memetics/Blackbird Narrative Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💡 Meta-memes"
+              "title": "Blackbird Narrative Analysis"
+            }
+          },
+          {
+            "id": "4804caf741c869cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing companies into existence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marketing companies into existence"
+            }
+          },
+          {
+            "id": "2320759e5269c0de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2025-05-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-22"
             }
           },
           {
@@ -134,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -282,36 +310,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1029447cd8d7e0aa",
+  "active": "2320759e5269c0de",
   "lastOpenFiles": [
-    "memetics/Brian Nosek on believing in culture change.md",
+    "Daily Notes/xAI-live-twitter-search/Memetics Discourse.md",
+    "Daily Notes/xAI-live-twitter-search/World Discourse.md",
+    "Daily Notes/2025-05-22.md",
+    "Daily Notes/xAI-live-twitter-search",
+    "ORI/Shape of the World Quiz.md",
+    "memetics/Push vs Pull.md",
+    "🛠️ Org Chart for Spaceship Earth.md",
+    "Marketing companies into existence.md",
+    "Daily Notes/2025-05-20.md",
+    "memetics/💡Open Exclusionary Policy.md",
+    "memetics/🧪 An Open Experiment.md",
+    "memetics/🔎 The Backtier Problem.md",
+    "memetics/Egregore Mic Check.md",
+    "memetics/Blackbird Narrative Analysis.md",
     "memetics/💡 Meta-memes.md",
+    "memetics/Brian Nosek on believing in culture change.md",
     "_/attachments /Pasted image 20250520093720.png",
     "How do you monetize CTRL+F?.md",
     "index.md",
-    "Daily Notes/2025-05-20.md",
     "ORI/Levelling Guide.md",
     "_/backup_may_2025/Drafts & scratch space/Inspiration.md",
     "_/books/Who Are We Now.md",
     "_/Religion Was Discovered, Not Invented.md",
     "_/How the Twitter Community Archive started.md",
     "⭐️ Open Research Institute.md",
-    "Marketing companies into existence.md",
     "Consciousness.md",
     "_/TODO.md",
     "ORI/Untestable Axioms.md",
-    "ORI/Universal Principles/Unbundle the axes.md",
-    "memetics/People.md",
-    "memetics/Was the prophet illiterate?.md",
-    "memetics/Push vs Pull.md",
-    "memetics/Local-Global Connections.md",
     "_/attachments /Pasted image 20250520090904.png",
-    "Daily Notes/2025-05-19.md",
-    "memetics/Egregore.md",
-    "memetics/Cultural Negative Space.md",
-    "Daily Notes/2025-05-17.md",
-    "Daily Notes/2025-05-18.md",
-    "ORI/Why you should have an open notebook.md",
     "_/attachments /Geopolitics - Blackbird.AI's Constellation Narrative Intelligence Platform.mp4",
     "Daily Notes",
     "Untitled.canvas",
@@ -326,7 +355,6 @@
     "_/backup_may_2025/Pasted image 20250425095002.png",
     "_/backup_may_2025/Open Research Institute",
     "_/backup_may_2025/Memetics",
-    "_/backup_may_2025/Drafts & scratch space",
     "_/attachments /Pasted image 20250512094604.png",
     "_/attachments /Pasted image 20250512094552.png",
     "backup_may_2025/Pasted image 20250425095002.png",
