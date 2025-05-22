@@ -22,20 +22,21 @@
             }
           },
           {
-            "id": "7bfc60c4f70ba256",
+            "id": "01877e62476f0c52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/xAI-live-twitter-search/World Discourse.md",
+                "file": "Daily Notes/xAI-live-twitter-search/Memetics Discourse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World Discourse"
+              "title": "Memetics Discourse"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,11 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2320759e5269c0de",
+  "active": "01877e62476f0c52",
   "lastOpenFiles": [
-    "Daily Notes/xAI-live-twitter-search/Memetics Discourse.md",
-    "Daily Notes/2025-05-22.md",
     "Daily Notes/xAI-live-twitter-search/World Discourse.md",
+    "Daily Notes/2025-05-22.md",
+    "Daily Notes/xAI-live-twitter-search/Memetics Discourse.md",
+    "ORI/Shape of the World Quiz.md",
     "memetics/💡Open Exclusionary Policy.md",
     "memetics/🧪 An Open Experiment.md",
     "memetics/🔎 The Backtier Problem.md",
@@ -197,7 +199,6 @@
     "_/attachments /Pasted image 20250522094330.png",
     "_/How the Twitter Community Archive started.md",
     "Daily Notes/xAI-live-twitter-search",
-    "ORI/Shape of the World Quiz.md",
     "memetics/Push vs Pull.md",
     "🛠️ Org Chart for Spaceship Earth.md",
     "Marketing companies into existence.md",
