@@ -8,118 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c762387345104ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "memetics/Open Memetics Journal.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Open Memetics Journal"
-            }
-          },
-          {
-            "id": "4405e1539bf289a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "62a0860ffdc24ff4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marketing companies into existence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Marketing companies into existence"
-            }
-          },
-          {
-            "id": "4557e47c72429917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anatomy of an Internet Argument.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anatomy of an Internet Argument"
-            }
-          },
-          {
-            "id": "7bb94e6e7621122c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ORI/Universal Principles/Unbundle the axes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unbundle the axes"
-            }
-          },
-          {
-            "id": "d5cb463cc15e5b84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ORI/Universal Principles/Unbundle the axes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unbundle the axes"
-            }
-          },
-          {
-            "id": "1029447cd8d7e0aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "memetics/Blackbird Narrative Analysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blackbird Narrative Analysis"
-            }
-          },
-          {
-            "id": "4804caf741c869cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marketing companies into existence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Marketing companies into existence"
-            }
-          },
-          {
             "id": "2320759e5269c0de",
             "type": "leaf",
             "state": {
@@ -134,35 +22,20 @@
             }
           },
           {
-            "id": "c554d0b3f8f29563",
+            "id": "7bfc60c4f70ba256",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing companies into existence.md",
+                "file": "Daily Notes/xAI-live-twitter-search/World Discourse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marketing companies into existence"
-            }
-          },
-          {
-            "id": "776dc9dd34f650e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_/Religion Was Discovered, Not Invented.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Religion Was Discovered, Not Invented"
+              "title": "World Discourse"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -312,9 +185,9 @@
   },
   "active": "2320759e5269c0de",
   "lastOpenFiles": [
-    "Daily Notes/xAI-live-twitter-search/Memetics Discourse.md",
     "Daily Notes/xAI-live-twitter-search/World Discourse.md",
     "Daily Notes/2025-05-22.md",
+    "Daily Notes/xAI-live-twitter-search/Memetics Discourse.md",
     "Daily Notes/xAI-live-twitter-search",
     "ORI/Shape of the World Quiz.md",
     "memetics/Push vs Pull.md",
