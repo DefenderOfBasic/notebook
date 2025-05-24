@@ -6,3 +6,5 @@ If the answer is known, you expose yourself as "not on the frontier", in exchang
 > we can rank someone based on their list of open questions (publishing your list of open questions is embarrassing because if it's a known answer, it's admitting you're far from the frontier)
 > https://x.com/DefenderOfBasic/status/1923896054904230382
 
+-----
+

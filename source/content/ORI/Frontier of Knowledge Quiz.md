@@ -1,4 +1,9 @@
 
+- Metaphors are the building block of thought (of ALL minds?) Hofstader. 
+- Conciousness is fundamental 
+- Arrow of time is perspective 
+
+
 - We have satellites around the moon (any other planets??)
 - 
 
