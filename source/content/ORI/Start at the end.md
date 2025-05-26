@@ -1,1 +1,3 @@
-You learn MUCH faster if you start with the end goal
+You learn MUCH faster if you start with the end goal. Like, kids should be shown open questions in the frontier of science when they first start out. Otherwise you can't tell what the point is of learning all this stuff (and some of it is genuinely useless).
+
+I learned WAY faster because I was trying to do something (make video games), I picked up all the maths I needed because it empowered me to create. I hated history until I started trying to predict the news, then I learned VERY quickly because any piece that improved my prediction was a success. I had my own "open questions" that guided my learning.
