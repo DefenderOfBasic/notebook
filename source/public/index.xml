@@ -6,6 +6,12 @@
       <description>Last 10 notes on ✍️ Defender&#039;s notebook</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Surface vs Solve</title>
+    <link>https://defenderofbasic.github.io/notebook/Surface-vs-Solve</link>
+    <guid>https://defenderofbasic.github.io/notebook/Surface-vs-Solve</guid>
+    <description>The side mirror blindspot sensor warns you when a car is in your blindspot. It makes the decision FOR you (safe, or not safe to turn). If it fails, you have no way to know this.</description>
+    <pubDate>Mon, 26 May 2025 12:34:30 GMT</pubDate>
+  </item><item>
     <title>💡 The &quot;just ask&quot; principle</title>
     <link>https://defenderofbasic.github.io/notebook/memetics/%F0%9F%92%A1-The-%22just-ask%22-principle</link>
     <guid>https://defenderofbasic.github.io/notebook/memetics/%F0%9F%92%A1-The-%22just-ask%22-principle</guid>
@@ -59,12 +65,6 @@
     <guid>https://defenderofbasic.github.io/notebook/%F0%9F%9B%A0%EF%B8%8F-Org-Chart-for-Spaceship-Earth</guid>
     <description>Imagine working for a company as big as Google, but no one knows who the executives are. That’d be crazy right? The way a company can do this is by.</description>
     <pubDate>Wed, 21 May 2025 12:36:20 GMT</pubDate>
-  </item><item>
-    <title>💡Open Exclusionary Policy</title>
-    <link>https://defenderofbasic.github.io/notebook/memetics/%F0%9F%92%A1Open-Exclusionary-Policy</link>
-    <guid>https://defenderofbasic.github.io/notebook/memetics/%F0%9F%92%A1Open-Exclusionary-Policy</guid>
-    <description>The Open Memetics Institute is open to all, except dark memetics (TODO: explain that we can award someone as “the first ever person to do this thing in history”, if you want to claim that ...</description>
-    <pubDate>Wed, 21 May 2025 00:18:06 GMT</pubDate>
   </item>
     </channel>
   </rss>

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blind.md",
+                "file": "Surface vs Solve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blind"
+              "title": "Surface vs Solve"
             }
           },
           {
@@ -201,7 +201,7 @@
   "active": "8d5cbf25fb096652",
   "lastOpenFiles": [
     "ORI/Why you should have an open notebook.md",
-    "Blind.md",
+    "Surface vs Solve.md",
     "ORI/90-10 prediction.md",
     "⭐️ Open Research Institute.md",
     "ORI/Frontier of Knowledge Quiz.md",
