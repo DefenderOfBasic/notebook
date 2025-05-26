@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ORI/Frontier of Knowledge Quiz.md",
+                "file": "ORI/Why you should have an open notebook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frontier of Knowledge Quiz"
+              "title": "Why you should have an open notebook"
+            }
+          },
+          {
+            "id": "8d5cbf25fb096652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blind.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blind"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "Memetics Discourse"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5004348754883
+    "width": 289.5004348754883
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -183,8 +198,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2320759e5269c0de",
+  "active": "8d5cbf25fb096652",
   "lastOpenFiles": [
+    "ORI/Why you should have an open notebook.md",
+    "Blind.md",
+    "ORI/90-10 prediction.md",
+    "⭐️ Open Research Institute.md",
+    "ORI/Frontier of Knowledge Quiz.md",
     "ORI/Levelling Guide.md",
     "memetics/💡 The \"just ask\" principle.md",
     "memetics/💡Open Exclusionary Policy.md",
@@ -196,7 +216,6 @@
     "Daily Notes/xAI-live-twitter-search/Tpot Summary.md",
     "Daily Notes/xAI-live-twitter-search/Memetics Discourse.md",
     "Daily Notes/xAI-live-twitter-search/World Discourse.md",
-    "ORI/Frontier of Knowledge Quiz.md",
     "memetics/🧪 An Open Experiment.md",
     "memetics/🔎 The Backtier Problem.md",
     "memetics/📕 Egregore.md",
@@ -211,10 +230,6 @@
     "memetics/Blackbird Narrative Analysis.md",
     "memetics/Brian Nosek on believing in culture change.md",
     "_/attachments /Pasted image 20250520093720.png",
-    "How do you monetize CTRL+F?.md",
-    "index.md",
-    "_/backup_may_2025/Drafts & scratch space/Inspiration.md",
-    "_/books/Who Are We Now.md",
     "_/attachments /Pasted image 20250520090904.png",
     "_/attachments /Geopolitics - Blackbird.AI's Constellation Narrative Intelligence Platform.mp4",
     "Daily Notes",
