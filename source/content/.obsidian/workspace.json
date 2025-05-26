@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐️ Open Research Institute.md",
+                "file": "Surface vs Solve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⭐️ Open Research Institute"
+              "title": "Surface vs Solve"
+            }
+          },
+          {
+            "id": "58dbd27d16ac9f79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tilted Playing Field.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tilted Playing Field"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,13 +212,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d5cbf25fb096652",
+  "active": "58dbd27d16ac9f79",
   "lastOpenFiles": [
-    "ORI/Start at the end.md",
     "Surface vs Solve.md",
+    "Tilted Playing Field.md",
+    "⭐️ Open Research Institute.md",
+    "ORI/Start at the end.md",
     "ORI/Why you should have an open notebook.md",
     "ORI/90-10 prediction.md",
-    "⭐️ Open Research Institute.md",
     "ORI/Frontier of Knowledge Quiz.md",
     "ORI/Levelling Guide.md",
     "memetics/💡 The \"just ask\" principle.md",
@@ -228,7 +243,6 @@
     "🛠️ Org Chart for Spaceship Earth.md",
     "Daily Notes/2025-05-20.md",
     "memetics/Egregore Mic Check.md",
-    "memetics/Blackbird Narrative Analysis.md",
     "_/attachments /Pasted image 20250520093720.png",
     "_/attachments /Pasted image 20250520090904.png",
     "_/attachments /Geopolitics - Blackbird.AI's Constellation Narrative Intelligence Platform.mp4",
