@@ -2,6 +2,8 @@ The open research institute is where you write down weekly what you think is at 
 
 You graduate when you contribute a novel piece (make a 90/10 prediction) that's your degree. 
 
+See: https://openresearchinstitute.org/
+
 ----- 
 
 notes
