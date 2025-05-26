@@ -1,0 +1,1 @@
+You learn MUCH faster if you start with the end goal
