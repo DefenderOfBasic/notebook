@@ -1,6 +1,6 @@
 The open research institute is where you write down weekly what you think is at the frontier of human knowledge, until you find it. That's the onboarding. 
 
-You graduate when you contribute a novel piece (make a 90/10 prediction) that's your degree. 
+You graduate when you contribute a novel piece (make a 90/10 prediction, as in, a prediction that most people get wrong, and you are in the minority that get it right) that's your degree. 
 
 See: https://openresearchinstitute.org/
 
