@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memetics/💡 Push vs Pull.md",
+                "file": "_/Religion Was Discovered, Not Invented.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💡 Push vs Pull"
+              "title": "Religion Was Discovered, Not Invented"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "start with the end",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,8 +193,19 @@
               "icon": "lucide-list",
               "title": "Outline of notes"
             }
+          },
+          {
+            "id": "ee5f634de456fc94",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -215,6 +225,8 @@
   },
   "active": "01877e62476f0c52",
   "lastOpenFiles": [
+    "_/How the Twitter Community Archive started.md",
+    "memetics/💡 Push vs Pull.md",
     "memetics/Cultural Negative Space.md",
     "Daily Notes/xAI-live-twitter-search/Memetics Discourse.md",
     "ORI/Start at the end.md",
@@ -229,7 +241,6 @@
     "memetics/💡 The \"just ask\" principle.md",
     "memetics/💡Open Exclusionary Policy.md",
     "memetics/💡 Meta-memes.md",
-    "memetics/💡 Push vs Pull.md",
     "Marketing companies into existence.md",
     "Daily Notes/xAI-live-twitter-search/⭐️ Overall impression.md",
     "Daily Notes/2025-05-22.md",
@@ -240,7 +251,6 @@
     "memetics/Psyop vs Vibe.md",
     "_/attachments /Pasted image 20250522094344.png",
     "_/attachments /Pasted image 20250522094330.png",
-    "_/How the Twitter Community Archive started.md",
     "Daily Notes/xAI-live-twitter-search",
     "🛠️ Org Chart for Spaceship Earth.md",
     "Daily Notes/2025-05-20.md",
