@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is art?.md",
+                "file": "⭐️ Open Research Institute.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is art?"
+              "title": "⭐️ Open Research Institute"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "405bd70fc15d9233",
   "lastOpenFiles": [
-    "ORI/90-10 prediction.md",
     "What is art?.md",
+    "ORI/90-10 prediction.md",
     "Tilted Playing Field.md",
     "⭐️ Open Research Institute.md",
     "ORI/Untestable Axioms.md",
