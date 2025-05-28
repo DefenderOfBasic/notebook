@@ -11,3 +11,9 @@ notes
 - Open Source Society University - https://github.com/ossu 
 - Terrance Tao has an "open notebook" too!! https://terrytao.wordpress.com/ 
 - Play reply game with blogs 
+
+This is a VERY good question (the answer is a fractal):
+
+> How do you know if an idea is new?
+> https://x.com/amandabradford/status/1927202963061080130
+

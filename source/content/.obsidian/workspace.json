@@ -8,77 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2320759e5269c0de",
+            "id": "405bd70fc15d9233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ORI/Why you should have an open notebook.md",
+                "file": "What is art?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why you should have an open notebook"
+              "title": "What is art?"
             }
           },
           {
-            "id": "8d5cbf25fb096652",
+            "id": "34af3bc94490d9d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surface vs Solve.md",
+                "file": "ORI/90-10 prediction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Surface vs Solve"
-            }
-          },
-          {
-            "id": "58dbd27d16ac9f79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ORI/Start at the end.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Start at the end"
-            }
-          },
-          {
-            "id": "01877e62476f0c52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marketing companies into existence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Marketing companies into existence"
-            }
-          },
-          {
-            "id": "f594ffd95637126f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ORI/Retroactive funding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Retroactive funding"
+              "title": "90-10 prediction"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,16 +195,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f594ffd95637126f",
+  "active": "34af3bc94490d9d7",
   "lastOpenFiles": [
-    "Marketing companies into existence.md",
+    "What is art?.md",
+    "Tilted Playing Field.md",
+    "⭐️ Open Research Institute.md",
+    "ORI/90-10 prediction.md",
+    "ORI/Untestable Axioms.md",
+    "ORI/Why you should have an open notebook.md",
+    "ORI/Start at the end.md",
+    "ORI/Levelling Guide.md",
     "\"Half Art Half Science\" is not the maximum it can be.md",
+    "Marketing companies into existence.md",
+    "ORI/Retroactive funding.md",
     "_/Anatomy of an Internet Argument.md",
     "_/🛠️ Org Chart for Spaceship Earth.md",
     "Surface vs Solve.md",
-    "Tilted Playing Field.md",
     "Daily Notes/2025-05-22.md",
-    "⭐️ Open Research Institute.md",
     "index.md",
     "_/Consciousness.md",
     "_/Religion Was Discovered, Not Invented.md",
@@ -254,17 +219,10 @@
     "memetics/💡 Push vs Pull.md",
     "memetics/Cultural Negative Space.md",
     "Daily Notes/xAI-live-twitter-search/Memetics Discourse.md",
-    "ORI/Start at the end.md",
     "memetics/📕 Egregore.md",
-    "ORI/Why you should have an open notebook.md",
-    "ORI/90-10 prediction.md",
     "ORI/Frontier of Knowledge Quiz.md",
-    "ORI/Levelling Guide.md",
     "memetics/💡 The \"just ask\" principle.md",
     "memetics/💡Open Exclusionary Policy.md",
-    "memetics/💡 Meta-memes.md",
-    "Daily Notes/xAI-live-twitter-search/⭐️ Overall impression.md",
-    "Daily Notes/xAI-live-twitter-search/Tpot Summary.md",
     "_/attachments /Pasted image 20250522094344.png",
     "_/attachments /Pasted image 20250522094330.png",
     "Daily Notes/xAI-live-twitter-search",

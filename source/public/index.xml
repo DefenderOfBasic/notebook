@@ -6,6 +6,12 @@
       <description>Last 10 notes on ✍️ Defender&#039;s notebook</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>What is art?</title>
+    <link>https://defenderofbasic.github.io/notebook/What-is-art</link>
+    <guid>https://defenderofbasic.github.io/notebook/What-is-art</guid>
+    <description>We’ve figured it out.</description>
+    <pubDate>Wed, 28 May 2025 16:22:52 GMT</pubDate>
+  </item><item>
     <title>Tilted Playing Field</title>
     <link>https://defenderofbasic.github.io/notebook/Tilted-Playing-Field</link>
     <guid>https://defenderofbasic.github.io/notebook/Tilted-Playing-Field</guid>
@@ -23,6 +29,12 @@
     <guid>https://defenderofbasic.github.io/notebook/Surface-vs-Solve</guid>
     <description>The side mirror blindspot sensor warns you when a car is in your blindspot. It makes the decision FOR you (safe, or not safe to turn). If it fails, you have no way to know this.</description>
     <pubDate>Mon, 26 May 2025 12:34:30 GMT</pubDate>
+  </item><item>
+    <title>90-10 prediction</title>
+    <link>https://defenderofbasic.github.io/notebook/ORI/90-10-prediction</link>
+    <guid>https://defenderofbasic.github.io/notebook/ORI/90-10-prediction</guid>
+    <description>This is when you make a prediction that: MOST people vote one way, and you are in the minority AND you are right What that demonstrates is that you are on the frontier ...</description>
+    <pubDate>Mon, 26 May 2025 12:32:41 GMT</pubDate>
   </item><item>
     <title>💡 The &quot;just ask&quot; principle</title>
     <link>https://defenderofbasic.github.io/notebook/memetics/%F0%9F%92%A1-The-%22just-ask%22-principle</link>
@@ -53,18 +65,6 @@
     <guid>https://defenderofbasic.github.io/notebook/Daily-Notes/xAI-live-twitter-search/World-Discourse</guid>
     <description>Prompt Provide me a digest of world news in the last 24 hours. Answer Here is a digest of world news from the last 24 hours, based on available information from recent web sources.</description>
     <pubDate>Thu, 22 May 2025 13:14:31 GMT</pubDate>
-  </item><item>
-    <title>Memetics Discourse</title>
-    <link>https://defenderofbasic.github.io/notebook/Daily-Notes/xAI-live-twitter-search/Memetics-Discourse</link>
-    <guid>https://defenderofbasic.github.io/notebook/Daily-Notes/xAI-live-twitter-search/Memetics-Discourse</guid>
-    <description>Prompt Provide me a digest of the discourse in the last 24 hours about memetics, memetic warfare, propaganda, etc. Especially anything about ‘metamemes’ (these are memes that affect the host’s epistemology, and therefore change the substrate of how all memes spread) Answer Based on the available information from online discussions, particularly posts found on social media platforms like X, there has been limited but notable discourse in the last 24 hours (as of the most recent data available up to May 20, 2025) regarding memetics, memetic warfare, propaganda, and related concepts.</description>
-    <pubDate>Thu, 22 May 2025 13:14:22 GMT</pubDate>
-  </item><item>
-    <title>2025-05-22</title>
-    <link>https://defenderofbasic.github.io/notebook/Daily-Notes/2025-05-22</link>
-    <guid>https://defenderofbasic.github.io/notebook/Daily-Notes/2025-05-22</guid>
-    <description> Attention devs: the xAI API just got A LOT smarter. With Live Search, Grok can now search through realtime data from 𝕏, the internet, trending news, and more.</description>
-    <pubDate>Thu, 22 May 2025 13:07:47 GMT</pubDate>
   </item>
     </channel>
   </rss>
