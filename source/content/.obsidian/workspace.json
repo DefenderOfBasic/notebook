@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memetics/Human Memome Project.md",
+                "file": "Cognitive Lightcone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Human Memome Project"
+              "title": "Cognitive Lightcone"
+            }
+          },
+          {
+            "id": "7c1f78283d3baa0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epistemic Literacy Tests.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Epistemic Literacy Tests"
             }
           },
           {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,10 +237,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eed4c6253566049e",
+  "active": "7c1f78283d3baa0d",
   "lastOpenFiles": [
-    "Human Superorganism is a Baby.md",
     "Cognitive Lightcone.md",
+    "Epistemic Literacy Tests.md",
+    "memetics/Human Memome Project.md",
+    "Human Superorganism is a Baby.md",
     "What is art?.md",
     "_/templates/Numbered note.md",
     "_/templates",
@@ -250,8 +266,6 @@
     "_/Consciousness.md",
     "_/Religion Was Discovered, Not Invented.md",
     "_/How the Twitter Community Archive started.md",
-    "memetics/💡 Push vs Pull.md",
-    "memetics/Cultural Negative Space.md",
     "_/attachments /Pasted image 20250522094344.png",
     "_/attachments /Pasted image 20250522094330.png",
     "Daily Notes/xAI-live-twitter-search",
