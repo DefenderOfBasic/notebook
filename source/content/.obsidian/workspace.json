@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Superorganism is a Baby.md",
+                "file": "memetics/Human Memome Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Human Superorganism is a Baby"
+              "title": "Human Memome Project"
             }
           },
           {
@@ -225,8 +225,8 @@
   },
   "active": "eed4c6253566049e",
   "lastOpenFiles": [
-    "Cognitive Lightcone.md",
     "Human Superorganism is a Baby.md",
+    "Cognitive Lightcone.md",
     "What is art?.md",
     "_/templates/Numbered note.md",
     "_/templates",
