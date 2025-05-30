@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8ad1fec1d017e17",
+  "active": "eed4c6253566049e",
   "lastOpenFiles": [
-    "Human Superorganism is a Baby.md",
     "Cognitive Lightcone.md",
+    "Human Superorganism is a Baby.md",
     "What is art?.md",
     "_/templates/Numbered note.md",
     "_/templates",
