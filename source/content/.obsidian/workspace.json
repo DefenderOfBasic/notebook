@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Human Superorganism is a Baby"
             }
+          },
+          {
+            "id": "f8ad1fec1d017e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Lightcone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cognitive Lightcone"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,10 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eed4c6253566049e",
+  "active": "f8ad1fec1d017e17",
   "lastOpenFiles": [
-    "What is art?.md",
     "Human Superorganism is a Baby.md",
+    "Cognitive Lightcone.md",
+    "What is art?.md",
     "_/templates/Numbered note.md",
     "_/templates",
     "\"Half Art Half Science\" is not the maximum it can be.md",
@@ -237,7 +252,6 @@
     "_/How the Twitter Community Archive started.md",
     "memetics/💡 Push vs Pull.md",
     "memetics/Cultural Negative Space.md",
-    "Daily Notes/xAI-live-twitter-search/Memetics Discourse.md",
     "_/attachments /Pasted image 20250522094344.png",
     "_/attachments /Pasted image 20250522094330.png",
     "Daily Notes/xAI-live-twitter-search",
