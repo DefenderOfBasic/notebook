@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "\"Half Art Half Science\" is not the maximum it can be"
             }
+          },
+          {
+            "id": "b16e4d517129f307",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "405bd70fc15d9233",
+  "active": "b16e4d517129f307",
   "lastOpenFiles": [
+    "\"Half Art Half Science\" is not the maximum it can be.md",
     "ORI/Universal Principles/Translation.md",
     "ORI/Universal Principles/Chaos is unpredictable.md",
     "Tilted Playing Field.md",
@@ -194,7 +206,6 @@
     "ORI/Why you should have an open notebook.md",
     "ORI/Start at the end.md",
     "ORI/Levelling Guide.md",
-    "\"Half Art Half Science\" is not the maximum it can be.md",
     "ORI/Retroactive funding.md",
     "_/Anatomy of an Internet Argument.md",
     "_/🛠️ Org Chart for Spaceship Earth.md",
