@@ -1,5 +1,5 @@
 
-
+Doug hofstader 
 
 > our boy Michael Levin is out there describing IQ tests for cells!
 > 
