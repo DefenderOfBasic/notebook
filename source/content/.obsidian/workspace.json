@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025-05-31.md",
+                "file": "What is art?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-31"
+              "title": "What is art?"
+            }
+          },
+          {
+            "id": "cb0bf2d0eed718c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Destigmatize being dumb (and smart).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Destigmatize being dumb (and smart)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,12 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68d9187e87d2c1f7",
+  "active": "cb0bf2d0eed718c5",
   "lastOpenFiles": [
+    "Daily Notes/2025-05-31.md",
+    "Destigmatize being dumb (and smart).md",
+    "What is art?.md",
     "_/attachments /Pasted image 20250531110225.png",
     "The best possible world is bottlenecked on recognition.md",
-    "Daily Notes/2025-05-31.md",
-    "What is art?.md",
     "Children can be better at epistemology than adults.md",
     "Epistemic Literacy Tests.md",
     "Cognitive Lightcone.md",
@@ -242,7 +257,6 @@
     "_/backup_may_2025/Projects",
     "_/backup_may_2025/Pasted image 20250425095002.png",
     "_/backup_may_2025/Open Research Institute",
-    "_/attachments /Pasted image 20250512094604.png",
-    "_/attachments /Pasted image 20250512094552.png"
+    "_/attachments /Pasted image 20250512094604.png"
   ]
 }
