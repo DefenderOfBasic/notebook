@@ -13,9 +13,9 @@ When I say "pull" I'm describing how someone absorbs a new idea. Like, let's say
 1. Explain why they are good for you
 2. Find someone you trust, pay them to say, "these are actually good for you"
 
-(2) is an epistemic trick. It "overrides" the resistance you had to the idea, it does NOT resolve it. It is "push". 
+(2) is an epistemic trick. It "overrides" the resistance you had to the idea, it does NOT resolve it. It is "push". It's like a trojan horse of ideas.  
 
-(1) is "pull" because it 
+(1) is "pull" because it relies on you choosing to adopt it. It tries to go the opposite way, surfacing any resistance instead of trying to override it. It WANTS to discover why you think the tariffs are bad and either decide (a) you're actually right, they're bad or (b) your understanding of the situation is incorrect, here's why.
 
 ---
 
