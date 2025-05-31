@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Good Reply Game Workshop.md",
+                "file": "memetics/💡 Push vs Pull.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Good Reply Game Workshop"
+              "title": "💡 Push vs Pull"
             }
           }
         ],
@@ -225,8 +225,8 @@
   },
   "active": "d849dc7cb60f45eb",
   "lastOpenFiles": [
-    "What is art?.md",
     "Good Reply Game Workshop.md",
+    "What is art?.md",
     "Daily Notes/2025-05-31.md",
     "memetics/💡 Push vs Pull.md",
     "Destigmatize being dumb (and smart).md",
