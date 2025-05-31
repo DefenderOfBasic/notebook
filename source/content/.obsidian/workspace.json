@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memetics/💡 Push vs Pull.md",
+                "file": "What is art?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💡 Push vs Pull"
+              "title": "What is art?"
             }
           }
         ],
@@ -223,12 +223,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d849dc7cb60f45eb",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Good Reply Game Workshop.md",
     "What is art?.md",
-    "Daily Notes/2025-05-31.md",
+    "The Dynamics of an Upward Spiral.md",
     "memetics/💡 Push vs Pull.md",
+    "Good Reply Game Workshop.md",
+    "Daily Notes/2025-05-31.md",
     "Destigmatize being dumb (and smart).md",
     "_/attachments /Pasted image 20250531110225.png",
     "The best possible world is bottlenecked on recognition.md",
@@ -252,7 +253,6 @@
     "ORI/Start at the end.md",
     "ORI/Levelling Guide.md",
     "ORI/Retroactive funding.md",
-    "_/Anatomy of an Internet Argument.md",
     "_/attachments /Pasted image 20250522094344.png",
     "_/attachments /Pasted image 20250522094330.png",
     "Daily Notes/xAI-live-twitter-search",
