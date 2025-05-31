@@ -10,4 +10,4 @@ Example: dinosaurs
 
 Recording "how we know" allows you to cleanly remove pieces of knowledge from your world model without everything collapsing. 
 
-So when it's found out that dinosaurs did NOT look like giant lizards, you don't say "well shit, if they were wrong about this, what ELSE are they wrong about?" and go through a crises of faith. You already knew it was just a guess, so it being updated isn't that surprising. 
+So when it's found out that dinosaurs did NOT look like giant lizards, you don't say "well shit, if they were wrong about this, what ELSE are they wrong about?" and go through a crisis of faith. You already knew it was just a guess, so it being updated isn't that surprising. 
