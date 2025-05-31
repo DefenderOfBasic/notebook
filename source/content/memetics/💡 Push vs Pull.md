@@ -1,1 +1,4 @@
+The fundamental pr
+
+
 TODO: explain this principle of top-down pushing an idea (overriding internal resistance), vs "pull", presenting the idea, and if any resistance pops up, you resolve that. Creates "cleaner" integration and spread. Built in feedback 

@@ -12,10 +12,6 @@ We can keep writing essays about this and checking the semantic embeddings of hu
 
 Welcome to the Human Memome Project
 
----
-
-
-
 ----
 
 
