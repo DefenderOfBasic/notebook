@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Children can be better at epistemology than adults.md",
+                "file": "What is art?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Children can be better at epistemology than adults"
+              "title": "What is art?"
             }
           }
         ],
@@ -195,15 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68d9187e87d2c1f7",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Untitled.md",
+    "What is art?.md",
+    "The best possible world is bottlenecked on recognition.md",
     "Children can be better at epistemology than adults.md",
     "Epistemic Literacy Tests.md",
     "Cognitive Lightcone.md",
     "memetics/Human Memome Project.md",
     "Human Superorganism is a Baby.md",
-    "What is art?.md",
     "_/templates/Numbered note.md",
     "_/templates",
     "\"Half Art Half Science\" is not the maximum it can be.md",
