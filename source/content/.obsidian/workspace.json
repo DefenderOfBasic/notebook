@@ -8,77 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c1f78283d3baa0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epistemic Literacy Tests.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Epistemic Literacy Tests"
-            }
-          },
-          {
-            "id": "68d9187e87d2c1f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What is art?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What is art?"
-            }
-          },
-          {
-            "id": "cb0bf2d0eed718c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What is art?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What is art?"
-            }
-          },
-          {
-            "id": "d849dc7cb60f45eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What is art?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What is art?"
-            }
-          },
-          {
             "id": "5f4a8df057c3915b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Our Universe is Designed by Minds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Our Universe is Designed by Minds"
+            }
+          },
+          {
+            "id": "982a22f1e4972bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How can a pocket watch evolve.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How can a pocket watch evolve"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,10 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f4a8df057c3915b",
+  "active": "982a22f1e4972bba",
   "lastOpenFiles": [
+    "How can a pocket watch evolve.md",
+    "Our Universe is Designed by Minds.md",
     "The Dynamics of an Upward Spiral.md",
-    "Untitled.md",
     "What is art?.md",
     "memetics/💡 Push vs Pull.md",
     "Good Reply Game Workshop.md",
@@ -266,7 +225,6 @@
     "ORI/Untestable Axioms.md",
     "ORI/Why you should have an open notebook.md",
     "ORI/Start at the end.md",
-    "ORI/Levelling Guide.md",
     "_/attachments /Pasted image 20250522094344.png",
     "_/attachments /Pasted image 20250522094330.png",
     "Daily Notes/xAI-live-twitter-search",
