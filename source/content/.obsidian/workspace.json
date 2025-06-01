@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Two ways to communicate with an entire mind"
             }
+          },
+          {
+            "id": "27bfc756558c8849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The cost of negativity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The cost of negativity"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -237,10 +251,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8935657ea5ea18fd",
+  "active": "27bfc756558c8849",
   "lastOpenFiles": [
-    "Destigmatize being dumb (and smart).md",
+    "The cost of negativity.md",
     "Two ways to communicate with an entire mind.md",
+    "Destigmatize being dumb (and smart).md",
     "How to publish a new religion in 2025.md",
     "Daily Notes/2025-05-31.md",
     "🔭 Spaceship Earth.md",
@@ -266,7 +281,6 @@
     "Tilted Playing Field.md",
     "Surface vs Solve.md",
     "Marketing companies into existence.md",
-    "⭐️ Open Research Institute.md",
     "_/attachments /Pasted image 20250522094344.png",
     "_/attachments /Pasted image 20250522094330.png",
     "Daily Notes/xAI-live-twitter-search",
