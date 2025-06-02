@@ -8,76 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f4a8df057c3915b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Our Universe is Designed by Minds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Our Universe is Designed by Minds"
-            }
-          },
-          {
-            "id": "a0958903221e35ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Solution to the Arrow of Time.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Solution to the Arrow of Time"
-            }
-          },
-          {
-            "id": "f5d4d31608d75fe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2025-05-31.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-31"
-            }
-          },
-          {
-            "id": "f3cd167f36a975f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Destigmatize being dumb (and smart).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Destigmatize being dumb (and smart)"
-            }
-          },
-          {
-            "id": "8935657ea5ea18fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Two ways to communicate with an entire mind.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Two ways to communicate with an entire mind"
-            }
-          },
-          {
             "id": "27bfc756558c8849",
             "type": "leaf",
             "state": {
@@ -90,9 +20,23 @@
               "icon": "lucide-file",
               "title": "How to publish a new religion in 2025"
             }
+          },
+          {
+            "id": "0028d9717023e3a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_/Consciousness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consciousness"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,14 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27bfc756558c8849",
+  "active": "0028d9717023e3a0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "How to publish a new religion in 2025.md",
     "Daily Notes/2025-05-31.md",
     "_/attachments /Pasted image 20250601192722.png",
     "The cost of negativity.md",
     "Two ways to communicate with an entire mind.md",
     "Destigmatize being dumb (and smart).md",
-    "How to publish a new religion in 2025.md",
     "🔭 Spaceship Earth.md",
     "The Solution to the Arrow of Time.md",
     "Our Universe is Designed by Minds.md",
