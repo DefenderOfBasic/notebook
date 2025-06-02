@@ -1,5 +1,5 @@
 By _Open Memetics Institute_ 
-_Specifically @ Defender's Cluster_
+_@ Defender's Cluster_
 
 Compute the semantic embeddings of your holy texts, and ONLY publish the semantic embeddings, not the source document. Publish a hash of the source as well.
 
