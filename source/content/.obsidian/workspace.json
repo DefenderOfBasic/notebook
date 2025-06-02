@@ -49,8 +49,7 @@
               "title": "When to switch to a new paradigm?"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5004348754883
+    "width": 317.5004348754883
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -210,11 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b48266ea830aa822",
+  "active": "27bfc756558c8849",
   "lastOpenFiles": [
-    "Peer Review Goes Both Ways.md",
-    "When to switch to a new paradigm?.md",
     "_/Consciousness.md",
+    "When to switch to a new paradigm?.md",
+    "Peer Review Goes Both Ways.md",
     "Untitled.md",
     "How to publish a new religion in 2025.md",
     "Daily Notes/2025-05-31.md",
