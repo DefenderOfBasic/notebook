@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Alignment is a fake problem.md",
+                "file": "AI Alignment doesn't need more attention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Alignment is a fake problem"
+              "title": "AI Alignment doesn't need more attention"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5004348754883
+    "width": 247.50043487548828
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -226,7 +226,7 @@
   "active": "ff5a544f9e291bdc",
   "lastOpenFiles": [
     "Children can be better at epistemology than adults.md",
-    "AI Alignment is a fake problem.md",
+    "AI Alignment doesn't need more attention.md",
     "Scissor Statement is a Scissor Statement?.md",
     "Our Universe is Designed by Minds.md",
     "The Current Bottleneck to Coordination.md",
