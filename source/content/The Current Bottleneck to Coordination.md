@@ -1,1 +1,1 @@
-It's theory. 
+It's theory. We pretty much figured out most of the theory (ORI is coordination infrastructure, @ISeePattern, @SpeakerJohnAsh, and a few others )
