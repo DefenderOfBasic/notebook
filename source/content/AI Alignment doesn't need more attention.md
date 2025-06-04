@@ -4,7 +4,4 @@ We know the correct solution to AI alignment has to be bottom up. We also know t
 
 So, what are we doing here? Who's working on the human alignment problem?
 
-
-```
-Reminder: when peer reviewing, just because a person says "this is bad", doesn't mean the thing is bad. It's possible they don't understand it & are missing something!
-```
+When a human asks an AI to do something that is dangerous for others, your on
