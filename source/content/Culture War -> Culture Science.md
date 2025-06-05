@@ -1,0 +1,2 @@
+- If you really think the other side is evil, you MUST try to predict them. This is how you change them, or outcompete them
+	- (you can')
