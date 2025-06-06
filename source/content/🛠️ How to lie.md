@@ -1,3 +1,4 @@
 - Get that scene from Andor
+- The source of the truth matters 
 - Also describe a real psyop that I saw?
 	- 
