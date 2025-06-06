@@ -16,4 +16,4 @@ Part of this would be a meme that traces itself as it spreads. We can do this WI
 
 Each person linking back to where they heard it from, can then ask THAT person, and they'll share if they are within each other's trust network.
 
-All you need is ONE "unbroken chain" across the entire network. Not all of humanity in one trust network, but ONE trust network that slices across humanity
+All you need is ONE "unbroken chain" across the entire network. **Not all of humanity in one trust network, but ONE trust network that slices across humanity**
