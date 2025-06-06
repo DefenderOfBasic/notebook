@@ -1,0 +1,3 @@
+- Get that scene from Andor
+- Also describe a real psyop that I saw?
+	- 

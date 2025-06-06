@@ -83,16 +83,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Invention of Stories.md",
+                "file": "⭐️ Open Research Institute.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Invention of Stories"
+              "title": "⭐️ Open Research Institute"
+            }
+          },
+          {
+            "id": "273d24a65792d64e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🛠️ How to lie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🛠️ How to lie"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -251,10 +265,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc7a82b693deb1a0",
+  "active": "273d24a65792d64e",
   "lastOpenFiles": [
-    "Culture War -> Culture Science.md",
+    "⭐️ Open Research Institute.md",
+    "🛠️ How to lie.md",
     "The Invention of Stories.md",
+    "Culture War -> Culture Science.md",
     "The cost of negativity.md",
     "The Music of the Cosmos.md",
     "Stop telling people to \"read this book\".md",
@@ -279,8 +295,6 @@
     "Peer Review Goes Both Ways.md",
     "Daily Notes/2025-05-31.md",
     "_/attachments /Pasted image 20250601192722.png",
-    "Two ways to communicate with an entire mind.md",
-    "Destigmatize being dumb (and smart).md",
     "_/attachments /Pasted image 20250531110225.png",
     "_/templates",
     "_/attachments /Pasted image 20250522094344.png",
