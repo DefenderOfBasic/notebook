@@ -4,4 +4,3 @@ The Open Memetics Institute is open to all, except dark memetics (TODO: explain 
 
 --------
 
-An 
