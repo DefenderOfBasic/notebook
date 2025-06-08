@@ -8,7 +8,13 @@ The same is true for time.
 
 ----
 
-That which is possible, 
+
+
+---
+
+> my world model at this point - anything which can exist, exists
+> https://x.com/attentionmech/status/1931490218881782020
+
 
 ----
 
