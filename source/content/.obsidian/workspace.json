@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctors need to say \"I don't know\" more.md",
+                "file": "Why is evil incompetent?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Doctors need to say \"I don't know\" more"
+              "title": "Why is evil incompetent?"
             }
           }
         ],
@@ -198,8 +198,9 @@
   },
   "active": "3b6f931505dc1a08",
   "lastOpenFiles": [
-    "_/attachments /Pasted image 20250608110638.png",
     "Doctors need to say \"I don't know\" more.md",
+    "Why is evil incompetent?.md",
+    "_/attachments /Pasted image 20250608110638.png",
     "The Arrow of Time.md",
     "I noticed an unusual gap in your semantic graph.md",
     "Teaching is Practicing Metacognition.md",
@@ -240,7 +241,6 @@
     "_/books",
     "ORI/Universal Principles",
     "_/attachments /Pasted image 20250514201506.png",
-    "_/attachments /Pasted image 20250512120433.png",
     "ORI",
     "memetics",
     "_/backup_may_2025/Projects",
