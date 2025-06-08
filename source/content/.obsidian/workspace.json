@@ -8,119 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5698ab309897e78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Our Universe is Designed by Minds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Our Universe is Designed by Minds"
-            }
-          },
-          {
-            "id": "0162d3bd44eb5c4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Current Bottleneck to Coordination.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Current Bottleneck to Coordination"
-            }
-          },
-          {
-            "id": "f4fcaf01cb028b21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Children can be better at epistemology than adults.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Children can be better at epistemology than adults"
-            }
-          },
-          {
-            "id": "ff5a544f9e291bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stop telling people to \"read this book\".md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stop telling people to \"read this book\""
-            }
-          },
-          {
-            "id": "1668cd05a755e357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Culture War -> Culture Science.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Culture War -> Culture Science"
-            }
-          },
-          {
-            "id": "bc7a82b693deb1a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⭐️ Open Research Institute.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "⭐️ Open Research Institute"
-            }
-          },
-          {
-            "id": "273d24a65792d64e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "memetics/💡Open Exclusionary Policy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "💡Open Exclusionary Policy"
-            }
-          },
-          {
             "id": "792e7008a7b562eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Normie Baseline.md",
+                "file": "Teaching is Practicing Metacognition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Normie Baseline"
+              "title": "Teaching is Practicing Metacognition"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,7 +183,7 @@
   "active": "792e7008a7b562eb",
   "lastOpenFiles": [
     "memetics/💡Open Exclusionary Policy.md",
-    "The Normie Baseline.md",
+    "Teaching is Practicing Metacognition.md",
     "🛠️ How to lie.md",
     "⭐️ Open Research Institute.md",
     "The Invention of Stories.md",
