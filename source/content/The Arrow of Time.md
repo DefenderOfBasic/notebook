@@ -8,6 +8,10 @@ The same is true for time.
 
 ----
 
+That which is possible, 
+
+----
+
 > Linear time is like a list that you iterate through but only in one direction 
 >
    You can look ahead or behind where the pointer is, but you can’t change where the pointer is (pointer is eternal now)
@@ -16,3 +20,6 @@ The same is true for time.
 ---
 
 > The brain is the interface between consciousness and the material plane with its linear time.
+
+----
+
