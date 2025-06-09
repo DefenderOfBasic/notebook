@@ -15,4 +15,16 @@ Places to find me:
 
 # Friends / collaborators / advisors 
 
-TODO
+
+**Loofah**
+- https://www.loofah.me/
+
+**Lukas Hammarström**
+_On wisdom, AI. On spiral dynamics for man & machine._
+
+- https://www.tessus.com/
+- https://www.youtube.com/@lukashammerstorm/videos 
+
+**Rebel Epistemographer**
+_My anonymous professor friend_
+- https://rebelepistemographer.substack.com/
