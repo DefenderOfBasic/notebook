@@ -1,2 +1,0 @@
-- Aella lives a happy, fulfilled life
-- 
