@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Doctors need to say \"I don't know\" more.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Doctors need to say \"I don't know\" more"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "44dbfeca0556e613",
   "lastOpenFiles": [
+    "index.md",
     "Current thing/Israel - Palestine.md",
     "Current thing/Aella.md",
     "Why is evil incompetent?.md",
@@ -240,7 +241,6 @@
     "Children can be better at epistemology than adults.md",
     "Scissor Statement is a Scissor Statement?.md",
     "Our Universe is Designed by Minds.md",
-    "The Current Bottleneck to Coordination.md",
     "_/attachments /Pasted image 20250601192722.png",
     "_/attachments /Pasted image 20250531110225.png",
     "_/templates",
