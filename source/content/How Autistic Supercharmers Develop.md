@@ -14,4 +14,4 @@ You must let go of the comfort of pre-planned scripts. They are training wheels 
 
 All you have to do is (1) prompt a human AND (2) predict their response ahead of time. Almost like an LLM. Try to have a target response in mind, and think of what prompt would trigger that response. 
 
-You can try this on the internet. Wade into any emotionally charged topic (like politics), ask someone an earnest question, notice how many things trigger an angry response. Keep trying (with different people) until you get an earnest response. There is a pattern to all humans. You can crack it. The patterns you find translate to real life. 
+You can try this on the internet. Wade into any emotionally charged topic (like politics), ask someone an earnest question, notice how many things trigger an angry response. Keep trying (with different people) until you get an earnest response. There is a pattern to all humans. You can crack it. The patterns you find online translate to real life. 
