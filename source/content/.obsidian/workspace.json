@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "ce80637e78a97a47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What's the best media that paints a \"picture of humanity\"?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What's the best media that paints a \"picture of humanity\"?"
+            }
+          },
+          {
             "id": "3b6f931505dc1a08",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,10 +237,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1859980553858b99",
+  "active": "ce80637e78a97a47",
   "lastOpenFiles": [
-    "What is art?.md",
     "How Autistic Supercharmers Develop.md",
+    "What's the best media that paints a \"picture of humanity\"?.md",
+    "What is art?.md",
     "Current thing/Aella's haters are not stupid.md",
     "The Arrow of Time.md",
     "Doctors need to say \"I don't know\" more.md",
@@ -254,7 +269,6 @@
     "_/attachments /Pasted image 20250604112001.png",
     "memetics/Brian Nosek on believing in culture change.md",
     "AI Alignment doesn't need more attention.md",
-    "Children can be better at epistemology than adults.md",
     "_/attachments /Pasted image 20250601192722.png",
     "_/attachments /Pasted image 20250531110225.png",
     "_/templates",
