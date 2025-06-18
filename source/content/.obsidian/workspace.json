@@ -92,6 +92,20 @@
             }
           },
           {
+            "id": "2a644970004abf3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "\"If it were conscious it would have tried to communicate\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "\"If it were conscious it would have tried to communicate\""
+            }
+          },
+          {
             "id": "44dbfeca0556e613",
             "type": "leaf",
             "state": {
@@ -106,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -265,10 +279,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6729595e0cc04ead",
+  "active": "2a644970004abf3b",
   "lastOpenFiles": [
-    "Epistemic shortcuts are necessary, but some grow your awareness, & others shrink it.md",
     "Daily Notes/2025-06-18.md",
+    "\"If it were conscious it would have tried to communicate\".md",
+    "Epistemic shortcuts are necessary, but some grow your awareness, & others shrink it.md",
     "Current thing/Israel - Palestine.md",
     "All Humans Seek Truth.md",
     "What's the best media that paints a \"picture of humanity\"?.md",
@@ -295,7 +310,6 @@
     "🔭 Org Chart for Spaceship Earth.md",
     "memetics/People.md",
     "Too Much Binding Is Harmful.md",
-    "Daily Notes/2025-06-04.md",
     "_/attachments /Pasted image 20250604112001.png",
     "_/attachments /Pasted image 20250601192722.png",
     "_/attachments /Pasted image 20250531110225.png",
