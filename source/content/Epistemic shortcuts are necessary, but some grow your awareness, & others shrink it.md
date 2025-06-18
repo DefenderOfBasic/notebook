@@ -11,6 +11,10 @@ The first is easy, but fragile, and easily abused.
 The second grows their awareness, and ability to contribute back.
 
 
-# Epistemic shortcuts are necessary, but some grow your awareness, & others shrink it (2)
+# Epistemic shortcuts are necessary, but some grow your awareness, & others shrink it (2/2)
 
-Option 2 is ALWAYS the better answer. You should ALWAYS listen
+Option 2 is ALWAYS the better answer. You should ALWAYS listen to people who don't just tell you things, but tell you HOW they know, so that you can learn, but also contribute back (when they falter, you can correct them). This is win win for good actors
+
+Do you see why? That a good actor, a good leader, WANTS you to increase your awareness & ability to handle complexity, so he doesn't have to micro manage everyone, it requires less resources & leads to better outcomes. 
+
+The only time option 1 is used by a good actor is a temporary measure. When they can't solve the puzzle of how to explain it to you in a way that you'll understand & apply it on your own
