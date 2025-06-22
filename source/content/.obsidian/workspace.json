@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "The Uncanny Valley of Self Awareness.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50043487548828
+    "width": 253.50043487548828
   },
   "right": {
     "id": "ba1ec06a672fb227",
