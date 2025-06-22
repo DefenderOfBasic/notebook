@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "🛠️ Toolkit"
             }
+          },
+          {
+            "id": "2982b7e40e4964e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91aa71db2931ee53",
+  "active": "2982b7e40e4964e5",
   "lastOpenFiles": [
+    "memetics/🛠️ Toolkit.md",
     "Reviews/Smugbug.md",
     "There is No Source.md",
     "Reviews/ω@Faltz009.md",
@@ -199,7 +211,6 @@
     "memetics/💡 The \"just ask\" principle.md",
     "memetics/💡Open Exclusionary Policy.md",
     "memetics/📕 Egregore.md",
-    "memetics/🛠️ Toolkit.md",
     "memetics/🔎 The Backtier Problem.md",
     "memetics/🧪 An Open Experiment.md",
     "The Uncanny Valley of Self Awareness.md",
