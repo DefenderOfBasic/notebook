@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evil survives beneath the threshold of discernment.md",
+                "file": "⭐️ Open Research Institute.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evil survives beneath the threshold of discernment"
+              "title": "⭐️ Open Research Institute"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "strog",
+                "query": "predic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,6 +226,12 @@
   },
   "active": "3346d8d65d13dc62",
   "lastOpenFiles": [
+    "ORI/Why you should have an open notebook.md",
+    "ORI/Start at the end.md",
+    "ORI/Untestable Axioms.md",
+    "ORI/Retroactive funding.md",
+    "ORI/Peer review doubles as marketing.md",
+    "ORI/90-10 prediction.md",
     "Evil survives beneath the threshold of discernment.md",
     "Reviews/Smugbug.md",
     "Why is danger \"cool\" ?.md",
@@ -245,12 +252,6 @@
     "memetics/💡 Push vs Pull.md",
     "memetics/💡 The \"just ask\" principle.md",
     "memetics/💡Open Exclusionary Policy.md",
-    "memetics/📕 Egregore.md",
-    "memetics/🔎 The Backtier Problem.md",
-    "memetics/🧪 An Open Experiment.md",
-    "The Uncanny Valley of Self Awareness.md",
-    "\"If it were conscious it would have tried to communicate\".md",
-    "Daily Notes/2025-06-18.md",
     "Reviews",
     "Current thing",
     "_/attachments /Pasted image 20250608110638.png",
