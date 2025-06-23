@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reviews/ZotBot.md",
+                "file": "memetics/💡 Push vs Pull.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ZotBot"
+              "title": "💡 Push vs Pull"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "predic",
+                "query": "push",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,8 +226,8 @@
   },
   "active": "3346d8d65d13dc62",
   "lastOpenFiles": [
-    "⭐️ Open Research Institute.md",
     "Reviews/ZotBot.md",
+    "⭐️ Open Research Institute.md",
     "ORI/Why you should have an open notebook.md",
     "ORI/Start at the end.md",
     "ORI/Untestable Axioms.md",
