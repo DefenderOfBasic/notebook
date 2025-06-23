@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Should the Archives of.md",
+                "file": "Why is danger \"cool\" ?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Should the Archives of"
+              "title": "Why is danger \"cool\" ?"
             }
           }
         ],
@@ -212,7 +212,7 @@
   "active": "799cfedaf83b0731",
   "lastOpenFiles": [
     "Incompetent Manager.md",
-    "Should the Archives of.md",
+    "Why is danger \"cool\" ?.md",
     "memetics/🛠️ Toolkit.md",
     "Reviews/Smugbug.md",
     "There is No Source.md",
