@@ -9,4 +9,5 @@ Danger itself is NOT what we are attracted to. The _ability to take care of your
 
 We know that danger exists outside of our safe bubble, and we are attracted to those who can face it & survive. Those are the people we trust to keep us safe. Because they've proven it. No amount of rationalizing can change this felt truth. 
 
-_Max Zeigler ([@HaikuHeroics](@HaikuHeroics)) _
+_This essay is peer reviewed & endorsed by:_
+✅ _Max Zeigler ([@HaikuHeroics](@HaikuHeroics))_ 
