@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐️ Open Research Institute.md",
+                "file": "Reviews/ZotBot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⭐️ Open Research Institute"
+              "title": "ZotBot"
             }
           }
         ],
@@ -117,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,6 +225,8 @@
   },
   "active": "3346d8d65d13dc62",
   "lastOpenFiles": [
+    "⭐️ Open Research Institute.md",
+    "Reviews/ZotBot.md",
     "ORI/Why you should have an open notebook.md",
     "ORI/Start at the end.md",
     "ORI/Untestable Axioms.md",
@@ -250,8 +251,6 @@
     "memetics/💡 Meta-memes.md",
     "memetics/People.md",
     "memetics/💡 Push vs Pull.md",
-    "memetics/💡 The \"just ask\" principle.md",
-    "memetics/💡Open Exclusionary Policy.md",
     "Reviews",
     "Current thing",
     "_/attachments /Pasted image 20250608110638.png",
