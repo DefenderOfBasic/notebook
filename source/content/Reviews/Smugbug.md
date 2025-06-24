@@ -15,6 +15,13 @@ I feel like I need to start with like, what is the shared context/common knowled
 
 this is a central part of my plan, so, worth outlining why I think so 
 
+
+---
+
+On "how do you prevent things from being co-opted"
+
+- See Game B https://x.com/speakerjohnash/status/1937553941879042051 
+
 ---
 
 - Smugbug knows about the "University of Zurich" scandal, I should read their take on it. This represents for me the "open-closed" research gap. We are both aware of this. But we may have different ideas about how to solve it
