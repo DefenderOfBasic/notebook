@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reviews/Smugbug.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Smugbug"
+              "title": "index"
             }
           }
         ],
@@ -225,14 +225,15 @@
   },
   "active": "3346d8d65d13dc62",
   "lastOpenFiles": [
+    "⭐️ Open Research Institute.md",
+    "index.md",
+    "Reviews/Smugbug.md",
     "Reviews/spacechimplives.md",
     "Reviews/ω@Faltz009.md",
     "Reviews/pixiiidust.md",
     "Reviews/farawaylaughtr.md",
     "Reviews/ZotBot.md",
-    "Reviews/Smugbug.md",
     "memetics/💡 Push vs Pull.md",
-    "⭐️ Open Research Institute.md",
     "ORI/Why you should have an open notebook.md",
     "ORI/Start at the end.md",
     "ORI/Untestable Axioms.md",
@@ -250,7 +251,6 @@
     "memetics/Egregore Mic Check.md",
     "memetics/Was the prophet illiterate?.md",
     "memetics/What does an open memetics engineer do with an info hazard?.md",
-    "memetics/Open Memetics Journal.md",
     "Reviews",
     "Current thing",
     "_/attachments /Pasted image 20250608110638.png",

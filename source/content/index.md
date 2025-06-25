@@ -1,6 +1,11 @@
 ---
 title: 📝 Defender's notebook
 ---
+### What is this?
+
+This is my "open notebook", 
+
+
 Currently working on bootstrapping the [[⭐️ Open Research Institute]] which is a missing piece of infrastructure for civilization-wide coordination.
 
 Also working on evangelizing "open memetics" / open source & decentralized cultural engineering. This is necessary for "steering the ship" towards the best possible future for all sentient beings. This is "universal alignment", AI alignment is a subset of this problem.
