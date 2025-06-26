@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "⭐️ Open Research Institute"
             }
+          },
+          {
+            "id": "6400a37cdd2a8f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "It Is Not Safe to Perceive Everything.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "It Is Not Safe to Perceive Everything"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -237,10 +251,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "980f92923c8c47c0",
+  "active": "6400a37cdd2a8f15",
   "lastOpenFiles": [
-    "index.md",
+    "Tilted Playing Field.md",
+    "There is No Source.md",
+    "It Is Not Safe to Perceive Everything.md",
     "⭐️ Open Research Institute.md",
+    "index.md",
     "Reviews/Smugbug.md",
     "Reviews/spacechimplives.md",
     "Reviews/ω@Faltz009.md",
@@ -258,13 +275,10 @@
     "Why is danger \"cool\" ?.md",
     "Incompetent Manager.md",
     "memetics/🛠️ Toolkit.md",
-    "There is No Source.md",
     "memetics/Blackbird Narrative Analysis.md",
     "memetics/Brian Nosek on believing in culture change.md",
     "memetics/Cultural Negative Space.md",
     "memetics/Egregore Mic Check.md",
-    "memetics/Was the prophet illiterate?.md",
-    "memetics/What does an open memetics engineer do with an info hazard?.md",
     "Reviews",
     "Current thing",
     "_/attachments /Pasted image 20250608110638.png",
