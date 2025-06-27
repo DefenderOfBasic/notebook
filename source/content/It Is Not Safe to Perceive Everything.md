@@ -4,4 +4,4 @@ If you reject this truth, your mind will take over the steering wheel. There wil
 
 There are ALWAYS things that are (1) true and (2) would be completely destructive for you to be aware of them. Insisting that the shadow does not exist makes you blind. Insisting that you can take it, when you can't, also makes you blind. 
 
-To mature here is to understand what may be true, to speculate on what exists in the shadow, and to do your best to grow & be ready for it. The way to shrink the shadow without destroying yourself is to grow. 
+To mature here is to understand what may be true, to speculate on what exists in the shadow, and to do your best to grow & be ready for it. The way to shrink the shadow without destroying yourself is to grow. F

@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "push",
+                "query": "proton",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,7 +252,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6400a37cdd2a8f15",
+  "active": "0829eb50dbb8a2b3",
   "lastOpenFiles": [
     "Tilted Playing Field.md",
     "There is No Source.md",
