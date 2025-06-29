@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Is it ethical.md",
+                "file": "memetics/\"Who uses maplibre\".md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Is it ethical"
+              "title": "\"Who uses maplibre\""
             }
           }
         ],
@@ -198,6 +198,7 @@
   "active": "4f14036aad15bd27",
   "lastOpenFiles": [
     "Is it ethical.md",
+    "memetics/\"Who uses maplibre\".md",
     "How to test the metacognition of your audience.md",
     "Awareness can exist without minds.md",
     "What is art?.md",
@@ -222,7 +223,6 @@
     "ORI/Untestable Axioms.md",
     "ORI/Retroactive funding.md",
     "ORI/Peer review doubles as marketing.md",
-    "ORI/90-10 prediction.md",
     "Reviews",
     "Current thing",
     "_/attachments /Pasted image 20250608110638.png",
