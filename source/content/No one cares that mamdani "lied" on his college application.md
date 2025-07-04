@@ -13,4 +13,6 @@ To those who love him: it confirms the other side has no real arguments
 ![[Pasted image 20250704075017.png]]
 ![[Pasted image 20250704075441.png]]
 
+Which makes this statement kind of funny. Did the NYT turn on him? I don't think so. Crem approached them, they knew this was going to go out. Would you rather let someone else smear your candidate, or would you rather (1) do damage control by publishing it in the best possible light (2) get all the clicks & money from it
 
+![[Pasted image 20250704075526.png]]
