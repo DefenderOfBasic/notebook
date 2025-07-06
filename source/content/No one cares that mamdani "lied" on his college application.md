@@ -16,3 +16,9 @@ To those who love him: it confirms the other side has no real arguments
 Which makes this statement kind of funny. Did the NYT turn on him? I don't think so. Crem approached them, they knew this was going to go out. Would you rather let someone else smear your candidate, or would you rather (1) do damage control by publishing it in the best possible light (2) get all the clicks & money from it
 
 ![[Pasted image 20250704075526.png]]
+
+----
+
+> Our reporters obtained information about Mr. Mamdani’s Columbia college application and went to the Mamdani campaign with it. When we hear anything of news value, we try to confirm it through direct sources. Mr. Mamdani confirmed this information in an interview with The Times.
+> 
+> [https://x.com/benigma2017/status/1941274409412723196](https://x.com/benigma2017/status/1941274409412723196)
