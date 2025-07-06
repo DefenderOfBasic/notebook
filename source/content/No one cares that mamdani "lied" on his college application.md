@@ -12,13 +12,25 @@ To those who love him: it confirms the other side has no real arguments
 
 ![[Pasted image 20250704075017.png]]
 ![[Pasted image 20250704075441.png]]
+https://x.com/Seamus_Malek/status/1940893385340203416
 
 Which makes this statement kind of funny. Did the NYT turn on him? I don't think so. Crem approached them, they knew this was going to go out. Would you rather let someone else smear your candidate, or would you rather (1) do damage control by publishing it in the best possible light (2) get all the clicks & money from it
 
 ![[Pasted image 20250704075526.png]]
+https://x.com/nic__carter/status/1940899637663355262
 
 ----
+NYT person making a statement
+
 
 > Our reporters obtained information about Mr. Mamdani’s Columbia college application and went to the Mamdani campaign with it. When we hear anything of news value, we try to confirm it through direct sources. Mr. Mamdani confirmed this information in an interview with The Times.
 > 
 > [https://x.com/benigma2017/status/1941274409412723196](https://x.com/benigma2017/status/1941274409412723196)
+
+
+----
+
+Original Crem
+
+> The New York Times just reported on the story. Using the hacked data from Columbia, we found that Zohran Mamdani claimed to be Black when he applied to Columbia. Despite his fake race and the fact that he listed his father—a professor there—on his application, he was rejected.
+> https://x.com/cremieuxrecueil/status/1940889142415839295
