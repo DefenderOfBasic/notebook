@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "No one cares that mamdani \"lied\" on his college application"
             }
+          },
+          {
+            "id": "e1c6f78060a1b00b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_/attachments /Pasted image 20250704075526.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250704075526"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,8 +221,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f5c8841fdc67ce1",
+  "active": "e1c6f78060a1b00b",
   "lastOpenFiles": [
+    "No one cares that mamdani \"lied\" on his college application.md",
     "_/attachments /Pasted image 20250704075526.png",
     "_/attachments /Pasted image 20250704075441.png",
     "_/attachments /Pasted image 20250704075017.png",
@@ -218,7 +231,6 @@
     "_/attachments /Pasted image 20250704074921.png",
     "_/attachments /Pasted image 20250704074903.png",
     "When to switch to a new paradigm?.md",
-    "No one cares that mamdani \"lied\" on his college application.md",
     "⭐️ Open Research Institute.md",
     "Why \"left brain capture\" is so hard to escape.md",
     "How to test the metacognition of your audience.md",
@@ -249,7 +261,6 @@
     "_/attachments /Pasted image 20250601192722.png",
     "_/attachments /Pasted image 20250531110225.png",
     "_/templates",
-    "_/attachments /Pasted image 20250522094344.png",
     "Daily Notes/xAI-live-twitter-search",
     "_/attachments /Geopolitics - Blackbird.AI's Constellation Narrative Intelligence Platform.mp4",
     "Daily Notes",
