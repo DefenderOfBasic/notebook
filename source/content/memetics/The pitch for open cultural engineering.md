@@ -14,17 +14,23 @@ The good news is: this is not hard to find out! The "narrative contagion institu
 
 > The NCRI can detect coordinated and inauthentic activity and shows how amplified disinformation operations from state actors and extremist groups take aim at American brands
 
-That NYT story about the psyop was actually detected by someone on twitter, months before the story broke. It's really obvious: you can see a thousand accounts retweet the same thing within minutes of it going up:
+Months before NYT wrote about this social engineering / hollywood smear campaign, someone on twitter actually found evidence of it happening (because you can see like 1000 accounts retweeting the same thing within minutes):
 
 > I think Justin Baldoni's PR team is using a mercenary army of twitter bots to smear Blake Lively and repair his own reputation. First, a description of my investigation. Then, a dossier on the 2,689 bot accounts I found, plus several dozen specific tweets they boosted. 
 >
 > https://x.com/ThatsMauvelous/status/1879066956005015651
 
-Kasra you made a great point here about, why are even trying to "engineer" it? 
+Kasra you made a great point here about, why are even trying to "engineer" it?  
 
 > the aspect of it that doesn't fully resonate with me is the idea of "engineering" or attempting to "control" culture, culture feels like it has to be a bottom up thing. I'm gonna think more about this
 
-I agree! 
+That is the goal! But that's not the world we live in today. 
+
+When something "goes mainstream", it's either:
+
+1. Organic, 
+
+Some people have started calling it "memetic gardening" instead of engineering. 
 
 ---
 #### Appendix 
