@@ -36,7 +36,9 @@ This is where our work comes in. I am trying to close the gap between "dark meme
 
 Science communication about memetics, about propaganda techniques, about how ideas spread, *changes the game*, it interferes with the work of those doing it in the dark. 
 
+The frontier of dark memetics looks VERY different from the frontier of open memetics. On the open side we're still talking about "is this possible" and "if there exist propaganda techniques, wouldn't making them legible be dangerous?"
 
+On the dark side, they're actively at war.
 
 ---
 ## Appendix 
