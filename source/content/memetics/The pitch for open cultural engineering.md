@@ -8,7 +8,18 @@ So the basic pitch is: cultural/social engineering is *already* happening. In Ja
 
 ![[Pasted image 20250710111253.png]]
 
-This is _really_ bad for the epistemic commons. 
+This is _really_ bad for the epistemic commons. At MINIMUM i need to know if secret coordination is happening. If everyone is suddenly talking about product X, I want to know if they were paid to do so or if it's organic.
+
+The good news is: this is not hard to find out! The "narrative contagion institute" (https://networkcontagion.us/technology/) tries to do this:
+
+> The NCRI can detect coordinated and inauthentic activity and shows how amplified disinformation operations from state actors and extremist groups take aim at American brands
+
+That NYT story about the psyop was actually detected by someone on twitter, months before the story broke. It's really obvious: you can see a thousand accounts retweet the same thing within minutes of it going up, 
+
+> I think Justin Baldoni's PR team is using a mercenary army of twitter bots to smear Blake Lively and repair his own reputation. First, a description of my investigation. Then, a dossier on the 2,689 bot accounts I found, plus several dozen specific tweets they boosted. 
+>
+> https://x.com/ThatsMauvelous/status/1879066956005015651
+
 
 ---
 #### Appendix 
