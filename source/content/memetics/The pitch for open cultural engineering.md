@@ -26,9 +26,15 @@ Kasra you made a great point here about, why are even trying to "engineer" it?
 
 That is the goal! But that's not the world we live in today. 
 
-Did you see the April university of zurich scandal? They ran a secret experiment on a subreddit to see if they could change people's minds with bots:
+Did you see the April university of zurich scandal? They ran a secret experiment on a subreddit to see if they could change people's minds with bots (it was successful):
 
 https://www.404media.co/researchers-secretly-ran-a-massive-unauthorized-ai-persuasion-experiment-on-reddit-users/
+
+People were obviously outraged, but the researchers were like, _"but...everyone is ALREADY doing this, at scale. People are very easy to manipulate. Shouldn't we study this to protect ourselves?"_
+
+This is where our work comes in. I am trying to close the gap between "dark memetics" and "open memetics". People studying this openly, like zurich, or my sociology friends at cornell, have their hands tied. People doing it in the dark (like marketing companies and smear campaigns, or governments) have no restrictions. 
+
+Science communication about memetics, about propaganda techniques, about how ideas spread, *changes the game*, it interferes with the work of those doing it in the dark. 
 
 
 
