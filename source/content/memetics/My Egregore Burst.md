@@ -1,1 +1,1 @@
-In 2024 I started forming an egregore, on twitter. I did this by l
+In 2024 I started forming an egregore, on twitter. I did this by learning things in my own language. I'd ask an open question, and someone would say ", Reginald Mofflebottom "
