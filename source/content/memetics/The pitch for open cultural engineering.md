@@ -4,7 +4,7 @@ Response to Kasra:
 >
 >https://x.com/kasratweets/status/1943149626493637047
 
-So the basic pitch is: cultural/social engineering is *already* happening. In January the [NYT basically spelled out how psyops work](https://defenderofthebasic.substack.com/p/new-york-times-is-trying-to-explain) . They explained that there are secret companies/people you can pay to spread a narrative, and that it works, at scale:
+So the basic pitch is: cultural/social engineering is *already* happening for nefarious purposes. In January the [NYT basically spelled out how psyops work](https://defenderofthebasic.substack.com/p/new-york-times-is-trying-to-explain) . They explained that there are secret companies/people you can pay to spread a narrative, and that it works, at scale:
 
 ![[Pasted image 20250710111253.png]]
 
@@ -14,12 +14,17 @@ The good news is: this is not hard to find out! The "narrative contagion institu
 
 > The NCRI can detect coordinated and inauthentic activity and shows how amplified disinformation operations from state actors and extremist groups take aim at American brands
 
-That NYT story about the psyop was actually detected by someone on twitter, months before the story broke. It's really obvious: you can see a thousand accounts retweet the same thing within minutes of it going up, 
+That NYT story about the psyop was actually detected by someone on twitter, months before the story broke. It's really obvious: you can see a thousand accounts retweet the same thing within minutes of it going up:
 
 > I think Justin Baldoni's PR team is using a mercenary army of twitter bots to smear Blake Lively and repair his own reputation. First, a description of my investigation. Then, a dossier on the 2,689 bot accounts I found, plus several dozen specific tweets they boosted. 
 >
 > https://x.com/ThatsMauvelous/status/1879066956005015651
 
+Kasra you made a great point here about, why are even trying to "engineer" it? 
+
+> the aspect of it that doesn't fully resonate with me is the idea of "engineering" or attempting to "control" culture, culture feels like it has to be a bottom up thing. I'm gonna think more about this
+
+I agree! 
 
 ---
 #### Appendix 
