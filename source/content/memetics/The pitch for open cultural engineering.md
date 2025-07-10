@@ -26,14 +26,14 @@ Kasra you made a great point here about, why are even trying to "engineer" it?
 
 That is the goal! But that's not the world we live in today. 
 
-When something "goes mainstream", it's either:
+Did you see the April university of zurich scandal? They ran a secret experiment on a subreddit to see if they could change people's minds with bots:
 
-1. Organic, 
+https://www.404media.co/researchers-secretly-ran-a-massive-unauthorized-ai-persuasion-experiment-on-reddit-users/
 
-Some people have started calling it "memetic gardening" instead of engineering. 
+
 
 ---
-#### Appendix 
+## Appendix 
 
 - [Open Memetics R&D  - Grant Proposal](https://docs.google.com/document/d/1kCLMHYjgWRPCjL5d7qXmN1QzgNXHmuljULaZg_04pZI/edit?tab=t.0#heading=h.2qeob59z6tgo) google doc. Wrote this for Kanro (https://kanro.fi/). Also used it for Analogue (https://analoguegroup.org/expeditions/explorers)
 
@@ -41,6 +41,28 @@ Some people have started calling it "memetic gardening" instead of engineering.
 >
 > Human minds can be “hacked” through narratives, and we have no coordinated defenses.
 
+---
+
+I wrote about the "open-closed" research gap recently. At big tech social media companies, we can do these beautiful studies of human behavior with A/B testing. 
+
+![[Pasted image 20250710113242.png]]
+from: https://defenderofthebasic.substack.com/p/the-human-memome-project
+
+
+---
+
+When something "goes mainstream", it's either:
+
+1. Organic, a newsworthy thing happened, and it is being reported
+2. A coordinated attack. The thing they are reporting is true, but the narrative is not. It's serving an ulterior motive
+
+It's possible that 90% of the news is 1, and only 10% is 2. But not knowing which is which makes it hard to trust _any_ of it. 
+
+There is an easy cure at the personal level: make a friend in that field. 
+
+--- 
+
+Some people have started calling it "memetic gardening" instead of engineering. 
 
 
 
