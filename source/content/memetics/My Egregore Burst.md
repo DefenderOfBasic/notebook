@@ -1,0 +1,1 @@
+In 2024 I started forming an egregore, on twitter. I did this by l
