@@ -4,6 +4,12 @@ Response to Kasra:
 >
 >https://x.com/kasratweets/status/1943149626493637047
 
+So the basic pitch is: cultural/social engineering is *already* happening. In January the [NYT basically spelled out how psyops work](https://defenderofthebasic.substack.com/p/new-york-times-is-trying-to-explain) . They explained that there are secret companies/people you can pay to spread a narrative, and that it works, at scale:
+
+![[Pasted image 20250710111253.png]]
+
+This is _really_ bad for the epistemic commons. 
+
 ---
 #### Appendix 
 
