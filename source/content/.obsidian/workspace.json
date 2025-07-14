@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sabine vs McCulloch.md",
+                "file": "ORI/Untestable Axioms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sabine vs McCulloch"
+              "title": "Untestable Axioms"
             }
           }
         ],
@@ -224,10 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0829eb50dbb8a2b3",
+  "active": "005faff5be52be24",
   "lastOpenFiles": [
-    "\"Your problem is easily solvable\".md",
     "Sabine vs McCulloch.md",
+    "\"Your problem is easily solvable\".md",
     "Children can be better at epistemology than adults.md",
     "memetics/The pitch for open cultural engineering.md",
     "_/attachments /Pasted image 20250710113242.png",
