@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sabine",
+                "query": "sabine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "005faff5be52be24",
+  "active": "0829eb50dbb8a2b3",
   "lastOpenFiles": [
     "\"Your problem is easily solvable\".md",
     "Sabine vs McCulloch.md",
