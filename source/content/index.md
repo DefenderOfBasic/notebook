@@ -44,15 +44,25 @@ If I receive any more money I will use it to give our small grants to others. Su
 
 ## Active projects
 
-- Good & Evil
+TODO
+
+- Good & Evil words & Pudding pitch
 - Nooscope 
 - 7 Second Surveys
-- 
-
+- Anatomy of an Internet Argument / In Good Faith book
 
 ## Currently learning 
 
 religion
+
+a scholar of OGI. 
+
+#### Who is "above" me
+
+- lumpenspace
+- suntzoogway
+- Ronen
+- Vitalik 
 
 
 [^1]: this technically exists but it's very secretive & filled with dangerous power games. See [New York Times explaining psyops](https://defenderofthebasic.substack.com/p/new-york-times-is-trying-to-explain).  I want to do an open version of that. See also [Graphika](https://graphika.com/) and newer things like [Blackbird AI](https://www.youtube.com/watch?v=8Wixy4aIY9Q)'s "narrative analysis" tools. 
