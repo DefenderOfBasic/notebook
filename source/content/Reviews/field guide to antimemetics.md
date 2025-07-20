@@ -38,4 +38,16 @@ This is I think a failure to understand the purpose of these memes. They do insp
 
 > **their gravitational pull degrades our ability to think**
 
-This is not really correct, it is not _the meme_ itself that has this effect, it's _the group cohesion_ that does. We don't actually care about left wing or right wing causes, we care about our friends & family and we don't want to be ostracized by them.
+This is not really correct, it is not _the meme_ itself that has this effect, it's _the group cohesion_ that does. We don't actually care about left wing or right wing causes, we care about our friends & family and we don't want to be ostracized by them. And we care about being "a good person", this is our identity. THAT is the stuff that has the gravitational pull. 
+
+This is REALLY important to understand because fighting the meme doesn't do anything. And worse: getting rid of it makes things worse. What you want is group cohesion and identity. You need *something* to perform that function, some group belief or shared symbol. 
+
+I articulate that a bit here:
+
+> look it's simple: (1) humans need tribes (2) tribes need walls (3) "the other side is evil" is an effective way of reinforcing those walls, but it's not true (4) finding a way to reinforce walls that IS true is better for everyone
+https://x.com/DefenderOfBasic/status/1858204201211334690
+
+> **We know this strategy has potential based on events from There Is No Antimemetics Division**
+
+This seems like a funny claim to make ("we know this strategy should work in the real world because of what unfolds in this fiction book") ?
+
