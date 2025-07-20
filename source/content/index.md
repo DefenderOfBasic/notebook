@@ -1,6 +1,17 @@
 ---
-title: 📝 Defender's notebook
+title: Defender's Entry Point
+aliases:
 ---
+
+
+
+- About me
+- Funding
+- Skills I have to offer. Skills I need
+- Current project
+- where i am teaching
+- where i am learning
+
 ### What is this?
 
 This is my "open notebook", 
