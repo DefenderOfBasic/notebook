@@ -18,7 +18,11 @@ And also: trying to understand how reality works & my place in it.
 ## Where to find me
 
 - Twitter - [@DefenderOfBasic](https://x.com/DefenderOfBasic)
-	- <span style='color:gray'>I use this primarily like a giant Slack / Discord room, but it's like as if the company I work for is "spaceship earth". I prefer </span> 
+	- <span style='color:gray'>I use this primarily like a giant Slack / Discord room, but it's like as if the company I work for is "spaceship earth". I prefer being asked questions in public so that others can benefit from the responses, or others can correct me if I am wrong. Win win!</span> 
+- Substack  
+	- <span style='color:gray'>For long form / more polished writing. A good intro for my writing are the three essays described in the about page here [defenderofthebasic.substack.com/about](https://defenderofthebasic.substack.com/about) </span> 
+- Open Memetics Discord
+	- <span style='color:gray'>This is where the work of pushing memetics as a new scientific field is happening. There are several projects being developed here,  </span>
 
 
 ## Funding 
