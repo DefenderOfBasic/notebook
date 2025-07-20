@@ -22,10 +22,20 @@ See like this is just silly, is it an antimeme or is it a meme? it transformed i
 
 Not sure how Nadia treats this in the book, but I really enjoyed how Blaise Aguera described this in _Who Are We Now_ (which in my opinion is the memetics book everyone should be reading)
 
+See chapter 6 where he identifies the moment that this shifted, when the APA was trying to appease both sides on the question of "is being gay a disease" https://whoarewenow.net/chapter-06/
+
 > The DSM-II, published in 1968, made no significant change, but amid mounting pressure from gay rights groups to de-pathologize homosexuality, the APA issued a rather tortured revision memo in 1973. The memo tried to split the difference, keeping “Sexual orientation _disturbance_ (Homosexuality)” (emphasis mine) listed as a disorder:
 
->
+Re:supermemes
 
+> **The lack of specificity makes supermemes hard to pin down**
 
+I think this is describing something different than just "memes that have high spread", but something broader? I think Blackmore (or others) describe this as "memeplex" (a collection of memes that work together and reinforce each other. A religion is not a meme, but it is made up of memes). I've also been trying to make "memome" a thing to describe a consistent collection of memes that can be found together.
 
+> **these ideas may fail to inspire concrete action due to their complex and abstract nature**
 
+This is I think a failure to understand the purpose of these memes. They do inspire action, it's just not "what it says on the tin" so to speak (the action is often group cohesion). All beliefs do something for the host. This is what makes them sticky.
+
+> **their gravitational pull degrades our ability to think**
+
+This is not really correct, it is not _the meme_ itself that has this effect, it's _the group cohesion_ that does. We don't actually care about left wing or right wing causes, we care about our friends & family and we don't want to be ostracized by them.
