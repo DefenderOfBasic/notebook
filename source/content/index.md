@@ -38,11 +38,16 @@ If I receive any more money I will use it to give our small grants to others. Su
 
 - InterBrain by David Rug (https://opencollective.com/projectliminality) - he's building "memetic vaccine" software 
 - Bradie, on transparent supply chains & memetics ?
-- Nosilverv / Guy for his book on propaganda & generally raising people's epistemology 
+- Nosilverv / Guy for his book on propaganda & generally raising people's epistemology ?
+- 
 %%
 
 ## Active projects
 
+- Good & Evil
+- Nooscope 
+- 7 Second Surveys
+- 
 
 
 ## Currently learning 
