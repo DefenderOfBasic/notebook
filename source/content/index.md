@@ -46,19 +46,19 @@ If I receive any more money I will use it to give our small grants to others. Su
 
 TODO: explain each one
 
-- Good & Evil words & Pudding pitch
+- [Good & Evil words](https://github.com/DefenderOfBasic/good-and-evil-concepts?tab=readme-ov-file#polarized-words) & [Pudding](https://pudding.cool/) pitch
 - Nooscope - https://github.com/MateusMarta/postscope 
 - 7 Second Surveys - https://x.com/DefenderOfBasic/status/1942706394198655080
 	- https://stolaf.dev/7-second-surveys/
 - [Anatomy of an Internet Argument](https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument) / [In Good Faith book](https://defenderofbasic.github.io/in-good-faith-handbook/)
-- Teaching at CodeDay
-	- 
+- Teaching at [CodeDay](https://github.com/OmarShehata/works-in-progress/blob/main/memetics-internship/week-zero.md)
 
 ## Currently learning 
 
-religion
+- [An Introduction to Merkavah Mysticism](https://www.youtube.com/watch?v=J8QE5Fsse1A) - taught by Dr. Justin Sledge ("Esoterica" on YouTube)
+- Studying [Ogi Ogas](https://ogiogas.substack.com/)'s body of work - he writes on consciousness & math, but also on religion & aliens.  
 
-a scholar of Ogi Ogas. 
+
 
 
 
