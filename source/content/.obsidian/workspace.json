@@ -35,7 +35,8 @@
               "title": "⭐️ Open Questions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8580bc2f19ebf158",
+  "active": "8fc149d22bbd9bf5",
   "lastOpenFiles": [
-    "⭐️ Open Questions.md",
     "index.md",
+    "⭐️ Open Questions.md",
     "\"Half Art Half Science\" is not the maximum it can be.md",
     "⭐️ Open Research Institute.md",
     "How to test the metacognition of your audience.md",

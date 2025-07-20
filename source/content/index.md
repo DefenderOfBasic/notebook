@@ -11,7 +11,7 @@ aliases:
 - Have always been very good at translating between domains 
 	- <span style='color:gray'>(a lot of my career has been acting as a dev rel or communicating across teams & orgs, like between engineers & sales people)</span>
 
-Currently trying to create the jobs that I want to exist, so that I can get paid doing them. Like: cultural engineering R&D[^1], debugging culture & deploying solutions at scale. 
+Currently trying to create the jobs that I want to exist, so that I can get paid doing them. Like: cultural engineering R&D[^1], debugging culture & deploying solutions at scale. So the actual thing I'm spending most of my time & effort on is in "science communication" for memetics, because the more awareness grows, the more expensive it will be to manipulate people, AND the easier it will be to do open experiments with informed consent[^3]. 
 
 And also: trying to understand how reality works & my place in it. 
 
@@ -52,13 +52,13 @@ TODO
 - Anatomy of an Internet Argument / In Good Faith book
 - Teaching at CodeDay
 
-
-
 ## Currently learning 
 
 religion
 
-a scholar of OGI. 
+a scholar of Ogi Ogas. 
+
+
 
 #### Who is "above" me
 
@@ -72,3 +72,7 @@ a scholar of OGI.
 [^1]: this technically exists but it's very secretive & filled with dangerous power games. See [New York Times explaining psyops](https://defenderofthebasic.substack.com/p/new-york-times-is-trying-to-explain).  I want to do an open version of that. See also [Graphika](https://graphika.com/) and newer things like [Blackbird AI](https://www.youtube.com/watch?v=8Wixy4aIY9Q)'s "narrative analysis" tools. 
 
 [^2]: See [Open Memetics Grant Proposal](https://docs.google.com/document/d/1kCLMHYjgWRPCjL5d7qXmN1QzgNXHmuljULaZg_04pZI/edit?tab=t.0#heading=h.2qeob59z6tgo) I wrote January 2025. 
+
+[^3]: this really is the bottleneck, in my opinion. Every time any open researcher/academic tries to work on this, there is immense backlash (see "university of zurich reddit scandal"). Meanwhile those doing experiments in secret keep going further. 
+	
+	The solution is NOT to just destigmatize being tested on without our awareness. It's to grow our awareness enough to be able to opt-in to what is good and opt out of what is bad.
