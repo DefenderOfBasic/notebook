@@ -1,14 +1,25 @@
 ---
-title: Defender's Entry Point
+title: Defender's ORI Entry Point
 aliases:
 ---
+- Was a software engineer in computer graphics / geospatial for 6 years (2018-2024)
+- Worked at a big social media company, got interested in 
+
+## About me
+
+
+
+
+
+## Funding 
+
 
 
 
 - About me
 - Funding
 - Skills I have to offer. Skills I need
-- Current project
+- Current projects
 - where i am teaching
 - where i am learning
 
