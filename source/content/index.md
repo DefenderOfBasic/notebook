@@ -44,13 +44,15 @@ If I receive any more money I will use it to give our small grants to others. Su
 
 ## Active projects
 
-TODO
+TODO: explain each one
 
 - Good & Evil words & Pudding pitch
-- Nooscope 
-- 7 Second Surveys
-- Anatomy of an Internet Argument / In Good Faith book
+- Nooscope - https://github.com/MateusMarta/postscope 
+- 7 Second Surveys - https://x.com/DefenderOfBasic/status/1942706394198655080
+	- https://stolaf.dev/7-second-surveys/
+- [Anatomy of an Internet Argument](https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument) / [In Good Faith book](https://defenderofbasic.github.io/in-good-faith-handbook/)
 - Teaching at CodeDay
+	- 
 
 ## Currently learning 
 
@@ -68,11 +70,11 @@ a scholar of Ogi Ogas.
 - Vitalik 
 - Rebel Epistemographer 
 
+See also, howtown, and hank green. And vsauce. And nosilverv. And https://substack.com/@realjfriday
+
 
 [^1]: this technically exists but it's very secretive & filled with dangerous power games. See [New York Times explaining psyops](https://defenderofthebasic.substack.com/p/new-york-times-is-trying-to-explain).  I want to do an open version of that. See also [Graphika](https://graphika.com/) and newer things like [Blackbird AI](https://www.youtube.com/watch?v=8Wixy4aIY9Q)'s "narrative analysis" tools. 
 
 [^2]: See [Open Memetics Grant Proposal](https://docs.google.com/document/d/1kCLMHYjgWRPCjL5d7qXmN1QzgNXHmuljULaZg_04pZI/edit?tab=t.0#heading=h.2qeob59z6tgo) I wrote January 2025. 
 
-[^3]: this really is the bottleneck, in my opinion. Every time any open researcher/academic tries to work on this, there is immense backlash (see "university of zurich reddit scandal"). Meanwhile those doing experiments in secret keep going further. 
-	
-	The solution is NOT to just destigmatize being tested on without our awareness. It's to grow our awareness enough to be able to opt-in to what is good and opt out of what is bad.
+[^3]: this really is the bottleneck, in my opinion. Every time any open researcher/academic tries to work on this, there is immense backlash (see "university of zurich reddit scandal"). Meanwhile those doing experiments in secret keep going further. The solution is NOT to just destigmatize being tested on without our awareness. It's to grow our awareness enough to be able to opt-in to what is good and opt out of what is bad.
