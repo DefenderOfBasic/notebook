@@ -15,6 +15,10 @@ Currently trying to create the jobs that I want to exist, so that I can get paid
 
 And also: trying to understand how reality works & my place in it. 
 
+## Where to find me
+
+- Twitter - [@DefenderOfBasic](https://x.com/DefenderOfBasic)
+	- <span style='color:gray'>I use this primarily like a giant Slack / Discord room, but it's like as if the company I work for is "spaceship earth". I prefer </span> 
 
 
 ## Funding 
@@ -38,7 +42,6 @@ Currently working on bootstrapping the [[⭐️ Open Research Institute]] which 
 
 Also working on evangelizing "open memetics" / open source & decentralized cultural engineering. This is necessary for "steering the ship" towards the best possible future for all sentient beings. This is "universal alignment", AI alignment is a subset of this problem.
 
-My background is in software engineering _(computer graphics / geospatial / game dev)_, and marketing / community management _(have been a maintainer of a large open source project, hosted hackathons/game jams etc)_. 
 
 Places to find me:
 
