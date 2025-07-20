@@ -29,11 +29,12 @@ And also: trying to understand how reality works & my place in it.
 Currently fully funded for 2025 via:
 
 - $3.5k from [Analogue Group](https://analoguegroup.org/)
-- $50k from [Kanro](https://kanro.fi/)
+- $50k from [Kanro](https://kanro.fi/)[^2]
 - $20k from [Tekne Labs](https://x.com/TekneLabs) / [Ronenv](https://x.com/RonenV)
 
+If I receive any more money I will use it to give our small grants to others. Such as:
 
-
+- InterBrain by David Rug (https://opencollective.com/projectliminality) - he's building "memetic vaccine" software
 
 
 - About me
@@ -62,3 +63,5 @@ Places to find me:
 
 
 [^1]: this technically exists but it's very secretive & filled with dangerous power games. See [New York Times explaining psyops](https://defenderofthebasic.substack.com/p/new-york-times-is-trying-to-explain) I want to do an open version of that. See also [Graphika](https://graphika.com/) and newer things like [Blackbird AI](https://www.youtube.com/watch?v=8Wixy4aIY9Q)'s "narrative analysis" tools. 
+
+[^2]: See [Open Memetics Grant Proposal](https://docs.google.com/document/d/1kCLMHYjgWRPCjL5d7qXmN1QzgNXHmuljULaZg_04pZI/edit?tab=t.0#heading=h.2qeob59z6tgo) I wrote January 2025. 
