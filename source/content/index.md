@@ -5,9 +5,13 @@ aliases:
 
 - Used to be a software engineer in computer graphics / geospatial for 6 years (2018-2024)
 - Starting writing independently about memetics after working at a big social media company & understanding how politics & propaganda works
-- Have always been very interested in greater art & science 
+- Have always been very interested in anything that unites art & science
+- Have always been very good at translating between domains 
+	- <span style='color:gray'>(a lot of my career has been acting as a dev rel or communicating across teams & orgs, like between engineers & sales people)</span>
 
-Currently 
+
+
+Currently trying to create the jobs that I want to exist, so that I can get paid doing them. 
 
 ## About me
 
