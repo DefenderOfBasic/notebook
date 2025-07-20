@@ -22,7 +22,7 @@ And also: trying to understand how reality works & my place in it.
 - Substack  
 	- <span style='color:gray'>For long form / more polished writing. A good intro for my writing are the three essays described in the about page here [defenderofthebasic.substack.com/about](https://defenderofthebasic.substack.com/about) </span> 
 - Open Memetics Discord
-	- <span style='color:gray'>This is where the work of pushing memetics as a new scientific field is happening. There are several projects being developed here,  </span>
+	- <span style='color:gray'>This is where the work of pushing memetics as a new scientific field is happening. There are several projects being developed here, primarily lead by [Xiq, building the "nooscope", an open source tool to map how ideas spread](https://xiqo.substack.com/p/building-tooling-to-map-how-ideas). This community includes (1) software engineers (2) researchers / academics (3) "narrative engineers", aka influencers who are trying to improve humanity's epistemology, like [EtymologyNerd](https://etymology.substack.com/), and SmugBug from [the pondscum collective](https://pondscum.gg/)  </span>
 
 
 ## Funding 
