@@ -68,6 +68,10 @@ See my list of [[⭐️ Open Questions]]. Otherwise, here are the "classes" I am
 - Vitalik 
 - Rebel Epistemographer 
 
+demistify sci
+
+rationalist egregore 
+
 See also, howtown, and hank green. And vsauce. And nosilverv. And https://substack.com/@realjfriday. QRI / Andres  %%
 
 
