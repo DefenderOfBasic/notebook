@@ -13,6 +13,9 @@ aliases:
 
 Currently trying to create the jobs that I want to exist, so that I can get paid doing them. Like: cultural engineering R&D[^1], debugging culture & deploying solutions at scale. 
 
+And also: trying to understand how reality works & my place in it. 
+
+
 
 ## Funding 
 
@@ -43,20 +46,6 @@ Places to find me:
 - Twitter for public correspondance: https://x.com/DefenderOfBasic
 - Open Memetics Discord: https://discord.gg/5mbWEfVrqw (originally part of the "Twitter Community Archive" project)
 
-# Friends / collaborators / advisors 
 
 
-**Loofah**
-- https://www.loofah.me/
-
-**Lukas Hammarström**
-_On wisdom, AI. On spiral dynamics for man & machine._
-
-- https://www.tessus.com/
-- https://www.youtube.com/@lukashammerstorm/videos 
-
-**Rebel Epistemographer**
-_My anonymous professor friend_
-- https://rebelepistemographer.substack.com/
-
-[^1]: this technically exists but it's very secretive & filled with dangerous power games. See [New York Times explaining psyops](https://defenderofthebasic.substack.com/p/new-york-times-is-trying-to-explain) I want to do an open version of that. See also [Graphika](https://graphika.com/) and newer things like [Blackbird AI](https://www.youtube.com/watch?v=8Wixy4aIY9Q). 
+[^1]: this technically exists but it's very secretive & filled with dangerous power games. See [New York Times explaining psyops](https://defenderofthebasic.substack.com/p/new-york-times-is-trying-to-explain) I want to do an open version of that. See also [Graphika](https://graphika.com/) and newer things like [Blackbird AI](https://www.youtube.com/watch?v=8Wixy4aIY9Q)'s "narrative analysis" tools. 
