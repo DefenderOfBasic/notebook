@@ -20,7 +20,11 @@ See like this is just silly, is it an antimeme or is it a meme? it transformed i
 
 > **Gay marriage feels like the norm today, but it helps to realize it was once a fringe topic relegated to niche corners of the internet**
 
+Not sure how Nadia treats this in the book, but I really enjoyed how Blaise Aguera described this in _Who Are We Now_ (which in my opinion is the memetics book everyone should be reading)
 
+> The DSM-II, published in 1968, made no significant change, but amid mounting pressure from gay rights groups to de-pathologize homosexuality, the APA issued a rather tortured revision memo in 1973. The memo tried to split the difference, keeping “Sexual orientation _disturbance_ (Homosexuality)” (emphasis mine) listed as a disorder:
+
+>
 
 
 
