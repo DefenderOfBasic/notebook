@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bbac528d31966c73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Why \"left brain capture\" is so hard to escape.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Why \"left brain capture\" is so hard to escape"
-            }
-          },
-          {
-            "id": "0d2bec27440500f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "When to switch to a new paradigm?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "When to switch to a new paradigm?"
-            }
-          },
-          {
-            "id": "5f5c8841fdc67ce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "No one cares that mamdani \"lied\" on his college application.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "No one cares that mamdani \"lied\" on his college application"
-            }
-          },
-          {
-            "id": "005faff5be52be24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ORI/Untestable Axioms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untestable Axioms"
-            }
-          },
-          {
             "id": "8580bc2f19ebf158",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Too Much Binding Is Harmful.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Too Much Binding Is Harmful"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,8 +182,8 @@
   },
   "active": "8580bc2f19ebf158",
   "lastOpenFiles": [
-    "🛠️ How to lie.md",
     "Too Much Binding Is Harmful.md",
+    "🛠️ How to lie.md",
     "Draft Essay - \"Islam is the Apple of Religions\".md",
     "Why it hurts so much when others point out your flaws.md",
     "No one cares that mamdani \"lied\" on his college application.md",
