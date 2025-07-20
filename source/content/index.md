@@ -24,8 +24,14 @@ And also: trying to understand how reality works & my place in it.
 - Open Memetics Discord
 	- <span style='color:gray'>This is where the work of pushing memetics as a new scientific field is happening. There are several projects being developed here, primarily lead by [Xiq, building the "nooscope", an open source tool to map how ideas spread](https://xiqo.substack.com/p/building-tooling-to-map-how-ideas). This community includes (1) software engineers (2) researchers / academics (3) "narrative engineers", aka influencers who are trying to improve humanity's epistemology, like [EtymologyNerd](https://etymology.substack.com/), and SmugBug from [the pondscum collective](https://pondscum.gg/)  </span>
 
-
 ## Funding 
+
+Currently fully funded for 2025 via:
+
+- $3.5k from [Analogue Group](https://analoguegroup.org/)
+- $50k from [Kanro](https://kanro.fi/)
+- $20k from [Tekne Labs](https://x.com/TekneLabs) / [Ronenv](https://x.com/RonenV)
+
 
 
 
