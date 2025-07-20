@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐️ Open Questions.md",
+                "file": "memetics/💡 Meta-memes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⭐️ Open Questions"
+              "title": "💡 Meta-memes"
             }
           }
         ]
@@ -196,9 +196,10 @@
   },
   "active": "8580bc2f19ebf158",
   "lastOpenFiles": [
-    "index.md",
-    "Reviews/field guide to antimemetics.md",
+    "memetics/💡 Meta-memes.md",
     "⭐️ Open Questions.md",
+    "Reviews/field guide to antimemetics.md",
+    "index.md",
     "\"Half Art Half Science\" is not the maximum it can be.md",
     "⭐️ Open Research Institute.md",
     "How to test the metacognition of your audience.md",
@@ -229,7 +230,6 @@
     "Why \"left brain capture\" is so hard to escape.md",
     "memetics/\"Who uses maplibre\".md",
     "Is it ethical.md",
-    "What is art?.md",
     "Reviews",
     "Current thing",
     "_/attachments /Pasted image 20250608110638.png",

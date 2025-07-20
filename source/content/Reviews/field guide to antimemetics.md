@@ -57,6 +57,14 @@ This is great and a really important dynamic to understand. This gives essential
 
 >  **It is a serious intellectual discipline that has great implications for the way we think about the transmission of ideas**
 
-I think this is a good claim to make, but again I wouldn't call it "antimemetics". No one who actually does this work calls it "antimemetics", that's just the popular term among one internet subculture. It's just "memetics", that has a much longer history and a lot more people actively writing on it, inside academia but also independently on the internet (because memetics was historically a classified domain of the government). See for example [it's time to embrace memetic warfare](https://stratcomcoe.org/cuploads/pfiles/jeff_gisea.pdf). 
+I think this is a good claim to make, but again I wouldn't call it "antimemetics". No one who actually does this work calls it "antimemetics", that's just the popular term among one internet subculture. It's just "memetics", that has a much longer history and a lot more people actively writing on it, inside academia but also independently on the internet (because memetics was historically a classified domain of the government). See for example [it's time to embrace memetic warfare](https://stratcomcoe.org/cuploads/pfiles/jeff_gisea.pdf). And this military memetics compendium https://www.robotictechnologyinc.com/images/upload/file/Memetics%20Compendium%205%20February%2009.pdf
+
+> **we are not oblivious participants in the matrix. We have agency**
+
+Does the book not talk about epistemology at all? I feel like that is _the_ core lever that all humans have to change the "rules of the game" for how all memes spread. I've been using the term [[💡 Meta-memes]] to describe ideas that change epistemology (because those then affect the spread of _ALL_ other memes). But if there's one message I want people to have, if they feel despair about the current rules, is that they can update their own epistemology, and that changes everything. 
+
+And the easiest/most obvious change is to ask "where does this come from?" - like people will change their mind from reading some post on reddit, but they have no idea if that random anonymous person is a government, or company, trying to inject ideas into their mind. I wrote [There Is No Source](https://x.com/DefenderOfBasic/status/1937263090271420510) as a way to show how ridiculous it is that we constantly read essays without knowing who the author is (except, instead of "an essay" it's a meme, but it's the same thing!!! An essay is just a collection of ideas!!!!)
+
+
 
 
