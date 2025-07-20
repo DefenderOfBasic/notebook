@@ -55,14 +55,12 @@ TODO: explain each one
 
 ## Currently learning 
 
-- [An Introduction to Merkavah Mysticism](https://www.youtube.com/watch?v=J8QE5Fsse1A) - taught by Dr. Justin Sledge ("Esoterica" on YouTube)
-- Studying [Ogi Ogas](https://ogiogas.substack.com/)'s body of work - he writes on consciousness & math, but also on religion & aliens.  
+See my list of [[⭐️ Open Questions]]. Otherwise, here are the "classes" I am taking right now:
 
+- [An Introduction to Merkavah Mysticism](https://www.youtube.com/watch?v=J8QE5Fsse1A) - taught by Dr. Justin Sledge from wayne state university ("Esoterica" on YouTube)
+- Studying [Ogi Ogas](https://ogiogas.substack.com/)'s body of work - he writes on consciousness & math, but also on religion & aliens  
 
-
-
-
-#### Who is "above" me
+%% #### Who is "above" me
 
 - lumpenspace
 - suntzoogway
@@ -70,7 +68,7 @@ TODO: explain each one
 - Vitalik 
 - Rebel Epistemographer 
 
-See also, howtown, and hank green. And vsauce. And nosilverv. And https://substack.com/@realjfriday
+See also, howtown, and hank green. And vsauce. And nosilverv. And https://substack.com/@realjfriday. QRI / Andres  %%
 
 
 [^1]: this technically exists but it's very secretive & filled with dangerous power games. See [New York Times explaining psyops](https://defenderofthebasic.substack.com/p/new-york-times-is-trying-to-explain).  I want to do an open version of that. See also [Graphika](https://graphika.com/) and newer things like [Blackbird AI](https://www.youtube.com/watch?v=8Wixy4aIY9Q)'s "narrative analysis" tools. 
