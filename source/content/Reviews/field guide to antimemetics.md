@@ -51,3 +51,12 @@ https://x.com/DefenderOfBasic/status/1858204201211334690
 
 This seems like a funny claim to make ("we know this strategy should work in the real world because of what unfolds in this fiction book") ?
 
+> **obscurity can be useful.**
+
+This is great and a really important dynamic to understand. This gives essentially a "lever" to control how fast and how far ideas go. If we want to use a biology metaphor it's like a targeted enzyme that will only latch onto to a specific category of minds.
+
+>  **It is a serious intellectual discipline that has great implications for the way we think about the transmission of ideas**
+
+I think this is a good claim to make, but again I wouldn't call it "antimemetics". No one who actually does this work calls it "antimemetics", that's just the popular term among one internet subculture. It's just "memetics", that has a much longer history and a lot more people actively writing on it, inside academia but also independently on the internet (because memetics was historically a classified domain of the government). See for example [it's time to embrace memetic warfare](https://stratcomcoe.org/cuploads/pfiles/jeff_gisea.pdf). 
+
+
