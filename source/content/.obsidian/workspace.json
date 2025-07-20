@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Reviews/field guide to antimemetics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "field guide to antimemetics"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "8580bc2f19ebf158",
   "lastOpenFiles": [
-    "⭐️ Open Questions.md",
     "index.md",
+    "Reviews/field guide to antimemetics.md",
+    "⭐️ Open Questions.md",
     "\"Half Art Half Science\" is not the maximum it can be.md",
     "⭐️ Open Research Institute.md",
     "How to test the metacognition of your audience.md",
@@ -229,7 +230,6 @@
     "memetics/\"Who uses maplibre\".md",
     "Is it ethical.md",
     "What is art?.md",
-    "memetics/Local-Global Connections.md",
     "Reviews",
     "Current thing",
     "_/attachments /Pasted image 20250608110638.png",
