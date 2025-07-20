@@ -2,8 +2,12 @@
 title: Defender's ORI Entry Point
 aliases:
 ---
-- Was a software engineer in computer graphics / geospatial for 6 years (2018-2024)
-- Worked at a big social media company, got interested in 
+
+- Used to be a software engineer in computer graphics / geospatial for 6 years (2018-2024)
+- Starting writing independently about memetics after working at a big social media company & understanding how politics & propaganda works
+- Have always been very interested in greater art & science 
+
+Currently 
 
 ## About me
 
