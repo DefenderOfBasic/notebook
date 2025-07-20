@@ -12,6 +12,16 @@ I'd like to give a real world example of an infohazard that makes sense to the a
 
 Better example might be a scientific breakthrough that was easy to prove and could save lives, but that failed to spread, such as getting _surgeons_ to wash their hands before surgery. 
 
+Like we assume that things that are good & true and are standard now everywhere became that way as soon as they were discovered, but that is almost never the case.
+
+>  **under the right conditions, antimemetic ideas can escape containment and become memetic**
+
+See like this is just silly, is it an antimeme or is it a meme? it transformed into a meme? Isn't it just an idea that struggled to spread, and then conditions changed and then it became viral? I don't think we should use the word "memetic" to mean "high viral spread". Something is genetic if it is related to genes. Something is memetic if it is related to ideas.
+
+> **Gay marriage feels like the norm today, but it helps to realize it was once a fringe topic relegated to niche corners of the internet**
+
+
+
 
 
 
