@@ -57,7 +57,7 @@ TODO: explain each one
 
 See my list of [[⭐️ Open Questions]]. Otherwise, here are the "classes" I am taking right now:
 
-- [An Introduction to Merkavah Mysticism](https://www.youtube.com/watch?v=J8QE5Fsse1A) - taught by Dr. Justin Sledge from wayne state university ("Esoterica" on YouTube)
+- [Merkavah Mysticism Seminar](https://www.patreon.com/posts/merkavah-seminar-134297201) - taught by Dr. Justin Sledge from wayne state university ("Esoterica" on YouTube)
 - Studying [Ogi Ogas](https://ogiogas.substack.com/)'s body of work - he writes on consciousness & math, but also on religion & aliens  
 
 %% #### Who is "above" me

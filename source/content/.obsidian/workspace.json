@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reviews/field guide to antimemetics.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "field guide to antimemetics"
+              "title": "index"
             }
           },
           {
@@ -196,9 +196,9 @@
   },
   "active": "8580bc2f19ebf158",
   "lastOpenFiles": [
+    "Reviews/field guide to antimemetics.md",
     "memetics/💡 Meta-memes.md",
     "⭐️ Open Questions.md",
-    "Reviews/field guide to antimemetics.md",
     "index.md",
     "\"Half Art Half Science\" is not the maximum it can be.md",
     "⭐️ Open Research Institute.md",
