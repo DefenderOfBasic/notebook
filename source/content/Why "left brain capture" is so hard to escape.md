@@ -1,2 +1,2 @@
 
-you are rewrded for NOT healing
+you are rewarded for NOT healing

@@ -1,5 +1,8 @@
 _(TODO: WIP notes)_
 
+- How do we solve left brain capture at scale? Can we name it? Develop a protocol for detecting it? And then build scaffolding to get out of it? 
+	- See "uncanney valley of awareness" [https://x.com/DefenderOfBasic/status/1936791224595472742](https://x.com/DefenderOfBasic/status/1936791224595472742 "https://x.com/DefenderOfBasic/status/1936791224595472742") 
+
 1. How to create a standard taxonomy of idea space
 
 See: youtube video I made on this. 
