@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐️ Open Questions.md",
+                "file": "_/Anatomy of an Internet Argument.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⭐️ Open Questions"
+              "title": "Anatomy of an Internet Argument"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sabine",
+                "query": "anatomy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,10 +198,10 @@
   },
   "active": "8fc149d22bbd9bf5",
   "lastOpenFiles": [
+    "⭐️ Open Questions.md",
     "memetics/💡 Meta-memes.md",
     "index.md",
     "Reviews/field guide to antimemetics.md",
-    "⭐️ Open Questions.md",
     "\"Half Art Half Science\" is not the maximum it can be.md",
     "⭐️ Open Research Institute.md",
     "How to test the metacognition of your audience.md",
