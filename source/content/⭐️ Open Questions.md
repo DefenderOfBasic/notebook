@@ -1,5 +1,7 @@
 _(TODO: WIP notes)_
 
+- What is a normie? What language do most humans actually speak? Is "mainstream" one consistent thing, or are there multiple mainstreams? 
+
 - How do we solve left brain capture at scale? Can we name it? Develop a protocol for detecting it? And then build scaffolding to get out of it? 
 	- See "uncanney valley of awareness" [https://x.com/DefenderOfBasic/status/1936791224595472742](https://x.com/DefenderOfBasic/status/1936791224595472742 "https://x.com/DefenderOfBasic/status/1936791224595472742") 
 
