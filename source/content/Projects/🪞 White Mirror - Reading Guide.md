@@ -21,13 +21,19 @@ What is "the fiction of prediction" ?
 ----
 
 
+
 ----
 
 # Notes
 
 > The LLM was trained on a Borgesian corpus of files
 
-if you don't know who Jorge Luis Borges is, he is famous for "writing stories about stories". Like he'd write a story about in which there existed a textbook, and discuss the textbook, but the textbook is fictional (getting you to imagine a world in which such a book exists, and what might be in it, is a way of )
+if you don't know who Jorge Luis Borges is, he is famous for "writing stories about stories". Like he'd write a story about in which there existed a textbook, and discuss the textbook, but the textbook is fictional (getting you to imagine a world in which such a book exists, and what might be in it, is a kind of shortcut. We can all discuss the book even if it doesn't exist).
+
+See also Defender's attempt to describe a book about itself that everyone writes & contributes to:
+
+> someone wrote an incredible fiction/nonfiction book about what happens in the year 2025 and it was such a beautiful inspiring vision with step by step instructions that people just started making it happen and small things in the book came true and it made it go viral
+https://x.com/DefenderOfBasic/status/1821338429390540931
 
 
 ----
