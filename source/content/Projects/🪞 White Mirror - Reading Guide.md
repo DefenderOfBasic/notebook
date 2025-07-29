@@ -7,12 +7,30 @@ Current recipients (9/10 open slots):
 - [oddargonaut](https://x.com/oddargonaut) _(review pending)_
 
 ----
+### Q1
 
-Q1: On page 1 it says:
+On page 1 it says:
 
 > “Fact imitates fiction.”
 
 What does this mean?
+
+What is "the fiction of prediction" ?
+
+----
+
+### Note 1
+
+Page 2:
+
+> He sent his memory spiraling back through time, back through the precipitous falls and gradual ascents of grand civilizations, back to the vantage point where his knowledge of history gave way to biology
+
+_Until The End of Time_ by Brian Greene is a great companion piece to unpack this paragraph. Specifically chapter 2 where he traces exactly this grand unfolding. 
+
+----
+
+
+
 
 ### Keeper (page 13)
 
