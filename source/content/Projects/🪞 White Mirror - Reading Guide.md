@@ -7,7 +7,8 @@ Current recipients (9/10 open slots):
 - [oddargonaut](https://x.com/oddargonaut) _(review pending)_
 
 ----
-### Q1
+
+# Questions 
 
 On page 1 it says:
 
@@ -19,7 +20,17 @@ What is "the fiction of prediction" ?
 
 ----
 
-### Note 1
+
+----
+
+# Notes
+
+> The LLM was trained on a Borgesian corpus of files
+
+if you don't know who Jorge Luis Borges is, he is famous for "writing stories about stories". Like he'd write a story about in which there existed a textbook, and discuss the textbook, but the textbook is fictional (getting you to imagine a world in which such a book exists, and what might be in it, is a way of )
+
+
+----
 
 Page 2:
 
@@ -31,19 +42,6 @@ _Until The End of Time_ by Brian Greene is a great companion piece to unpack thi
 
 
 
-
-### Keeper (page 13)
-
-
-
----
-
-
-
-Ideas
-
-- Black holes as "cradles of civilization"
-- 
 
 
 
