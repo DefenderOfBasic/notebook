@@ -7,6 +7,13 @@ Current recipients (9/10 open slots):
 - [oddargonaut](https://x.com/oddargonaut) _(review pending)_
 
 ----
+
+Q1: On page 1 it says:
+
+> “Fact imitates fiction.”
+
+What does this mean?
+
 ### Keeper (page 13)
 
 
