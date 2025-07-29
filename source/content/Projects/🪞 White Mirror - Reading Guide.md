@@ -7,7 +7,18 @@ Current recipients (9/10 open slots):
 - [oddargonaut](https://x.com/oddargonaut) _(review pending)_
 
 ----
+### Keeper (page 13)
 
+
+
+---
+
+
+
+Ideas
+
+- Black holes as "cradles of civilization"
+- 
 
 
 
