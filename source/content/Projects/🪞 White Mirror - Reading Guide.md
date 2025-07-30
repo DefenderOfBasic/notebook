@@ -11,13 +11,16 @@ Current recipients (9/10 open slots):
 ## Reading guide for Story Zero
 
 1. What does `Fact imitates fiction` mean? In context of the previous paragraph, can you find a real example of this happening in your world[^1]? 
-2. `The LLM was trained on a Borgesian corpus` -> this refers to 
+2. `The LLM was trained on a Borgesian corpus` -> this refers to Jorge Luis Borges. What is he known for? Why would Lucilius train an LLM specifically on this one author?
+3. 
 
 
 
 ----
 
+## General questions
 
+- Do you have a theory for why the main character's name is Lucilius ? 
 
 ----
 

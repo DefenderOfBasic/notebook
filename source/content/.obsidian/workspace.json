@@ -35,7 +35,8 @@
               "title": "🪞 White Mirror - Reading Guide"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fc149d22bbd9bf5",
+  "active": "b2afb88acb1a2ab9",
   "lastOpenFiles": [
-    "Projects/🪞 White Mirror - Reading Guide.md",
     "_/White Mirror - Appendix.md",
+    "Projects/🪞 White Mirror - Reading Guide.md",
     "_/Consciousness.md",
     "_/Untitled",
     "Projects/🟢 🔴 Good & Evil Words.md",
