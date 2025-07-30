@@ -13,7 +13,12 @@ Current recipients (9/10 open slots):
 1. What does `Fact imitates fiction` mean? In context of the previous paragraph, can you find a real example of this happening in your world[^1]? 
 2. `The LLM was trained on a Borgesian corpus` -> this refers to Jorge Luis Borges. What is he known for? Why would Lucilius train an LLM specifically on this one author?
 3. If living in fear is a self fulfilling prophecy, and we know that, why can't we just NOT do that anymore? What's the bottleneck?
-4. `an arms race of the imagination` -> do you see in what way this is a statement about our world? Can you point to an example of one person on each side of this arms race? 
+4. `an arms race of the imagination` -> do you see in what way this is a statement about our world? Can you point to an example of one person on each side of this arms race?[^2]
+
+
+
+
+ 
 
 
 
@@ -38,3 +43,5 @@ Current recipients (9/10 open slots):
 
 
 [^1]: bonus: see Nicky Case's ["We Become What We Behold"](https://ncase.itch.io/wbwwb)
+
+[^2]: I would put current day Yudowsky, with his upcoming book, in the "doom hyperstition" arms race side, and Hank Green with his "book of good times" on the other side. Who are yours? 
