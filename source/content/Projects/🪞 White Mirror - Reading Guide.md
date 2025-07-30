@@ -12,7 +12,8 @@ Current recipients (9/10 open slots):
 
 1. What does `Fact imitates fiction` mean? In context of the previous paragraph, can you find a real example of this happening in your world[^1]? 
 2. `The LLM was trained on a Borgesian corpus` -> this refers to Jorge Luis Borges. What is he known for? Why would Lucilius train an LLM specifically on this one author?
-3. 
+3. If living in fear is a self fulfilling prophecy, and we know that, why can't we just NOT do that anymore? What's the bottleneck?
+4. `an arms race of the imagination` -> do you see in what way this is a statement about our world? Can you point to an example of one person on each side of this arms race? 
 
 
 
@@ -21,6 +22,7 @@ Current recipients (9/10 open slots):
 ## General questions
 
 - Do you have a theory for why the main character's name is Lucilius ? 
+	- _(I don't actually know the answer but I have some theories...)_
 
 ----
 
