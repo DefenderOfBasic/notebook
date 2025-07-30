@@ -21,11 +21,7 @@ Can you demonstrate your understanding of Story Zero by rewriting your own versi
 
 Something short & simple, self contained, self referential that can go viral on social media. In the style of a one pager "meme" essay. See ["There is no source"](https://x.com/DefenderOfBasic/status/1937263090271420510) for inspiration. 
 
-
-
-
- 
-
+Think of this not as explaining White Mirror, but as using the same technique. Like instead of explaining a joke, you're riffing on it, telling another joke with the same structure. 
 
 
 ----
