@@ -1,0 +1,1 @@
+It's an egregore currently operated by _Defender_ whose goal is to 
