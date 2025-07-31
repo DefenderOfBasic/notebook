@@ -1,1 +1,13 @@
-It's an egregore currently operated by _Defender_ whose goal is to 
+_July 31, 2025 - v0_
+
+It's an egregore[^1] currently operated by _Defender_. 
+
+The goal is to take truth that the frontier knows, and teach it a normie/layperson. The frontier keeps finding new esoteric truths[^2], and ORI integrates & propagates it, which creates a new, simple, compressed "common ground" that accelerates the frontier[^3]. 
+
+Also we need to figure 
+
+[^1]: define egregore
+
+[^2]: example truths
+
+[^3]: in other words: the frontier of human knowledge on planet earth today is bottlenecked by "the backtier".
