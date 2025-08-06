@@ -1,0 +1,4 @@
+- "how do you get the best out of a network?"
+	- be able to flip a switch -> execute 
+- "heavenly meeting the earthly" (network / execute)
+- 

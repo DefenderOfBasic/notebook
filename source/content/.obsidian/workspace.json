@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alignment 101.md",
+                "file": "Reviews/Logan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alignment 101"
+              "title": "Logan"
             }
           },
           {
@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,10 +237,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0829eb50dbb8a2b3",
+  "active": "f5455e716f23ae26",
   "lastOpenFiles": [
-    "Alignment Math.md",
     "Alignment 101.md",
+    "Reviews/Logan.md",
+    "Alignment Math.md",
     "How smart nerds hinder the spread of good ideas.md",
     "Projects/🪞 White Mirror - Reading Guide.md",
     "ORI/What is ORI?.md",
@@ -273,7 +273,6 @@
     "Draft Essay - \"Islam is the Apple of Religions\".md",
     "Is it ethical.md",
     "_/Anatomy of an Internet Argument.md",
-    "memetics/💡 Meta-memes.md",
     "_/attachments /Pasted image 20250710113242.png",
     "_/attachments /Pasted image 20250710111253.png",
     "_/attachments /Pasted image 20250704075526.png",
