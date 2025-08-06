@@ -16,3 +16,5 @@ technocratic populist =
 alignment of each entity? 
 
 GP = maintain relationships, spot misalignment 
+
+BI = cognitive security layer / gatekeeper 
