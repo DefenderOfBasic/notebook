@@ -21,6 +21,6 @@ BI = cognitive security layer / gatekeeper
 
 LR = last responder 
 
-- previous work?
+- previous work? -> lit review backwards 
 - Aleks
 - Political danger
