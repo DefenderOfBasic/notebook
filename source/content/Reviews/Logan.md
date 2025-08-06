@@ -1,4 +1,5 @@
 - "how do you get the best out of a network?"
 	- be able to flip a switch -> execute 
 - "heavenly meeting the earthly" (network / execute)
+- "people are already doing the right things, just need to align the existing pieces" -> add the missing feedback loops. Nudge everything more towards utopia
 - 
