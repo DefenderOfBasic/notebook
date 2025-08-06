@@ -6,4 +6,11 @@
 church = normative claims / direction / "what is worth doing"
 state = given a goal, how to use our resources to accomplish it
 
-"shadow state" -> what you are doin
+"shadow state" -> what you are doing
+"sudo state" -> enforcement 
+
+loyal dissident  = 
+technocratic populist = 
+
+
+alignment of each entity? 
