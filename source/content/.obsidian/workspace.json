@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anatomy",
+                "query": "Evil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -237,7 +238,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5455e716f23ae26",
+  "active": "0829eb50dbb8a2b3",
   "lastOpenFiles": [
     "Alignment Math.md",
     "Alignment 101.md",
