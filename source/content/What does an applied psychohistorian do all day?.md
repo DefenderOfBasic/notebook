@@ -1,0 +1,1 @@
+(1) looks at everything in society (same way stock traders do)
