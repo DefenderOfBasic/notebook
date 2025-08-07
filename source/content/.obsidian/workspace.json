@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reviews/Logan.md",
+                "file": "memetics/💡 Push vs Pull.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logan"
+              "title": "💡 Push vs Pull"
             }
           },
           {
@@ -239,8 +239,8 @@
   },
   "active": "f5455e716f23ae26",
   "lastOpenFiles": [
-    "Alignment 101.md",
     "Reviews/Logan.md",
+    "Alignment 101.md",
     "Alignment Math.md",
     "How smart nerds hinder the spread of good ideas.md",
     "Projects/🪞 White Mirror - Reading Guide.md",
