@@ -28,7 +28,13 @@ The author of the book is also actively watching this, so they may weigh in or s
 
 ----
 
-## Reading guide for TODO
+## Reading guide for Keeper (page 13)
+
+
+---
+
+## Reading guide for Descendants of the Paranoid (page 19)
+
 
 
 
