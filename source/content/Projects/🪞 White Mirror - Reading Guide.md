@@ -2,19 +2,23 @@ See the announcement post here: https://defenderofthebasic.substack.com/p/white-
 
 > [White Mirror](https://www.infinitebooks.com/books/products/white-mirror) is officially out today. Where the TV show _Black Mirror_ is a collection of stories about what’s wrong with our world, _White Mirror_ is stories about what our world _could be_.
 
+I am offering to buy the book for people 
 
+**Current recipients (6/10 open slots):**
 
-Current recipients (9/10 open slots):
+⛔️  = they ended up buying it themselves
 
-- https://substack.com/@meleven11
-- https://substack.com/@contentconnoisseur
-- https://substack.com/@aleksaeon
-- https://substack.com/@skyegill
-- https://substack.com/@natedileas143271
-- [oddargonaut](https://x.com/oddargonaut) 
-- 
+- ✅ https://substack.com/@meleven11
+- ✅ https://substack.com/@contentconnoisseur
+- ✅ https://substack.com/@skyegill
+- ✅ https://substack.com/@natedileas143271
+- ⛔️ https://substack.com/@aleksaeon
+- ⛔️ [oddargonaut](https://x.com/oddargonaut) 
 
+**Other folks actively reviewing the book alongside us:**
 
+- Michael Garfield (see his [first answer here](https://substack.com/@michaelgarfield/note/c-143172239?utm_source=notes-share-action&r=2v2evb) )
+- Suntzoogway (https://substack.com/@suntzoogway)
 
 ----
 
