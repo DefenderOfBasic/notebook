@@ -1,4 +1,4 @@
-See the announcement post here: https://defenderofthebasic.substack.com/p/white-mirror-reading-guide-pt-0
+See announcement post here: https://defenderofthebasic.substack.com/p/white-mirror-reading-guide-pt-0
 
 > [White Mirror](https://www.infinitebooks.com/books/products/white-mirror) is officially out today. Where the TV show _Black Mirror_ is a collection of stories about what’s wrong with our world, _White Mirror_ is stories about what our world _could be_.
 
@@ -22,9 +22,9 @@ I am offering to buy the book for people in exchange for "doing the homework" on
 - Michael Garfield (see his [first answer here](https://substack.com/@michaelgarfield/note/c-143172239?utm_source=notes-share-action&r=2v2evb) )
 - Suntzoogway (https://substack.com/@suntzoogway)
 - 🙏 Rebel Epistemographer (https://rebelepistemographer.substack.com/about) - retired professor friend
-- 🙏 
+- 🙏 Intellectual Narcissist (https://theintellectualnarcissist.substack.com/) - because they represent a "smart skeptic" which I've found to be a very helpful perspective to balance my sometimes "naive optimism"
 
-Author of the book is also actively watching this, so they may weigh in or share their favorite responses etc!
+The author of the book is also actively watching this, so they may weigh in or share their favorite responses etc!
 
 ----
 
