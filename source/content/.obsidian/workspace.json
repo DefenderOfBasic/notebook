@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/White Mirror - Reading Guide/White Mirror - Index.md",
+                "file": "Projects/🪞 White Mirror - Reading Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "White Mirror - Index"
+              "title": "🪞 White Mirror - Reading Guide"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/🪞 White Mirror - Reading Guide.md",
+                "file": "Projects/White Mirror - Reading Guide/How to claim your free White Mirror copy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🪞 White Mirror - Reading Guide"
+              "title": "How to claim your free White Mirror copy"
             }
           }
         ],
@@ -211,10 +211,10 @@
   },
   "active": "ae4ee00e2891ce5f",
   "lastOpenFiles": [
-    "Projects/White Mirror - Reading Guide/How to claim your free White Mirror copy.md",
+    "Projects/White Mirror - Reading Guide/How to submit answers to the reading questions.md",
     "Projects/🪞 White Mirror - Reading Guide.md",
     "Projects/White Mirror - Reading Guide/White Mirror - Index.md",
-    "Projects/White Mirror - Reading Guide/How to submit answers to the reading questions.md",
+    "Projects/White Mirror - Reading Guide/How to claim your free White Mirror copy.md",
     "Projects/🟢 🔴 Good & Evil Words.md",
     "\"Take caution when accepting a premise from a stranger\".md",
     "Alignment Math.md",
