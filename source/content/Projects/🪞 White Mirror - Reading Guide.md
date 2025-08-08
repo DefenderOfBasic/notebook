@@ -1,12 +1,20 @@
-This is the "class page" 
+See the announcement post here: https://defenderofthebasic.substack.com/p/white-mirror-reading-guide-pt-0
 
-I believe in _White Mirror_ (https://www.infinitebooks.com/books/products/white-mirror) so much I'm willing to buy it for people in exchange for them writing their takeaways from it. If after reading they thought it was worth it, they can pay it forward and we can keep this going. 
+> [White Mirror](https://www.infinitebooks.com/books/products/white-mirror) is officially out today. Where the TV show _Black Mirror_ is a collection of stories about what’s wrong with our world, _White Mirror_ is stories about what our world _could be_.
 
-_Black Mirror_ is stories about what's wrong with our world. _White Mirror_ is stories about what our world _could be_, if we want it enough, if we're clever enough. 
+
 
 Current recipients (9/10 open slots):
 
-- [oddargonaut](https://x.com/oddargonaut) _(review pending)_
+- https://substack.com/@meleven11
+- https://substack.com/@contentconnoisseur
+- https://substack.com/@aleksaeon
+- https://substack.com/@skyegill
+- https://substack.com/@natedileas143271
+- [oddargonaut](https://x.com/oddargonaut) 
+- 
+
+
 
 ----
 
