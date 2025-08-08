@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5004348754883
+    "width": 318.5004348754883
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -209,11 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae4ee00e2891ce5f",
+  "active": "e628baa95271e573",
   "lastOpenFiles": [
+    "Projects/🪞 White Mirror - Reading Guide.md",
     "Projects/White Mirror - Reading Guide/How to submit answers to the reading questions.md",
     "Projects/White Mirror - Reading Guide/White Mirror - Index.md",
-    "Projects/🪞 White Mirror - Reading Guide.md",
     "Projects/White Mirror - Reading Guide/How to claim your free White Mirror copy.md",
     "Projects/🟢 🔴 Good & Evil Words.md",
     "\"Take caution when accepting a premise from a stranger\".md",
