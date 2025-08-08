@@ -17,8 +17,12 @@ I am offering to buy the book for people in exchange for "doing the homework" on
 
 **Other folks actively reviewing the book alongside us:**
 
+🙏 = I want them to but they haven't fully committed (yet)
+
 - Michael Garfield (see his [first answer here](https://substack.com/@michaelgarfield/note/c-143172239?utm_source=notes-share-action&r=2v2evb) )
 - Suntzoogway (https://substack.com/@suntzoogway)
+- 🙏 Rebel Epistemographer (https://rebelepistemographer.substack.com/about) - retired professor friend
+- 🙏 
 
 Author of the book is also actively watching this, so they may weigh in or share their favorite responses etc!
 
