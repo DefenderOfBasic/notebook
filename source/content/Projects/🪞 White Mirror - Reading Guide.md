@@ -2,7 +2,7 @@ See the announcement post here: https://defenderofthebasic.substack.com/p/white-
 
 > [White Mirror](https://www.infinitebooks.com/books/products/white-mirror) is officially out today. Where the TV show _Black Mirror_ is a collection of stories about what’s wrong with our world, _White Mirror_ is stories about what our world _could be_.
 
-I am offering to buy the book for people 
+I am offering to buy the book for people in exchange for "doing the homework" on the internet alongside me. See [[How to claim your free White Mirror copy]]. 
 
 **Current recipients (6/10 open slots):**
 
@@ -19,6 +19,8 @@ I am offering to buy the book for people
 
 - Michael Garfield (see his [first answer here](https://substack.com/@michaelgarfield/note/c-143172239?utm_source=notes-share-action&r=2v2evb) )
 - Suntzoogway (https://substack.com/@suntzoogway)
+
+Author of the book is also actively watching this, so they may weigh in or share their favorite responses etc!
 
 ----
 

@@ -1,0 +1,1 @@
+Just DM me (on substack or twitter) your interest. Give me a 
