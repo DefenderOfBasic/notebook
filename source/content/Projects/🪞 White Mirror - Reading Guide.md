@@ -4,6 +4,8 @@ See announcement post here: https://defenderofthebasic.substack.com/p/white-mirr
 
 I am offering to buy the book for people in exchange for "doing the homework" on the internet alongside me. See [[How to claim your free White Mirror copy]]. 
 
+White Mirror Discord: https://discord.gg/f7vz6R7S6H 
+
 **Current recipients (6/10 open slots):**
 
 ⛔️  = they ended up buying it themselves
