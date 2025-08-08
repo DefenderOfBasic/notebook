@@ -36,6 +36,10 @@ The author of the book is also actively watching this, so they may weigh in or s
 ## Reading guide for Descendants of the Paranoid (page 19)
 
 
+---
+
+## Reading guide for The Language of God (page 112)
+
 
 
 ----
