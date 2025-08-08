@@ -28,6 +28,12 @@ The author of the book is also actively watching this, so they may weigh in or s
 
 ----
 
+## Reading guide for TODO
+
+
+
+----
+
 ## Reading guide for Story Zero
 
 1. What does `Fact imitates fiction` mean? In context of the previous paragraph, can you find a real example of this happening in your world[^1]? 
