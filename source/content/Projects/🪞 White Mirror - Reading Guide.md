@@ -61,14 +61,15 @@ Think of this not as explaining White Mirror, but as using the same technique. L
 
 # Appendix / Notes
 
-[[White Mirror - Appendix]]
+- [[White Mirror - Appendix]]
+- [[How to submit answers to the reading questions]]
 
 
 
 
 
 
-
+---
 
 [^1]: bonus: see Nicky Case's ["We Become What We Behold"](https://ncase.itch.io/wbwwb)
 
