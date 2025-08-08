@@ -28,6 +28,12 @@ The author of the book is also actively watching this, so they may weigh in or s
 
 ----
 
+## Reading guide for Soaring Dreams (page 172)
+
+
+
+----
+
 ## Reading guide for Keeper (page 13)
 
 
@@ -51,7 +57,7 @@ The author of the book is also actively watching this, so they may weigh in or s
 3. If living in fear is a self fulfilling prophecy, and we know that, why can't we just NOT do that anymore? What's the bottleneck?
 4. `an arms race of the imagination` -> do you see in what way this is a statement about our world? Can you point to an example of one person on each side of this arms race?[^2]
 
-**Challenge:**
+**Optional challenge:**
 
 Can you demonstrate your understanding of Story Zero by rewriting your own version of it? Specifically the ending. 
 
