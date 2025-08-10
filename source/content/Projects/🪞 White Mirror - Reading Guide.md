@@ -10,10 +10,12 @@ White Mirror Discord: https://discord.gg/f7vz6R7S6H
 
 ⛔️  = they ended up buying it themselves
 
+- ✅ Nate - https://natedileas.com/white-mirror 
+	- [@natedileas143271](https://substack.com/@natedileas143271)
 - ✅ https://substack.com/@meleven11
 - ✅ https://substack.com/@contentconnoisseur
 - ✅ https://substack.com/@skyegill
-- ✅ https://substack.com/@natedileas143271
+- 
 - ⛔️ https://substack.com/@aleksaeon
 - ⛔️ [oddargonaut](https://x.com/oddargonaut) 
 
