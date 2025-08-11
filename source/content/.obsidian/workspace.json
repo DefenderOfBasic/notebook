@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/White Mirror - Reading Guide/How to claim your free White Mirror copy.md",
+                "file": "Epistemic Firewall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to claim your free White Mirror copy"
+              "title": "Epistemic Firewall"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,11 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2afb88acb1a2ab9",
+  "active": "ae4ee00e2891ce5f",
   "lastOpenFiles": [
-    "Projects/White Mirror - Reading Guide/How to submit answers to the reading questions.md",
-    "Projects/🪞 White Mirror - Reading Guide.md",
     "Projects/White Mirror - Reading Guide/How to claim your free White Mirror copy.md",
+    "Epistemic Firewall.md",
+    "Projects/🪞 White Mirror - Reading Guide.md",
+    "Projects/White Mirror - Reading Guide/How to submit answers to the reading questions.md",
     "Projects/White Mirror - Reading Guide/White Mirror - Index.md",
     "Projects/🟢 🔴 Good & Evil Words.md",
     "\"Take caution when accepting a premise from a stranger\".md",
@@ -242,7 +244,6 @@
     "Reviews/Smugbug.md",
     "Reviews/ZotBot.md",
     "Reviews/pixiiidust.md",
-    "Reviews/Dan Allison.md",
     "Reviews/done",
     "_/attachments /Pasted image 20250710113242.png",
     "_/attachments /Pasted image 20250710111253.png",
