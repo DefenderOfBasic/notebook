@@ -10,6 +10,10 @@ It's EASY to predict when a new type of company is going to be created. The stoc
 
 # How to train your psychohistory intern 
 
+ 
+
 A psychohistory intern can predict 
+
+
 
 [^1]: The best stock traders also know this, but they can still make money from short term bubbles, let someone else hold the bag

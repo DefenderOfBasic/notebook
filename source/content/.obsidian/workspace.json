@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Psychohistory"
             }
+          },
+          {
+            "id": "73b37bb794e22182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current thing/Israel - Palestine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Israel - Palestine"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,8 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28a7211e6f783705",
+  "active": "73b37bb794e22182",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Isr.md",
     "Psychohistory.md",
     "Epistemic Firewall.md",
     "Projects/White Mirror - Reading Guide/How to claim your free White Mirror copy.md",
@@ -228,8 +244,6 @@
     "⭐️ Open Questions.md",
     "Reviews/What Makes an “A” an A? - pixi.md",
     "Reviews/spacechimplives.md",
-    "Reviews/Smugbug.md",
-    "Reviews/ZotBot.md",
     "Reviews/done",
     "_/attachments /Pasted image 20250710113242.png",
     "_/attachments /Pasted image 20250710111253.png",
