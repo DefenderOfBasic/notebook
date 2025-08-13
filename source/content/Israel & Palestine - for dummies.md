@@ -1,8 +1,10 @@
 1. Why won't Hamas just step down & end the conflict? Most Arabs don't like them anyway
 2. Why don't the palestinians just move? 
 
+
 A1 - they don't believe it will lead to peace. It feels more like stepping outside of a cage with the wolves around you. Lose lose
 A2 - those who can, have. Otherwise, neighboring Arab countries don't want mass migration & organized militias's  
+
 
 ---- 
 
