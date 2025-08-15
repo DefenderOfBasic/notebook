@@ -62,6 +62,16 @@
               "icon": "lucide-file",
               "title": "A scientific field is like a startup"
             }
+          },
+          {
+            "id": "e0ce43409a4e889f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 3
