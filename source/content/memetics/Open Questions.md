@@ -22,5 +22,9 @@ There are two categories: people who don't understand why memetics
 
 
 
+### A predictive model for the "cost" of information
+
+
+
 
 [^1]: a "hard break" in information connectivity is defined as 
