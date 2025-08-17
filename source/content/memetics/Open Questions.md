@@ -27,5 +27,11 @@ There are two categories: people who don't understand why memetics
 
 ### Would you take information from a dark memetics institute, if it released information that 
 
+### Wait, how would they "see" your lightcone change?
+
+How can another entity see "your attention"? By watching what you react to.
+
+The only way to prove that you are not paying attention to something (aka that you do not have a piece of information) is to allow it to hurt you. 
+
 
 [^1]: a "hard break" in information connectivity is defined as 
