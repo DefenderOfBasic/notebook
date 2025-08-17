@@ -33,5 +33,11 @@ How can another entity see "your attention"? By watching what you react to.
 
 The only way to prove that you are not paying attention to something (aka that you do not have a piece of information) is to allow it to hurt you. 
 
+### How to find "footsteps" of dark memetics
+
+Go to any information environment. Find a conflict. Find the root of this conflict (the full story, by talking to everyone).
+
+If a solution e
+
 
 [^1]: a "hard break" in information connectivity is defined as 
