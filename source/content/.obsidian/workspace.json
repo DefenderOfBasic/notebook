@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Benevolent Entity Finds Humanity.md",
+                "file": "ORI/Torchbearer Community.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Benevolent Entity Finds Humanity"
+              "title": "Torchbearer Community"
             }
           }
         ],
@@ -145,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,6 +254,8 @@
   "active": "cbe44c1d62fd01b7",
   "lastOpenFiles": [
     "A Benevolent Entity Finds Humanity.md",
+    "ORI/Torchbearer Community.md",
+    "ORI/Untitled",
     "ORI/Untestable Axioms.md",
     "How to weaponize a mystic's epistemic blindspots.md",
     "A scientific field is like a startup.md",
@@ -281,7 +282,6 @@
     "All the world's billionaires are here.md",
     "If I told you a novel about utopia,.md",
     "Untitled.md",
-    "Two ways in which ideas spread.md",
     "Projects/White Mirror - Reading Guide",
     "_/Untitled",
     "_/attachments /Pasted image 20250728090743.png",
@@ -299,7 +299,6 @@
     "_/templates",
     "Daily Notes/xAI-live-twitter-search",
     "_/attachments /Geopolitics - Blackbird.AI's Constellation Narrative Intelligence Platform.mp4",
-    "Daily Notes",
     "Untitled.canvas"
   ]
 }
