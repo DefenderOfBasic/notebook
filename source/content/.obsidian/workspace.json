@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -279,10 +279,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9f68e9cd4a09b46",
+  "active": "da82e380d294ea9b",
   "lastOpenFiles": [
-    "memetics/Open Questions.md",
     "Two aligned actors walk into a bar.md",
+    "memetics/Open Questions.md",
     "Untitled 1.md",
     "ORI/Torchbearer Community.md",
     "A Benevolent Entity Finds Humanity.md",

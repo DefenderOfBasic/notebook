@@ -39,5 +39,9 @@ Go to any information environment. Find a conflict. Find the root of this confli
 
 If a solution exists, and the leadership/those with decision power aren't enacting it, then you have a HAZARDOUS 🔴 information environment. It means there's a shadow government / deep state or something, OR your coordination is just bad. 
 
+### What is the frontier of knowledge in dark memetics?
+
+
+
 
 [^1]: a "hard break" in information connectivity is defined as 
