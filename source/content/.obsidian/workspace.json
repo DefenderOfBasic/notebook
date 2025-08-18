@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sabine",
+                "query": "profile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +173,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -279,7 +280,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da82e380d294ea9b",
+  "active": "0829eb50dbb8a2b3",
   "lastOpenFiles": [
     "Two aligned actors walk into a bar.md",
     "memetics/Open Questions.md",
