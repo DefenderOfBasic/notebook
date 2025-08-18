@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/White Mirror - Reading Guide/White Mirror - Index.md",
+                "file": "Reviews/Nathan Dileas - White Mirror.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "White Mirror - Index"
+              "title": "Nathan Dileas - White Mirror"
             }
           },
           {
@@ -119,8 +119,7 @@
               "title": "Two aligned actors walk into a bar"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,8 +172,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -280,10 +278,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0829eb50dbb8a2b3",
+  "active": "ae4ee00e2891ce5f",
   "lastOpenFiles": [
-    "Two aligned actors walk into a bar.md",
+    "Projects/White Mirror - Reading Guide/White Mirror - Index.md",
+    "Reviews/Nathan Dileas - White Mirror.md",
     "memetics/Open Questions.md",
+    "Two aligned actors walk into a bar.md",
     "Untitled 1.md",
     "ORI/Torchbearer Community.md",
     "A Benevolent Entity Finds Humanity.md",
@@ -293,7 +293,6 @@
     "A scientific field is like a startup.md",
     "How to measure your place in the entire human memome.md",
     "Projects/🪞 White Mirror - Reading Guide.md",
-    "Projects/White Mirror - Reading Guide/White Mirror - Index.md",
     "Epistemic Firewall.md",
     "Psychohistory.md",
     "Teleology 101.md",
@@ -310,7 +309,6 @@
     "\"Take caution when accepting a premise from a stranger\".md",
     "Alignment Math.md",
     "memetics/💡 Push vs Pull.md",
-    "How smart nerds hinder the spread of good ideas.md",
     "Projects/White Mirror - Reading Guide",
     "_/Untitled",
     "_/attachments /Pasted image 20250728090743.png",
