@@ -28,7 +28,7 @@ This part in particular is the same goal Michael Smith has/is advocating for.
 
 this is maybe the most exciting part. If I were trying to market this paper this is maybe one of the lines I'd use (especially to attract if anyone else has done this, or is trying to do it)
 
-(I threw this line into Exa's semantic search just to see if there's anyone el)
+(I threw this line into Exa's semantic search just to see if there's anyone else writing about this. After Wolfram's own writing, I found (June 2025) [The Transiad and the Transputational Function (Φ): Universal Actualization Dynamics and the Emergence of Physical Reality](https://www.novaspivack.com/science/the-transiad-and-the-transputational-function-%CF%86-universal-actualization-dynamics-and-the-emergence-of-physical-reality)- can't tell at first glance if there's any useful overlap here)
 
 
 ---
