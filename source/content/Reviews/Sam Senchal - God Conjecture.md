@@ -28,6 +28,7 @@ This part in particular is the same goal Michael Smith has/is advocating for.
 
 this is maybe the most exciting part. If I were trying to market this paper this is maybe one of the lines I'd use (especially to attract if anyone else has done this, or is trying to do it)
 
+(I threw this line into Exa's semantic search just to see if there's anyone el)
 
 
 ---
