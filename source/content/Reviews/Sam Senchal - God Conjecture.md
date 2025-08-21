@@ -18,6 +18,18 @@ This part in particular is the same goal Michael Smith has/is advocating for.
 
 ⭐️ This is a GREAT pull quote
 
+> It establishes faith—understood here as the selection of foundational axioms—not as an intellectual weakness or a stopgap for missing knowledge, but as the necessary basis for any system of understanding
+
+⭐️⭐️⭐️
+
+> This paper provides the first systematic mapping between the Ruliad computational metaphysics and Kabbalistic emanation theory
+
+⭐️⭐️⭐️
+
+this is maybe the most exciting part. If I were trying to market this paper this is maybe one of the lines I'd use (especially to attract if anyone else has done this, or is trying to do it)
+
+
+
 ---
 
 > Every attempt to derive "ought" from "is," to extract meaning from mechanism, fails. This is not a temporary limitation that future science will overcome but appears to be a structural feature of the empirical method itself.
@@ -28,7 +40,7 @@ I think the latter group would point to this following sentence to say "see! eve
 
 > This is not an attempt to prove God's existence through physics—such a proof would violate the very epistemic boundaries we are describing. 
 
-There's probably a metaphor here to explain it, but it's like, one model is "bigger" than the other? You can see how physics fits in a world where God exists, but you can't "see" God from inside the physics world. Like a 
+There's probably a metaphor here to explain it, but it's like, one model is "bigger" than the other? You can see how physics fits in a world where God exists, but you can't "see" God from inside the physics world. Like a piece of software that cannot "see" the hardware it is running on?
 
 ----
 
@@ -63,5 +75,6 @@ these are great pointers, can see each of these being a whole essay (or a series
 Questions
 
 - What does it mean that reality has a "linguistic component"?
+- "The choice between naturalistic and theistic axioms" -> i don't think I understand this paragraph. But I think maybe this hints at the question I had earlier about what makes the "Observer special" - like the naturalistic view would be that the observer is itself just part of the infinite paths of the Ruliad, like any other object?
 
 
