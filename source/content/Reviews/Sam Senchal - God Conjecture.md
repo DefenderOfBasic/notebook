@@ -18,9 +18,19 @@ This part in particular is the same goal Michael Smith has/is advocating for.
 
 ⭐️ This is a GREAT pull quote
 
+---
+
 > Every attempt to derive "ought" from "is," to extract meaning from mechanism, fails. This is not a temporary limitation that future science will overcome but appears to be a structural feature of the empirical method itself.
 
 This is a bold claim, and I think one of the most important pieces of this. I think this splits the readers: some will 100% agree with this and say they've believed in this for a long time now, and are excited to find the others. And those who think this is crazy, that this is "abandoning the scientific method" and is a regression to a dark age.
+
+I think the latter group would point to this following sentence to say "see! even you admit you are describing a futile effort"
+
+> This is not an attempt to prove God's existence through physics—such a proof would violate the very epistemic boundaries we are describing. 
+
+There's probably a metaphor here to explain it, but it's like, one model is "bigger" than the other? You can see how physics fits in a world where God exists, but you can't "see" God from inside the physics world. Like a 
+
+----
 
 > This paper advances what we call the God Conjecture: that the Ruliad-Observer framework emerging from computational physics is structurally isomorphic to classical theological accounts of divine creation and sustenance of reality. 
 
@@ -31,6 +41,7 @@ This is a bold claim, and I think one of the most important pieces of this. I th
 Been thinking about this a lot recently! I drew the bottom one, and [Poser](https://x.com/pk_htown) drew the top ones. 
 
 ![[Pasted image 20250821131518.png]]
+
 
 
 ----
