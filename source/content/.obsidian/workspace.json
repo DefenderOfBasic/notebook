@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Walter da Silva"
             }
+          },
+          {
+            "id": "c0b02fd919d7d3fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,10 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a96099f2a21c8fb6",
+  "active": "c0b02fd919d7d3fb",
   "lastOpenFiles": [
-    "How to measure your place in the entire human memome.md",
     "Reviews/Walter da Silva.md",
+    "How to measure your place in the entire human memome.md",
     "Projects/🪞 White Mirror - Reading Guide.md",
     "Draft Essay - \"Islam is the Apple of Religions\".md",
     "Reviews/Sam Senchal - God Conjecture.md",
