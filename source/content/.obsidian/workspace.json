@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae4ee00e2891ce5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draft Essay - \"Islam is the Apple of Religions\".md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Draft Essay - \"Islam is the Apple of Religions\""
-            }
-          },
-          {
             "id": "6a29260ef1d8208f",
             "type": "leaf",
             "state": {
@@ -41,85 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to measure your place in the entire human memome.md",
+                "file": "Reviews/Walter da Silva.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to measure your place in the entire human memome"
-            }
-          },
-          {
-            "id": "3a4b2767acec1b16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A scientific field is like a startup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A scientific field is like a startup"
-            }
-          },
-          {
-            "id": "e0ce43409a4e889f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ORI/Untestable Axioms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untestable Axioms"
-            }
-          },
-          {
-            "id": "cbe44c1d62fd01b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ORI/Torchbearer Community.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Torchbearer Community"
-            }
-          },
-          {
-            "id": "da82e380d294ea9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "memetics/Open Questions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Open Questions"
-            }
-          },
-          {
-            "id": "e9f68e9cd4a09b46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Two aligned actors walk into a bar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Two aligned actors walk into a bar"
+              "title": "Walter da Silva"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,8 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae4ee00e2891ce5f",
+  "active": "a96099f2a21c8fb6",
   "lastOpenFiles": [
+    "How to measure your place in the entire human memome.md",
+    "Reviews/Walter da Silva.md",
+    "Projects/🪞 White Mirror - Reading Guide.md",
+    "Draft Essay - \"Islam is the Apple of Religions\".md",
     "Reviews/Sam Senchal - God Conjecture.md",
     "_/attachments /Pasted image 20250821131518.png",
     "Reviews/Nathan Dileas - White Mirror.md",
@@ -293,8 +214,6 @@
     "ORI/Untestable Axioms.md",
     "How to weaponize a mystic's epistemic blindspots.md",
     "A scientific field is like a startup.md",
-    "How to measure your place in the entire human memome.md",
-    "Projects/🪞 White Mirror - Reading Guide.md",
     "Epistemic Firewall.md",
     "Psychohistory.md",
     "Teleology 101.md",
@@ -308,7 +227,6 @@
     "Projects/White Mirror - Reading Guide/How to claim your free White Mirror copy.md",
     "Projects/White Mirror - Reading Guide/How to submit answers to the reading questions.md",
     "Projects/🟢 🔴 Good & Evil Words.md",
-    "\"Take caution when accepting a premise from a stranger\".md",
     "Projects/White Mirror - Reading Guide",
     "_/Untitled",
     "_/attachments /Pasted image 20250728090743.png",
