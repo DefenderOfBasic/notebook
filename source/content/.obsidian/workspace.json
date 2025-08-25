@@ -45,8 +45,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0b02fd919d7d3fb",
+  "active": "6a29260ef1d8208f",
   "lastOpenFiles": [
     "Reviews/Walter da Silva.md",
     "How to measure your place in the entire human memome.md",
