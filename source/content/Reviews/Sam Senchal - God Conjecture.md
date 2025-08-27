@@ -1,3 +1,16 @@
+#### Section 2
+
+> Understanding these underlying frameworks is essential, for they reveal why brilliant minds across centuries have reached diametrically opposed conclusions while examining the same universe
+
+important point - I think something a lot of people get stuck on here is "ok, so it's arbitrary, you can setup whatever axioms you want, and reach whatever conclusion you want"
+
+but I think there's a way to concisely explain why that isn't the case. And it's wh
+
+
+---
+
+#### Section 1
+
 > all possible initial conditions evolved through all possible histories
 
 this is the most concise, accessible description I've heard of the Ruliad 👍
