@@ -6,7 +6,12 @@ important point - I think something a lot of people get stuck on here is "ok, so
 
 but I think there's a way to concisely explain why that isn't the case. And it's why I have in the ORI onboarding a note for "what is real? what is true" (I think we can actually "test" these different worldviews. This is the key)
 
+> The God Conjecture that follows will demonstrate how classical theological concepts map onto computational structures in surprising and illuminating ways. The emanation of reality from divine unity finds a precise analogue in the observer's parsing of the Ruliad. The divine attributes of omniscience, omnipotence, and necessity emerge naturally from the Ruliad's properties. The problem of evil transforms into a question about computational irreducibility and observer limitations. The hiddenness of God becomes a necessary feature of the observer-Ruliad relationship.
+>
+> This is not a proof of God's existence in the classical sense, nor is it a reduction of God to computation. Rather, it shows that the computational framework provides a space where scientific and theological insights can meet and enrich each other
 
+
+> what is the nature of the necessary, omniscient, omnipotent foundation of reality that computation reveals? Is it personal or impersonal? Conscious or unconscious? Loving or indifferent?
 
 ---
 
