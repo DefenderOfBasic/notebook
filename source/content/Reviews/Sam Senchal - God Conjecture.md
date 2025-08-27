@@ -4,7 +4,8 @@
 
 important point - I think something a lot of people get stuck on here is "ok, so it's arbitrary, you can setup whatever axioms you want, and reach whatever conclusion you want"
 
-but I think there's a way to concisely explain why that isn't the case. And it's wh
+but I think there's a way to concisely explain why that isn't the case. And it's why I have in the ORI onboarding a note for "what is real? what is true" (I think we can actually "test" these different worldviews. This is the key)
+
 
 
 ---
