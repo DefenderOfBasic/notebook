@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "1f56df01e67ca425",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
             "id": "a96099f2a21c8fb6",
             "type": "leaf",
             "state": {
@@ -45,7 +57,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,6 +208,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -204,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a29260ef1d8208f",
+  "active": "1f56df01e67ca425",
   "lastOpenFiles": [
     "Reviews/Walter da Silva.md",
     "How to measure your place in the entire human memome.md",
