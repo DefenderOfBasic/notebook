@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "1f56df01e67ca425",
+            "id": "9db6f2299bc323b1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Narrative Wall.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "Narrative Wall"
             }
           },
           {
@@ -46,19 +48,9 @@
               "icon": "lucide-file",
               "title": "Walter da Silva"
             }
-          },
-          {
-            "id": "c0b02fd919d7d3fb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,11 +210,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f56df01e67ca425",
+  "active": "a96099f2a21c8fb6",
   "lastOpenFiles": [
     "Reviews/Walter da Silva.md",
-    "How to measure your place in the entire human memome.md",
+    "Narrative Wall.md",
+    "_/attachments /Pasted image 20250827095810.png",
     "Projects/🪞 White Mirror - Reading Guide.md",
+    "How to measure your place in the entire human memome.md",
     "Draft Essay - \"Islam is the Apple of Religions\".md",
     "Reviews/Sam Senchal - God Conjecture.md",
     "_/attachments /Pasted image 20250821131518.png",
@@ -248,8 +242,6 @@
     "Current thing/Israel - Palestine.md",
     "Isr.md",
     "Projects/White Mirror - Reading Guide/How to claim your free White Mirror copy.md",
-    "Projects/White Mirror - Reading Guide/How to submit answers to the reading questions.md",
-    "Projects/🟢 🔴 Good & Evil Words.md",
     "Projects/White Mirror - Reading Guide",
     "_/Untitled",
     "_/attachments /Pasted image 20250728090743.png",
@@ -260,7 +252,6 @@
     "Reviews/done",
     "_/attachments /Pasted image 20250710113242.png",
     "_/attachments /Pasted image 20250710111253.png",
-    "_/attachments /Pasted image 20250704075526.png",
     "Reviews",
     "Current thing",
     "_/templates",
