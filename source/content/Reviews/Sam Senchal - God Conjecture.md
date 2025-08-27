@@ -8,6 +8,10 @@
 
 yessss
 
+> The convergence of diverse traditions on similar ultimate concepts—whether called Ein Sof, Brahman, Dao, or Allah—suggests not cultural accident but the discovery of genuine features of reality's deep structure
+
+🔥
+
 
 
 ---
