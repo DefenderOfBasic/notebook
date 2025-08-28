@@ -20,6 +20,14 @@ yessss
 
 > The shaman's role parallels that of a systems administrator—someone who understands the local rules well enough to intervene
 
+> this phase established the crucial insight that would drive all subsequent religious development: the intuition that invisible forces with agency shape visible reality
+
+2. Shamanic Complexification (30,000 BCE): The Discovery of Alternative Realities
+
+
+
+
+
 ---
 
 #### Section 2
