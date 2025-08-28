@@ -12,7 +12,13 @@ yessss
 
 🔥
 
+1. Animistic Foundations (50,000+ BCE): The Discovery of Causation
 
+> This was not primitive confusion but a reasonable inference from observed patterns: effects seemed to have causes, and the most familiar causes were intentional agents like humans themselves
+
+> From a computational perspective, animism resembles a cellular automaton where each cell follows local rules without global coordination
+
+> The shaman's role parallels that of a systems administrator—someone who understands the local rules well enough to intervene
 
 ---
 
