@@ -63,7 +63,8 @@
               "title": "Walter da Silva"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a29260ef1d8208f",
+  "active": "9db6f2299bc323b1",
   "lastOpenFiles": [
     "Projects/🪞 White Mirror - Reading Guide.md",
     "How to test your understanding of art, empirically.md",
