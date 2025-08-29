@@ -11,4 +11,10 @@ Now, any schmuck can "do the unexpected" to break your model. An artist breaks y
 
 You go the author and say, "X should have happened instead of Y". They say:
 
-1. 
+1. ❌ "No, that doesn't make sense, here's why" 
+2. ❌ "Oh, yes I see that! That's very different from what I was going for"
+3. ✅ "Woah, you're right!" -> *changes it*
+
+Just because the author doesn't see what you see in it doesn't mean you're wrong. 
+
+But if you're right, you can find someone else who sees what you see, who can make the same predictions you make 
