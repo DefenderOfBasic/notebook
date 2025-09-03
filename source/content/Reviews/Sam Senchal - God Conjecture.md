@@ -24,7 +24,7 @@ yessss
 
 2. Shamanic Complexification (30,000 BCE): The Discovery of Alternative Realities
 
-Understanding a memetic engineer’s “end game” is one of the most useful pieces of information because it is what stays constant even as everything else changes. Other words I use for this “the attractor they are chaosing” (chaos theory), “their purpose”, “their telos” (teleology). Or, if you’d prefer a more dramatic ancient word: “their eschatology” (the final end state of the world that they envision bringing into fruition)
+
 
 
 
