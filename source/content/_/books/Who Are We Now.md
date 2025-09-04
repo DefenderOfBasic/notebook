@@ -1,4 +1,10 @@
 
+**Meta-disclaimer: don't trust disclaimers by advertisers**
+
+"I am promoting this because it helps make the world a better place!" he says. 
+
+-----
+
 **Disclaimer: this is an ad**
 
 I am promoting this book. I wrote this thread because I want people to read it. I was not paid to promote it, nor did I coordinate this with the author or publisher. 
