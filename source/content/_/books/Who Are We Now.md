@@ -1,3 +1,7 @@
+- In **Part I - Handedness** he shows you the t 
+
+
+----
 
 Human physics https://whoarewenow.net/chapter-16/#tataouineatnight
 ![[Pasted image 20250516080214.png]]

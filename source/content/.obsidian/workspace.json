@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reviews/Sam Senchal - God Conjecture.md",
+                "file": "_/books/Who Are We Now.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sam Senchal - God Conjecture"
+              "title": "Who Are We Now"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "profile",
+                "query": "Who Are ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,11 +241,11 @@
   },
   "active": "2794543ac54f75cb",
   "lastOpenFiles": [
+    "Reviews/Sam Senchal - God Conjecture.md",
     "how to find your neighbors in idea space.md",
     "Daily Notes/2025-08-29.md",
     "Projects/🪞 White Mirror - Reading Guide.md",
     "How to test your understanding of art, empirically.md",
-    "Reviews/Sam Senchal - God Conjecture.md",
     "Narrative Wall.md",
     "Reviews/Walter da Silva.md",
     "_/attachments /Pasted image 20250827095810.png",
