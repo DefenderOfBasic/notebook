@@ -1,4 +1,4 @@
-- In **Part I - Handedness** he shows you the t 
+- In **Part I - Handedness** he shows you the tools he's going to use  
 
 
 ----
