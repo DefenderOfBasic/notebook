@@ -1,7 +1,7 @@
 
 **Meta-disclaimer: don't trust disclaimers by advertisers**
 
-"I am promoting this because it helps make the world a better place!" he says. 
+"I am promoting this because it helps make the world a better place!" he says 
 
 -----
 
