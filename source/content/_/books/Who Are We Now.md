@@ -1,9 +1,9 @@
 
-	**Disclaimer: this is an ad**
-	
-	I am promoting this book. I wrote this thread because I want people to read it. I was not paid to promote it, nor did I coordinate this with the author or publisher. 
-	
-	But I am benefiting via the promotion of this book. This book describes how to do rigorous memetics. If more people understand this, my work becomes more valuable, because more people will understand what I'm trying to do. So, it's an ad in the same way that 
+**Disclaimer: this is an ad**
+
+I am promoting this book. I wrote this thread because I want people to read it. I was not paid to promote it, nor did I coordinate this with the author or publisher. 
+
+But I am benefiting via the promotion of this book. This book describes how to do rigorous memetics. If more people understand this, my work becomes more valuable, because more people will understand what I'm trying to do. So, it's an ad in the same way that <see next page>
 
 
 
