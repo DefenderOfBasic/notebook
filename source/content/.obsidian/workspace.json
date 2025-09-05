@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,7 +238,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2794543ac54f75cb",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "Reviews/Sam Senchal - God Conjecture.md",
     "how to find your neighbors in idea space.md",
