@@ -35,8 +35,7 @@
               "title": "Ogi's Explanation of Maxwell"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb2a94fa8c534bbd",
+  "active": "4b8c4092d07b4b76",
   "lastOpenFiles": [
-    "The Arrow of Time.md",
     "Ogi's Explanation of Maxwell.md",
+    "The Arrow of Time.md",
     "Maxwell's Game.md",
     "_/attachments /Pasted image 20250918083550.png",
     "memetics/Open Memetics Proposals.md",

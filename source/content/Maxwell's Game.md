@@ -1,9 +1,9 @@
 
-Is this true or false: 
+Defender is convinced the following is true. Can we demonstrate why it is not true, or figure out why he is so convinced it is true?
 
 > (1) Maxwell's Game is a thought experiment demonstrates a way to extract "free energy" from a system. We know this is not possible, the question is why.
 > 
-> (2) An incorrect explanation is that 
+> (2) 
 
 
 
