@@ -1,4 +1,20 @@
 
+Is this true or false: 
+
+> Maxwell's Game as a thought experiment demonstrates a way to extract energy from a system  
+
+----
+
+Szilard engine
+
+![[Pasted image 20250918083550.png]]
+
+https://x.com/DefenderOfBasic/status/1898119986582790586/
+
+
+
+---
+
 > my current understanding is, this is the solution to maxwell's game: if the universe were classical, you could in fact beat the game, because you could in fact break 2nd law. But you can't break 2nd law, game is impossible
 
 https://x.com/DefenderOfBasic/status/1897123059284500960
@@ -12,7 +28,6 @@ https://x.com/DefenderOfBasic/status/1924914266999570561
 See "Hunting for Maxwell’s Demon in the Wild" https://arxiv.org/pdf/2504.11329
 
 ---
-
 
 conversation with octo
 
