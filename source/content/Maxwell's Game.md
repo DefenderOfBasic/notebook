@@ -1,7 +1,12 @@
 
 Is this true or false: 
 
-> Maxwell's Game as a thought experiment demonstrates a way to extract energy from a system  
+> (1) Maxwell's Game is a thought experiment demonstrates a way to extract "free energy" from a system. We know this is not possible, the question is why.
+> 
+> (2) An incorrect explanation is that 
+
+
+
 
 ----
 
