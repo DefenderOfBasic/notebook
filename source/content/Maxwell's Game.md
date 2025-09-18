@@ -3,11 +3,10 @@ Defender is convinced the following is true. Can we demonstrate why it is not tr
 
 > (1) Maxwell's Game is a thought experiment demonstrates a way to extract "free energy" from a system. We know this is not possible, the question is why.
 > 
-> (2) The currently accepted solution(s) that treat this problem are all incorrect. **This is taken somewhat on faith, open to challenge - see Argument 1 below**
+> (2) The currently accepted solution(s) that treat this problem as 100% physical are all incorrect. **(this is taken somewhat on faith, open to challenge - see Argument 1 below)**
 > 
 > (3) The correct solution requires modeling the demon as a mind, and understanding the constraints on mind's ability to predict reality
 
-See also [[Ogi's Explanation of Maxwell]]. 
 
 ---
 
@@ -17,7 +16,11 @@ From https://en.wikipedia.org/wiki/Maxwell%27s_demon:
 
 > The essence of the physical argument is to show, by calculation, that any demon must "generate" more entropy segregating the molecules than it could ever eliminate by the method described. That is, **it would take more thermodynamic work to gauge the speed of the molecules** and selectively allow them to pass through the opening between _A_ and _B_ than the amount of [energy](https://en.wikipedia.org/wiki/Energy "Energy") gained by the difference of temperature caused by doing so
 
-The bolded claim is unsubstantiated - 
+The bolded claim is unsubstantiated - is it really fundamentally necessary that it MUST happen to take at least as much energy to compute that?
+
+From [[Ogi's Explanation of Maxwell]]:
+
+> Physicists hunted for the hidden mechanism that explained why the activity of separating molecules of different speeds somehow automatically burned up more energy than you’d get from your new box of fuel—even though there was no apparent reason why there should be a fixed correlation between the act of separating molecules and the fuel you obtained from the separation
 
 
 ----
