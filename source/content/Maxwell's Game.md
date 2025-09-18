@@ -22,16 +22,25 @@ From [[Ogi's Explanation of Maxwell]]:
 
 > Physicists hunted for the hidden mechanism that explained why the activity of separating molecules of different speeds somehow automatically burned up more energy than you’d get from your new box of fuel—even though there was no apparent reason why there should be a fixed correlation between the act of separating molecules and the fuel you obtained from the separation
 
+---
+
+This paper, April 2025, shows evidence of "information engines" in biology? Which means, what, Maxwell's demon CAN generate *some* energy, just not infinite energy?? 
+
+See "Hunting for Maxwell’s Demon in the Wild" https://arxiv.org/pdf/2504.11329
+
+
+> In parallel, technological progress in the control of mesoscale systems has allowed for Maxwell’s demon to be realized experimentally
+> 
+>These “information engines” extract energy from the surrounding environment and can attain performance comparable to evolved molecular motors within biological organisms
 
 ----
+# Everything Below Here Is Notes / Appendix 
 
-Szilard engine
+---
 
-![[Pasted image 20250918083550.png]]
+"Capturing the Demon in Szilard’s Engine", April 2025
 
-https://x.com/DefenderOfBasic/status/1898119986582790586/
-
-
+https://arxiv.org/html/2504.07331v1
 
 ---
 
@@ -41,16 +50,16 @@ https://x.com/DefenderOfBasic/status/1897123059284500960
 
 ---
 
-> new paper, April 16 2025, demonstrates that biological systems leverage the fact that you can create energy from "mere knowledge"
-
-https://x.com/DefenderOfBasic/status/1924914266999570561
-
-See "Hunting for Maxwell’s Demon in the Wild" https://arxiv.org/pdf/2504.11329
-
----
-
 conversation with octo
 
 > When we say that the demon "knows" the speed of the particle, we don't even need to invoke measurement effects All we're saying is really "the demon acts differently based on the particle's state some time before it reaches the junction between chambers"
 
 https://x.com/the_octobro/status/1897120251734794359
+
+----
+
+See Szilard engine
+
+![[Pasted image 20250918083550.png]]
+
+https://x.com/DefenderOfBasic/status/1898119986582790586/
