@@ -28,7 +28,6 @@ This paper, April 2025, shows evidence of "information engines" in biology? Whic
 
 See "Hunting for Maxwell’s Demon in the Wild" https://arxiv.org/pdf/2504.11329
 
-
 > In parallel, technological progress in the control of mesoscale systems has allowed for Maxwell’s demon to be realized experimentally
 > 
 >These “information engines” extract energy from the surrounding environment and can attain performance comparable to evolved molecular motors within biological organisms
