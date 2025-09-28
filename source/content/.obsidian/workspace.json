@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "fdc9bfc90cf577e7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_/attachments /Pasted image 20250928161716.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250928161716"
+            }
+          },
+          {
             "id": "bb2a94fa8c534bbd",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,12 +222,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab90fb55b8eda8b4",
+  "active": "fdc9bfc90cf577e7",
   "lastOpenFiles": [
+    "<OPEN QUESTION>.md",
     "_/attachments /Pasted image 20250928161716.png",
     "_/attachments /Pasted image 20250928161109.png",
     "Maxwell's Game.md",
-    "<OPEN QUESTION>.md",
     "Ogi's Explanation of Maxwell.md",
     "The Arrow of Time.md",
     "_/attachments /Pasted image 20250918083550.png",
@@ -250,7 +262,6 @@
     "_/attachments /Pasted image 20250728090743.png",
     "_/attachments /Pasted image 20250728090730.png",
     "_/attachments /Pasted image 20250728090715.png",
-    "_/attachments /Pasted image 20250728090640.png",
     "Projects",
     "Reviews/done",
     "Reviews",
