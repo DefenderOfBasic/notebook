@@ -6,3 +6,4 @@
 
 # ORI Knowledge Sharing Format
 
+![[Pasted image 20250928161716.png]]
