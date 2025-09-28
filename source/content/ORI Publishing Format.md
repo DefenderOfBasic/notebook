@@ -1,1 +1,0 @@
-It's a common misconception that "outer space is quiet" - that's like saying, 
