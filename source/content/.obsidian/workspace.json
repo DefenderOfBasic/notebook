@@ -48,6 +48,18 @@
             }
           },
           {
+            "id": "d530b6a9d70c2a78",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "bb2a94fa8c534bbd",
             "type": "leaf",
             "state": {
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,7 +234,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdc9bfc90cf577e7",
+  "active": "d530b6a9d70c2a78",
   "lastOpenFiles": [
     "<OPEN QUESTION>.md",
     "_/attachments /Pasted image 20250928161716.png",
