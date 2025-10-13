@@ -1,1 +1,0 @@
-A friend was telling me about something everyone was praising on reddit, that I recognized as having originated from Lesswrong 
