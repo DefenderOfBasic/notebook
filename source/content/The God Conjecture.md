@@ -1,3 +1,3 @@
-_By Sam Senchal (@samsenchal)_
+_by Sam Senchal (@samsenchal)_
 
 
