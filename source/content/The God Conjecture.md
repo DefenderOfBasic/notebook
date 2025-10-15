@@ -50,6 +50,10 @@ Jewish mysticism
 
 "necessary existence"
 
+- questions?
+- your frontier? 
+	- 
+
 
 - Religion as proto science 
 - What is God?
