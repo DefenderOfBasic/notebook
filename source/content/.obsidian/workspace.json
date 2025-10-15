@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07332b7fef769947",
+  "active": "a0cc8a6925b0e337",
   "lastOpenFiles": [
     "Untitled 3.md",
     "The God Conjecture.md",
