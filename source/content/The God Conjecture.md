@@ -8,6 +8,11 @@ timeline
 - 
 
 
+"meta observer"
+
+META 
+
+
 - Religion as proto science 
 - What is God?
 - Why does evil exist? 
