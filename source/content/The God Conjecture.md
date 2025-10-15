@@ -12,7 +12,13 @@ timeline
 
 META 
 
-"Science comes out of religion"
+⭐️ "Science comes out of religion"
+
+❌ "separate magisteria"
+
+(1) religion is a truth seeking process 
+	"cargo cult religion" 
+(2) if religion is true, and science is true, then they have to be compatible 
 
 
 - Religion as proto science 
