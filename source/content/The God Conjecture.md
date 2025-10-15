@@ -27,10 +27,12 @@ Ruliad
 ⭐️ IT CONVERGES 
 
 
+
+
 - Religion as proto science 
 - What is God?
 - Why does evil exist? 
 - Free will
 - connect quantum to macro?
-	- moving my arm, allows lots of degrees of freedoms of atoms, still constrained by the one
+	- ⭐️⭐️ moving my arm, allows lots of degrees of freedoms of atoms, still constrained by the one
 	- same with God? what are the constraints God places? 
