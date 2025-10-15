@@ -46,6 +46,9 @@ different rules for what counts as knowledge when arguing about God
 
 computational irreducibility 
 
+Jewish mysticism 
+
+"necessary existence"
 
 
 - Religion as proto science 
