@@ -40,6 +40,13 @@ observer core properties
 moving in the Ruliad -> 
 		choices at each 
 
+different rules for what counts as knowledge when arguing about God 
+
+- smart people can look at the same world, and see different conclusions 
+
+computational irreducibility 
+
+
 
 - Religion as proto science 
 - What is God?
