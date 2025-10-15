@@ -24,6 +24,7 @@ META
 
 Ruliad 
 
+⭐️ IT CONVERGES 
 
 
 - Religion as proto science 
