@@ -4,6 +4,10 @@ https://x.com/DefenderOfBasic/status/1978193541776998876
 
 "Game Theory in Information Space"
 
+timeline 
+- 
+
+
 - Religion as proto science 
 - What is God?
 - Why does evil exist? 
