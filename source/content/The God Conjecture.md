@@ -26,7 +26,17 @@ Ruliad
 
 ⭐️ IT CONVERGES 
 
-Observer constructed 
+reality is Observer constructed 
+
+hypergraph = 
+
+persistent object through time, is doing computation inside Ruliad
+
+observer core properties
+- all finite, computationally bounded (limited bandwidth, memory, processing)
+	- "coarse graining" (take detail from snapshot, blurring the detail)
+- 
+
 
 
 - Religion as proto science 
