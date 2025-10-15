@@ -20,6 +20,11 @@ META
 	"cargo cult religion" 
 (2) if religion is true, and science is true, then they have to be compatible 
 
+"science is bottom up, theology is top down"
+
+Ruliad 
+
+
 
 - Religion as proto science 
 - What is God?
