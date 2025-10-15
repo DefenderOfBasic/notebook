@@ -35,8 +35,10 @@ persistent object through time, is doing computation inside Ruliad
 observer core properties
 - all finite, computationally bounded (limited bandwidth, memory, processing)
 	- "coarse graining" (take detail from snapshot, blurring the detail)
-- 
+- persistent 
 
+moving in the Ruliad -> 
+		choices at each 
 
 
 - Religion as proto science 
