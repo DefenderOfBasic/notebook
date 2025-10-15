@@ -12,6 +12,8 @@ timeline
 
 META 
 
+"Science comes out of religion"
+
 
 - Religion as proto science 
 - What is God?
