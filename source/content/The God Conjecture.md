@@ -26,7 +26,7 @@ Ruliad
 
 ⭐️ IT CONVERGES 
 
-
+Observer constructed 
 
 
 - Religion as proto science 
