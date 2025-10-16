@@ -8,4 +8,4 @@
 
 <span style="color:gray">probably require sa few other things, like ability to grow in complexity. You cannot model yourself - you can only model something simpler than yourself ?</span>
 
-3. Deduce what must be true of things that exist, based on your knowledge of reality, and then filter for what 
+3. ...... ?
