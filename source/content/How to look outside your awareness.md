@@ -8,4 +8,4 @@
 
 <span style="color:gray">probably require sa few other things, like ability to grow in complexity. You cannot model yourself - you can only model something simpler than yourself ?</span>
 
-3. ...... ?
+3. Now logically think about what things are outside of your awareness, deduce their existence. Use your knowledge of reality to 
