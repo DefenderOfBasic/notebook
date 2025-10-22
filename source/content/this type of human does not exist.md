@@ -16,3 +16,6 @@ the future has to match the past
 ---
 
 
+# Why is everyone LARPing?
+
+It's because honesty & authenticity is rewarded, up to the point where it is abrasive to the egre
