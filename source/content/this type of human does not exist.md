@@ -13,3 +13,6 @@ the future has to match the past
 
 # Q: How would you test a company that claims to sell you things that are "outside your awareness"?
 
+---
+
+
