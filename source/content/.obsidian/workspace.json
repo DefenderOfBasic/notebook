@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nooscope viral tweet.md",
+                "file": "Destigmatize being dumb (and smart).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nooscope viral tweet"
+              "title": "Destigmatize being dumb (and smart)"
             }
           },
           {
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dumb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -268,9 +269,9 @@
   },
   "active": "363773f5debaab29",
   "lastOpenFiles": [
+    "Nooscope viral tweet.md",
     "_/attachments /Pasted image 20251023102334.png",
     "The gender war is lowering humanity's IQ.md",
-    "Nooscope viral tweet.md",
     "this type of human does not exist.md",
     "How to look outside your awareness.md",
     "The God Conjecture.md",
@@ -306,7 +307,6 @@
     "Projects/White Mirror - Reading Guide",
     "_/Untitled",
     "_/attachments /Pasted image 20250728090743.png",
-    "_/attachments /Pasted image 20250728090730.png",
     "Projects",
     "Reviews/done",
     "Reviews",
