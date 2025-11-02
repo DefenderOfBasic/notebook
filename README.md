@@ -17,4 +17,6 @@ My second job is as a member of ORI, I am working on my own projects. The bigges
 
 TODO 
 
-(how to make money for myself as ORI staff? can we be a pipeline to funds like Analogue? Open Memetics axioms book. AoIA book. Prosocial Engineering marketing consultancy? Better ORI onboarding to get more people in a GitHub workflow. ORI polls app)
+(how to make money for myself as ORI staff? can we be a pipeline to funds like Analogue? Open Memetics axioms book. AoIA book. Prosocial Engineering marketing consultancy? Better ORI onboarding to get more people in a GitHub workflow. ORI polls app. Sam Senchal God Conjecture)
+
+(what is my personal knowledge frontier, what am I learning?)
