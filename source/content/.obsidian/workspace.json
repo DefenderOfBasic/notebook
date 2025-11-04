@@ -35,8 +35,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95bb742ab5ee4f5a",
+  "active": "c41eb8dbfd4792cd",
   "lastOpenFiles": [
+    "index.md",
     "Narrative Wall.md",
     "<OPEN QUESTION>.md",
     "Informational Myopia.md",
@@ -228,7 +228,6 @@
     "_/books/Who Are We Now.md",
     "Reviews/Sam Senchal - God Conjecture.md",
     "how to find your neighbors in idea space.md",
-    "Daily Notes/2025-08-29.md",
     "_/attachments /Pasted image 20250827095810.png",
     "_/attachments /Pasted image 20250821131518.png",
     "ORI/Untitled",
