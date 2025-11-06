@@ -7,4 +7,4 @@ A child cannot survive direct contact with reality, her organism unit is her fam
 
 A family cannot survive without the human superorganism (unless they are amish, civilization collapse doesn't spell doom for them)
 
-Any thing that lives needs to have a relationship with reality. Your parent organism may cut you off from reality to "protect you"
+Any thing that lives needs to have a relationship with reality. Your parent organism may cut you off from reality to "protect you". It might be lying, or it might be doing that in good faith. It's on you to figure out which is which
