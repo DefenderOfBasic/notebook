@@ -8,9 +8,9 @@ My second job is as a member of ORI, I am working on my own projects. The bigges
 
 #### People I am currently working with day to day:
 
-- [Katt](https://x.com/kaefairy_) & Oz are in my "open memetics" working group, we're thinking through the big picture (theory + outreach + what software we can build to move the needle, or real world experiments we can do)
+- [Katt](https://github.com/Kat-Stack/notebook) & Oz are in my "open memetics" working group, we're thinking through the big picture (theory + outreach + what software we can build to move the needle, or real world experiments we can do)
 - Tessus ([@mettafive](https://x.com/mettafive)) on co-founding ORI, and on his [Applied Spiral Dynamics](https://github.com/mettafive/applied-spiral-dynamics?tab=readme-ov-file#the-first-unlearning-platform) demo he's pitching at Edge City in Argentina (a research incubator)
-- Joshua (https://x.com/workflowsauce) & Pixie (https://x.com/piiixiiidust) general big picture for both ORI & open memetics. Joshua is my collaborator on the _Anatomy of an Internet Argument_ book/game project.
+- Joshua (https://x.com/workflowsauce) & Pixie (https://github.com/pixiiidust/Job-Search) general big picture for both ORI & open memetics. Joshua is my collaborator on the _Anatomy of an Internet Argument_ book/game project.
 - Everyone in the ORI discord, and in my twitter & substack classrooms. 
 
 #### Current open questions / goals
