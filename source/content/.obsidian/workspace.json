@@ -49,8 +49,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,12 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24a92745bc97db1c",
+  "active": "c41eb8dbfd4792cd",
   "lastOpenFiles": [
-    "Daily Notes/2025-11-05.md",
     "Reality has no safety guarentees.md",
-    "Narrative Wall.md",
     "index.md",
+    "Daily Notes/2025-11-05.md",
+    "Narrative Wall.md",
     "<OPEN QUESTION>.md",
     "Informational Myopia.md",
     "How to find a science \"intuition first\".md",
