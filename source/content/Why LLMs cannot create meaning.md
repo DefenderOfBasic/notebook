@@ -4,4 +4,4 @@
 
 ^ this is not true. Do you see the rebuttal that would convince this person?
 
-Hint: think about exactly WHAT changes in the world model of the person when they learn that an art piece is not made by human. It's something that 2009 rationalists 
+_Hint: think about exactly WHAT changes in the world model of the person when they learn that an art piece is not made by human. It's something that 2009 rationalists would not have in their world model, below their awareness_
