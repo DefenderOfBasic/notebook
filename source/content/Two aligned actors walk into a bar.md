@@ -1,1 +1,0 @@
-First one says, "you're evil" 

@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "_/attachments "
+  "attachmentFolderPath": "_/attachments ",
+  "promptDelete": false
 }

@@ -1,1 +1,0 @@
-https://pixiiidust.substack.com/p/how-the-spectacle-of-sight-deafens

@@ -1,5 +1,5 @@
 ---
-title: Defender's ORI Entry Point
+title: Defender's notebook
 aliases:
 ---
 ## About me

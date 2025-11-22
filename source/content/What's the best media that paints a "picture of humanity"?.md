@@ -1,3 +1,0 @@
-- _The Anthropocene Reviewed_ - by John Green reviews 
-- _Who Are We Now?_ - by Blaise Aguera 
-- 
