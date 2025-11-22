@@ -67,12 +67,14 @@
             "id": "6cfb73492a961363",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "Whiteboard.md"
+                "file": "_/Religion Was Discovered, Not Invented.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Whiteboard"
+              "title": "Religion Was Discovered, Not Invented"
             }
           },
           {
@@ -267,8 +269,8 @@
   },
   "active": "6cfb73492a961363",
   "lastOpenFiles": [
-    "Untitled 3.md",
     "Whiteboard.md",
+    "Untitled 3.md",
     "_/attachments /8b3460bf-3f15-4e13-9bac-c9a6e8767c5d-egregore-clean-jpeg.jpeg",
     "_/attachments /dc911c1c-9892-4b0d-ad1e-6397b9318891-egregore-clean-jpeg.jpeg",
     "Untitled 4.md",

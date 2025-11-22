@@ -1,8 +1,4 @@
 
-
-
---- 
-
 Someone wrote an essay that I could respond to with one called "What is Religion?"
 
 https://x.com/Hshsiwkmefbg/status/1922554563728437271
