@@ -6,3 +6,7 @@ past & future paths
 friendship circles
 
 ![[Pasted image 20251123112447.png]]
+
+one step ahead, one step below 
+
+![[Pasted image 20251123114334.png]]
