@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Can we please just get ONE picture of humanity?.md",
+                "file": "Screenshot Essays/Can we please just get ONE picture of humanity?.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Can we please just get ONE picture of humanity?.md",
+                "file": "Screenshot Essays/Can we please just get ONE picture of humanity?.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "There is No Source (screenshot essay).md",
+                "file": "Important Pictures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "There is No Source (screenshot essay)"
+              "title": "Important Pictures"
             }
           },
           {
@@ -283,14 +283,15 @@
   },
   "active": "a0554e94f98fbd08",
   "lastOpenFiles": [
-    "_/attachments /Pasted image 20251123124726.png",
-    "Can we please just get ONE picture of humanity?.md",
-    "There is No Source (screenshot essay).md",
+    "Screenshot Essays/Can we please just get ONE picture of humanity?.md",
+    "Screenshot Essays/There is No Source (screenshot essay).md",
+    "_/attachments /reality-no-safety-guarantees.png",
+    "_/attachments /past-future-paths.png",
+    "_/attachments /friendship-circles.png",
+    "_/attachments /there-is-no-source.png",
+    "_/attachments /one-step-above-one-below.png",
     "Important Pictures.md",
-    "_/attachments /Pasted image 20251123114334.png",
-    "_/attachments /Pasted image 20251123112447.png",
-    "_/attachments /Pasted image 20251123111357.png",
-    "_/attachments /Pasted image 20251123105048.png",
+    "Screenshot Essays",
     "_/attachments ",
     "_",
     "index.md",
@@ -302,7 +303,6 @@
     "_/attachments /Pasted image 20250704074921.png",
     "_/attachments /Pasted image 20250601192722.png",
     "_/attachments /Pasted image 20250531110225.png",
-    "_/attachments /Pasted image 20250522094344.png",
     "_/attachments /Geopolitics - Blackbird.AI's Constellation Narrative Intelligence Platform.mp4",
     "_/Anatomy of an Internet Argument.md",
     "_/Religion Was Discovered, Not Invented.md",
@@ -328,7 +328,6 @@
     "Projects",
     "Reviews/done",
     "Reviews",
-    "Current thing",
     "Untitled.canvas"
   ]
 }

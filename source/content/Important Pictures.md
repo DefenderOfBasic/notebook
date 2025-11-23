@@ -1,12 +1,14 @@
 
+
+
 past & future paths
 
-![[Pasted image 20251123111357.png]]
+![[past-future-paths.png]]
 
 friendship circles
 
-![[Pasted image 20251123112447.png]]
+![[friendship-circles.png]]
 
 one step ahead, one step below 
 
-![[Pasted image 20251123114334.png]]
+![[one-step-above-one-below.png]]
