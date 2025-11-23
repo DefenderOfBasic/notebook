@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important Pictures.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Important Pictures"
+              "title": "index"
             }
           },
           {
@@ -283,27 +283,27 @@
   },
   "active": "a0554e94f98fbd08",
   "lastOpenFiles": [
+    "Useful Diagrams.md",
+    "Screenshot Essays/There is No Source (original screenshot essay).md",
+    "Screenshot Essays/Can we please just get ONE picture of humanity?.md",
+    "index.md",
+    "_/attachments /egregore-proton.mp4",
     "_/attachments /alice-bob.png",
     "_/attachments /egregore-clean.jpeg",
     "_/attachments /one-step-above-one-below.jpeg",
-    "Screenshot Essays/Can we please just get ONE picture of humanity?.md",
-    "Screenshot Essays/There is No Source (screenshot essay).md",
     "_/attachments /reality-no-safety-guarantees.png",
     "_/attachments /past-future-paths.png",
     "_/attachments /friendship-circles.png",
     "_/attachments /there-is-no-source.png",
     "_/attachments /one-step-above-one-below.png",
-    "Important Pictures.md",
     "Screenshot Essays",
     "_/attachments ",
     "_",
-    "index.md",
     "⭐️ Open Research Institute.md",
     "Whiteboard.md",
     "Reality has no safety guarentees.md",
     "_/attachments /Pasted image 20251108100111.png",
     "_/attachments /Pasted image 20250728090640.png",
-    "_/attachments /Pasted image 20250704074921.png",
     "_/attachments /Geopolitics - Blackbird.AI's Constellation Narrative Intelligence Platform.mp4",
     "_/Anatomy of an Internet Argument.md",
     "_/Religion Was Discovered, Not Invented.md",
@@ -328,7 +328,6 @@
     "_/Untitled",
     "Projects",
     "Reviews/done",
-    "Reviews",
     "Untitled.canvas"
   ]
 }
