@@ -887,6 +887,30 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 2509.9528553916543,
+				"y": 563.3490974916808,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:u3gAP67uzMlQ7oqhipMlJ",
+				"type": "image",
+				"props": {
+					"w": 87.77882685699856,
+					"h": 87.77882685699856,
+					"assetId": "asset:184495127",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "page:page",
+				"index": "acCBc",
+				"typeName": "shape"
+			},
+			{
 				"x": 987.2283893807873,
 				"y": 2453.834471614621,
 				"rotation": 0,
@@ -1192,6 +1216,89 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "aP35S",
+				"typeName": "shape"
+			},
+			{
+				"x": 2379.298362293328,
+				"y": 682.255832413575,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:Y4dzfAOMdz7USr4mE8TxR",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 349.86491227747683,
+					"font": "draw",
+					"textAlign": "middle",
+					"autoSize": false,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "funding for your work"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "make ORI your project"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "it should fund you"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "ad87M",
 				"typeName": "shape"
 			},
 			{
@@ -1640,6 +1747,72 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "aV8z7",
+				"typeName": "shape"
+			},
+			{
+				"x": 2190.964972445406,
+				"y": 466.86398806050914,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:lqhkQoKZjifLlN2wPuBXK",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 341.66671859418835,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "long term ORI"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "short term scaffolding"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aa6nY",
 				"typeName": "shape"
 			},
 			{
@@ -2095,6 +2268,45 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "a79ZP",
+				"typeName": "shape"
+			},
+			{
+				"x": 2494.8592635497275,
+				"y": 646.5069836920737,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:u2aAGbVMZXCHhyIQ1ktrZ",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 122.46448516845703,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "\"director\""
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "ab7HQ",
 				"typeName": "shape"
 			}
 		]
