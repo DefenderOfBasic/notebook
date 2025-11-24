@@ -185,6 +185,45 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 2184.4612811636252,
+				"y": 432.6423042955158,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:tJKzeJuW2uNhMoNjKxU_X",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 175.04513549804688,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "\"What is ORI\""
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aZ8fx",
+				"typeName": "shape"
+			},
+			{
 				"x": 2344.630592018789,
 				"y": 2138.1060300171284,
 				"rotation": 0,
@@ -451,10 +490,10 @@ tags:
 				"props": {
 					"color": "black",
 					"size": "m",
-					"w": 370.1225280761719,
+					"w": 459.14981425477293,
 					"font": "draw",
 					"textAlign": "start",
-					"autoSize": true,
+					"autoSize": false,
 					"scale": 1,
 					"richText": {
 						"type": "doc",
@@ -470,6 +509,135 @@ tags:
 										"text": "ORI agenda"
 									}
 								]
+							},
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "CAN WE JUST HAVE REAL ONBOARDING"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "ORI IS ALREADY FUNCTIONING"
+													}
+												]
+											},
+											{
+												"type": "bulletList",
+												"content": [
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "2 person salary"
+																	}
+																]
+															},
+															{
+																"type": "bulletList",
+																"content": [
+																	{
+																		"type": "listItem",
+																		"content": [
+																			{
+																				"type": "paragraph",
+																				"attrs": {
+																					"dir": "auto"
+																				},
+																				"content": [
+																					{
+																						"type": "text",
+																						"text": "I could keep self funding"
+																					}
+																				]
+																			}
+																		]
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "investor money -> good use "
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "risky things -> my own money "
+																	}
+																]
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								}
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								}
 							},
 							{
 								"type": "bulletList",
