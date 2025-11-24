@@ -752,6 +752,45 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 1078.9371524187811,
+				"y": 1563.4425763636614,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:mOoqcc_i2KCNPgORSNEch",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 474.6373291015625,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "⭐️ Make prosocial engineering a thing"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aW4gb",
+				"typeName": "shape"
+			},
+			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
 				"selectedShapeIds": [],
@@ -863,6 +902,45 @@ tags:
 					"isAnimated": false
 				},
 				"meta": {}
+			},
+			{
+				"x": 3083.6743698021937,
+				"y": 2425.707176369368,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:eahTJ1QlGHMYTaTkoFTDI",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 524.7720336914062,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "⭐️ Make launching scientific fields a thing"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aXBZ4",
+				"typeName": "shape"
 			},
 			{
 				"x": 2948.717899832537,
@@ -1120,8 +1198,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 336.1351431011067,
-				"y": 1676.0089518564496,
+				"x": 2014.2343668167427,
+				"y": 1849.475691439017,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1129,8 +1207,8 @@ tags:
 				"id": "shape:CfAhKVkagbIpMCx5_vucQ",
 				"type": "image",
 				"props": {
-					"w": 390,
-					"h": 390,
+					"w": 87.77882685699856,
+					"h": 87.77882685699856,
 					"assetId": "asset:184495127",
 					"playing": true,
 					"url": "",
@@ -1178,6 +1256,45 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "aD85E",
+				"typeName": "shape"
+			},
+			{
+				"x": 1013.1762805221808,
+				"y": 1897.573561660121,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:iepBb-YbHwj0RpbZCcHQD",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 74.96556854248047,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1.0410826588103559,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "(Katt)"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aV8z7",
 				"typeName": "shape"
 			},
 			{
