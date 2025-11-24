@@ -188,8 +188,8 @@ tags:
 				"typeName": "instance_page_state"
 			},
 			{
-				"x": 1488.8900834782662,
-				"y": 496.79493644606566,
+				"x": 1504.4875345139344,
+				"y": 482.3387019987503,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -203,7 +203,7 @@ tags:
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": false,
-					"scale": 0.10799081288528052,
+					"scale": 0.03987050269077615,
 					"richText": {
 						"type": "doc",
 						"content": [
@@ -215,7 +215,7 @@ tags:
 								"content": [
 									{
 										"type": "text",
-										"text": "what I do on twitter is a bit more sophisticated than this - I think I have actively been engineering egregores (creating language that binds humans) and that has real world impact"
+										"text": "what I do on twitter is a bit more sophisticated than this - I think I have actively been engineering egregores (creating language that binds humans) and that affects the real world in a lot of ways. It is influential. It is dangerous. "
 									}
 								]
 							}
@@ -273,7 +273,13 @@ tags:
 												"type": "paragraph",
 												"attrs": {
 													"dir": "auto"
-												}
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "substack is where I publish "
+													}
+												]
 											}
 										]
 									}
