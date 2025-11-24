@@ -159,7 +159,7 @@ tags:
 				"props": {
 					"color": "grey",
 					"size": "m",
-					"w": 117.56358337402344,
+					"w": 145.8473848106573,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": true,
@@ -178,6 +178,12 @@ tags:
 										"text": "$1 million"
 									}
 								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								}
 							}
 						]
 					}
@@ -938,6 +944,96 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 3132.076912330916,
+				"y": 1577.8239379748352,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:zUNc-Q2R3DguRgLX7ixk8",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 26.74488844161351,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "+ "
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "ar9Hf",
+				"typeName": "shape"
+			},
+			{
+				"x": 3173.359862905075,
+				"y": 1526.163736579621,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:RB90-z9zc_J_53wph732j",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 155.4995552312812,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Alignment /"
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "prioritizing "
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "as1jW",
+				"typeName": "shape"
+			},
+			{
 				"id": "asset:1327547360",
 				"type": "image",
 				"typeName": "asset",
@@ -1040,8 +1136,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 2693.725364344896,
-				"y": 937.751867330375,
+				"x": 2907.044475074695,
+				"y": 1043.7617378888265,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -2063,6 +2159,45 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "aU2IN",
+				"typeName": "shape"
+			},
+			{
+				"x": 2898.0234855004974,
+				"y": 1518.2334019314496,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:BLDRX_jxQ70MSszJCCO-k",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 220.68377068639256,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Science communication & memetics"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aq5mD",
 				"typeName": "shape"
 			},
 			{
@@ -3323,6 +3458,81 @@ tags:
 				"meta": {},
 				"id": "document:document",
 				"typeName": "document"
+			},
+			{
+				"x": 3166.5773735496864,
+				"y": 1597.35629527217,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:pYVA6DEb--6bvtwXnD9ys",
+				"type": "text",
+				"props": {
+					"color": "yellow",
+					"size": "m",
+					"w": 233.41282653808594,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "\"team of people"
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "who I can propose"
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "money to before"
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "i give the money\""
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "at39A",
+				"typeName": "shape"
 			},
 			{
 				"followingUserId": null,
