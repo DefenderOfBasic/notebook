@@ -86,7 +86,7 @@ tags:
 			},
 			{
 				"x": 1421.6676490316247,
-				"y": 936.0400765749109,
+				"y": 1295.6945444434741,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -150,7 +150,7 @@ tags:
 			},
 			{
 				"x": 2344.630592018789,
-				"y": 915.0091257462885,
+				"y": 1274.6635936148518,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -280,7 +280,7 @@ tags:
 			},
 			{
 				"x": 983.3923320487831,
-				"y": 888.3431159915315,
+				"y": 1247.997583860095,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -365,8 +365,8 @@ tags:
 				"meta": {}
 			},
 			{
-				"x": 1832.195961208295,
-				"y": 357.9938283461722,
+				"x": 960.178487145419,
+				"y": 709.9026649874886,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -376,10 +376,10 @@ tags:
 				"props": {
 					"color": "black",
 					"size": "m",
-					"w": 202.87265014648438,
+					"w": 435.57931192646276,
 					"font": "draw",
 					"textAlign": "start",
-					"autoSize": true,
+					"autoSize": false,
 					"scale": 1.5014706066507935,
 					"richText": {
 						"type": "doc",
@@ -393,6 +393,45 @@ tags:
 									{
 										"type": "text",
 										"text": "⭐️ Current goals"
+									}
+								]
+							},
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Raise money so I can work on ORI full-time with a salary"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Grow the ORI pipeline & portfolio of delivered projects"
+													}
+												]
+											}
+										]
 									}
 								]
 							}
@@ -557,7 +596,7 @@ tags:
 			},
 			{
 				"x": 2948.717899832537,
-				"y": 858.5380893851465,
+				"y": 1218.1925572537098,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -679,7 +718,7 @@ tags:
 			},
 			{
 				"x": 2948.717899832537,
-				"y": 852.4780033186692,
+				"y": 1212.1324711872326,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -755,7 +794,7 @@ tags:
 			},
 			{
 				"x": 968.2689913924346,
-				"y": 761.6609914965813,
+				"y": 1121.3154593651448,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -794,7 +833,7 @@ tags:
 			},
 			{
 				"x": 963.0233917236328,
-				"y": 858.1502698568972,
+				"y": 1217.8047377254607,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -831,7 +870,7 @@ tags:
 			},
 			{
 				"x": 1955.8706457780852,
-				"y": 852.4780033186692,
+				"y": 1212.1324711872326,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -955,7 +994,7 @@ tags:
 			},
 			{
 				"x": 1984.849750014903,
-				"y": 893.0566192927115,
+				"y": 1252.711087161275,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
