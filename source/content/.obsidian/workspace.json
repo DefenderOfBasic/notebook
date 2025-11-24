@@ -23,12 +23,14 @@
             "id": "8494aafd7c9016de",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "whiteboard.md"
+                "file": "Useful Diagrams.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "whiteboard"
+              "title": "Useful Diagrams"
             }
           }
         ],
@@ -195,6 +197,7 @@
   },
   "active": "8494aafd7c9016de",
   "lastOpenFiles": [
+    "whiteboard.md",
     "_/attachments /d548e5b5-70ff-4f2a-a7cb-c3e03d10bffd-tldrawFile.png",
     "_/attachments /fe286611-53e5-42ee-a99b-d7e801563735-tldrawFile.png",
     "_/attachments /9f5ad112-f229-41f0-b422-8557af0e47e9-Screenshot-2025-11-24-at-11-30-44-AM-png.png",
@@ -202,7 +205,6 @@
     "_/attachments /defender-pfp.png",
     "_/attachments /ori-logo.png",
     "_/attachments /suntzoogway-pfp.png",
-    "whiteboard.md",
     "_/attachments /16a40083-b650-4bf2-afa9-c0067906fc38-tldrawFile.png",
     "_/attachments /image.png",
     "_/attachments /defender.jpeg",
@@ -212,7 +214,6 @@
     "Useful Diagrams.md",
     "_/My Beliefs.md",
     "Memetics",
-    "_/attachments /magic-is-real-has-rules.png",
     "Screenshot Essays/No one who gets their information from a private group chat is allowed to contribute to the Open Memetics Institute.md",
     "Daily Notes/2025-11-23.md",
     "Untitled.canvas",
