@@ -23,14 +23,12 @@
             "id": "8494aafd7c9016de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Useful Diagrams.md",
-                "mode": "source",
-                "source": false
+                "file": "whiteboard.md"
               },
               "icon": "lucide-file",
-              "title": "Useful Diagrams"
+              "title": "whiteboard"
             }
           }
         ],
@@ -197,6 +195,7 @@
   },
   "active": "8494aafd7c9016de",
   "lastOpenFiles": [
+    "Useful Diagrams.md",
     "whiteboard.md",
     "_/attachments /d548e5b5-70ff-4f2a-a7cb-c3e03d10bffd-tldrawFile.png",
     "_/attachments /fe286611-53e5-42ee-a99b-d7e801563735-tldrawFile.png",
@@ -211,7 +210,6 @@
     "index.md",
     "Memetics/Anonymous Tips.md",
     "Memetics/You can extrapolate from n = 1 surveys.md",
-    "Useful Diagrams.md",
     "_/My Beliefs.md",
     "Memetics",
     "Screenshot Essays/No one who gets their information from a private group chat is allowed to contribute to the Open Memetics Institute.md",
