@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2a3979d0fd224c86",
+        "id": "4a1d7bc92f9d7d17",
         "type": "tabs",
         "children": [
           {
-            "id": "2950d1e90fae5683",
+            "id": "c167a97c399eed18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Anonymous Tips.md",
-                "mode": "source",
-                "source": false
+                "file": "_/attachments /defender-pfp.png"
+              },
+              "icon": "lucide-image",
+              "title": "defender-pfp"
+            }
+          },
+          {
+            "id": "8494aafd7c9016de",
+            "type": "leaf",
+            "state": {
+              "type": "tldraw-view",
+              "state": {
+                "file": "whiteboard.md"
               },
               "icon": "lucide-file",
-              "title": "Anonymous Tips"
+              "title": "whiteboard"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5004348754883
+    "width": 200
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -182,14 +193,25 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "2950d1e90fae5683",
+  "active": "8494aafd7c9016de",
   "lastOpenFiles": [
-    "Daily Notes/2025-11-23.md",
-    "Anonymous Tips.md",
-    "Daily Notes",
-    "My Beliefs.md",
+    "_/attachments /16a40083-b650-4bf2-afa9-c0067906fc38-tldrawFile.png",
+    "_/attachments /image.png",
+    "_/attachments /defender-pfp.png",
+    "whiteboard.md",
+    "_/attachments /defender.jpeg",
     "index.md",
+    "Memetics/Anonymous Tips.md",
+    "Memetics/You can extrapolate from n = 1 surveys.md",
     "Useful Diagrams.md",
+    "_/My Beliefs.md",
+    "Memetics",
+    "_/attachments /magic-is-real-has-rules.png",
+    "Screenshot Essays/No one who gets their information from a private group chat is allowed to contribute to the Open Memetics Institute.md",
+    "Daily Notes/2025-11-23.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Daily Notes",
     "Screenshot Essays/There is No Source (original screenshot essay).md",
     "Screenshot Essays/Can we please just get ONE picture of humanity?.md",
     "_/attachments /egregore-proton.mp4",
@@ -199,16 +221,12 @@
     "_/attachments /reality-no-safety-guarantees.png",
     "_/attachments /past-future-paths.png",
     "_/attachments /friendship-circles.png",
-    "_/attachments /there-is-no-source.png",
-    "_/attachments /one-step-above-one-below.png",
     "Screenshot Essays",
     "_/attachments ",
     "_",
     "⭐️ Open Research Institute.md",
     "Whiteboard.md",
     "Reality has no safety guarentees.md",
-    "_/attachments /Pasted image 20251108100111.png",
-    "_/attachments /Pasted image 20250728090640.png",
     "_/attachments /Geopolitics - Blackbird.AI's Constellation Narrative Intelligence Platform.mp4",
     "_/Anatomy of an Internet Argument.md",
     "_/Religion Was Discovered, Not Invented.md",
@@ -222,14 +240,8 @@
     "memetics/My Egregore Burst.md",
     "How smart nerds hinder the spread of good ideas.md",
     "All the world's billionaires are here.md",
-    "Psychohistory.md",
-    "How to test your understanding of art, empirically.md",
-    "Two aligned actors walk into a bar.md",
-    "Untitled 1.md",
     "ORI/Untitled",
     "Projects/White Mirror - Reading Guide",
-    "_/Untitled",
-    "Projects",
-    "Untitled.canvas"
+    "_/Untitled"
   ]
 }
