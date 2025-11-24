@@ -65,8 +65,8 @@ tags:
 				"typeName": "pointer"
 			},
 			{
-				"x": 435.0365870204996,
-				"y": 539.9438682952239,
+				"x": 418.62651740476167,
+				"y": 649.4534851756711,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -74,8 +74,8 @@ tags:
 				"id": "shape:R1Bq4aleAqqjeXn1aVANp",
 				"type": "image",
 				"props": {
-					"w": 678,
-					"h": 360,
+					"w": 566.705899504087,
+					"h": 300.90578734730286,
 					"assetId": "asset:223367055",
 					"playing": true,
 					"url": "",
@@ -147,6 +147,66 @@ tags:
 				"id": "instance_page_state:page:page",
 				"pageId": "page:page",
 				"typeName": "instance_page_state"
+			},
+			{
+				"x": 1021.4380237200435,
+				"y": 458.8167358200785,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:5Gfd9kurS54BodkJGwP8e",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 416.0390625,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "twitter is my open notebook "
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												}
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a36TN",
+				"typeName": "shape"
 			},
 			{
 				"meta": {},
