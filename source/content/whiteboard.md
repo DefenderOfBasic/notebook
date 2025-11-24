@@ -188,7 +188,7 @@ tags:
 				"typeName": "instance_page_state"
 			},
 			{
-				"x": 1482.0648628367323,
+				"x": 1488.8900834782662,
 				"y": 496.79493644606566,
 				"rotation": 0,
 				"isLocked": false,
@@ -215,7 +215,7 @@ tags:
 								"content": [
 									{
 										"type": "text",
-										"text": "this + the IRL testing I do is sufficient to get a \"complete\" picture of human civilization, as complete as I can "
+										"text": "what I do on twitter is a bit more sophisticated than this - I think I have actively been engineering egregores (creating language that binds humans) and that has real world impact"
 									}
 								]
 							}
