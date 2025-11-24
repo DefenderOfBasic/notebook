@@ -944,8 +944,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 3132.076912330916,
-				"y": 1577.8239379748352,
+				"x": 3122.548575885517,
+				"y": 1533.1647914756838,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -955,11 +955,11 @@ tags:
 				"props": {
 					"color": "grey",
 					"size": "m",
-					"w": 26.74488844161351,
+					"w": 16.506075075591525,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": false,
-					"scale": 1,
+					"scale": 2.1243290810810436,
 					"richText": {
 						"type": "doc",
 						"content": [
