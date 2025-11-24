@@ -236,6 +236,45 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 2802.5917659126894,
+				"y": 882.639327314446,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:AuYuzmwUPt4rYrrz-7ytC",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 267.7643127441406,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "⭐️ ORI LEADERBOARD"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "ai2T6",
+				"typeName": "shape"
+			},
+			{
 				"x": 2184.4612811636252,
 				"y": 432.6423042955158,
 				"rotation": 0,
@@ -483,8 +522,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 983.3923320487831,
-				"y": 1247.997583860095,
+				"x": 988.5039491476841,
+				"y": 1252.4479798537293,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1055,8 +1094,8 @@ tags:
 				"meta": {}
 			},
 			{
-				"x": 2366.85144996662,
-				"y": 818.9671534870012,
+				"x": 2344.3893038464034,
+				"y": 812.4785112223499,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1211,8 +1250,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 1103.3099375583581,
-				"y": 1575.479011288377,
+				"x": 1095.6262236129826,
+				"y": 1515.942041347341,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1482,6 +1521,45 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "aXBZ4",
+				"typeName": "shape"
+			},
+			{
+				"x": 1024.1464819572554,
+				"y": 1587.5727122364306,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:qPmJsDyolysjVpmIKcQCO",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 201.17723083496094,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "\"input & output\""
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aj604",
 				"typeName": "shape"
 			},
 			{
@@ -1945,8 +2023,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 2925.507140655729,
-				"y": 761.3180753275822,
+				"x": 2831.5820593518692,
+				"y": 776.3209724597517,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1956,7 +2034,7 @@ tags:
 				"props": {
 					"color": "grey",
 					"size": "m",
-					"w": 20,
+					"w": 369.84222412109375,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": true,
@@ -1965,7 +2043,28 @@ tags:
 						"type": "doc",
 						"content": [
 							{
-								"type": "paragraph"
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "ORI ALREADY "
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "HAS A LOT OF \"FREE ENERGY\""
+									}
+								]
 							}
 						]
 					}
@@ -2296,6 +2395,111 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "aQ92c",
+				"typeName": "shape"
+			},
+			{
+				"x": 3289.173341634124,
+				"y": 2095.8380168190142,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:0nHpNNoSjqBXTW9y0Fhwd",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 518.3055031755538,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1.2715386342218926,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "\"open pitches\""
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "(Analogue, Kanro, ...)"
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								}
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "an aligned, alignment institute"
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "would make its pitch public"
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "SUCH THAT it finds if anyone can"
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "deliver better than it can"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "ak7jf",
 				"typeName": "shape"
 			},
 			{
