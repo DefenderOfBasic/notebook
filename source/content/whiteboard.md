@@ -3,6 +3,9 @@ tldraw-file: true
 tags:
   - tldraw
 ---
+![[4175de08-50a9-4541-bc38-5769fa3f0109-tldrawFile.png]]
+^4175de08-50a9-4541-bc38-5769fa3f0109
+
 ![[16a40083-b650-4bf2-afa9-c0067906fc38-tldrawFile.png]]
 ^16a40083-b650-4bf2-afa9-c0067906fc38
 
@@ -65,8 +68,8 @@ tags:
 				"typeName": "pointer"
 			},
 			{
-				"x": 418.62651740476167,
-				"y": 649.4534851756711,
+				"x": -3.0212618734094576,
+				"y": 850.5995502573684,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -74,8 +77,8 @@ tags:
 				"id": "shape:R1Bq4aleAqqjeXn1aVANp",
 				"type": "image",
 				"props": {
-					"w": 566.705899504087,
-					"h": 300.90578734730286,
+					"w": 406.65788552638276,
+					"h": 215.9245409874599,
 					"assetId": "asset:223367055",
 					"playing": true,
 					"url": "",
@@ -188,6 +191,21 @@ tags:
 				"typeName": "instance_page_state"
 			},
 			{
+				"id": "asset:1979528586",
+				"type": "image",
+				"typeName": "asset",
+				"props": {
+					"name": "tldrawFile",
+					"src": "asset:obsidian.blockref.4175de08-50a9-4541-bc38-5769fa3f0109",
+					"w": 1572,
+					"h": 1110,
+					"fileSize": 86782,
+					"mimeType": "image/png",
+					"isAnimated": false
+				},
+				"meta": {}
+			},
+			{
 				"x": 1504.4875345139344,
 				"y": 482.3387019987503,
 				"rotation": 0,
@@ -224,6 +242,30 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "a82v2",
+				"typeName": "shape"
+			},
+			{
+				"x": 972.8602380432483,
+				"y": 820.7945236509834,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:2Sbwt-SrbDSYaJtBZ1VAx",
+				"type": "image",
+				"props": {
+					"w": 302.41120291489915,
+					"h": 213.5346280124288,
+					"assetId": "asset:1979528586",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "page:page",
+				"index": "a97Mw",
 				"typeName": "shape"
 			},
 			{
@@ -277,7 +319,24 @@ tags:
 												"content": [
 													{
 														"type": "text",
-														"text": "substack is where I publish "
+														"text": "substack is where I publish \"finished\" / more polished work"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "GitHub is where I collab on projects & do R&D"
 													}
 												]
 											}
@@ -329,6 +388,80 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "a46zj",
+				"typeName": "shape"
+			},
+			{
+				"x": -23.39020219855979,
+				"y": 820.4067041227341,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:sbo9q2vzcqAYs62DCOTPr",
+				"type": "geo",
+				"props": {
+					"w": 888.254501850029,
+					"h": 756.5191280502249,
+					"geo": "rectangle",
+					"dash": "draw",
+					"growY": 0,
+					"url": "",
+					"scale": 1,
+					"color": "black",
+					"labelColor": "black",
+					"fill": "none",
+					"size": "s",
+					"font": "draw",
+					"align": "middle",
+					"verticalAlign": "middle",
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph"
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aB9B8",
+				"typeName": "shape"
+			},
+			{
+				"x": 969.4570518558926,
+				"y": 814.734437584506,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:YbvyRtEhDj1fW5XZbfknE",
+				"type": "geo",
+				"props": {
+					"w": 888.254501850029,
+					"h": 756.5191280502249,
+					"geo": "rectangle",
+					"dash": "draw",
+					"growY": 0,
+					"url": "",
+					"scale": 1,
+					"color": "black",
+					"labelColor": "black",
+					"fill": "none",
+					"size": "s",
+					"font": "draw",
+					"align": "middle",
+					"verticalAlign": "middle",
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph"
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aA20l",
 				"typeName": "shape"
 			},
 			{
