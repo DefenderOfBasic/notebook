@@ -3,6 +3,9 @@ tldraw-file: true
 tags:
   - tldraw
 ---
+![[e171ebe9-56cc-4caf-a711-d923094f3467-suntzoogway-pfp-png.png]]
+^e171ebe9-56cc-4caf-a711-d923094f3467
+
 ![[7cc2fe1c-6e39-477c-9771-58f9159988d9-tldrawFile.png]]
 ^7cc2fe1c-6e39-477c-9771-58f9159988d9
 
@@ -597,8 +600,8 @@ tags:
 				"type": "image",
 				"typeName": "asset",
 				"props": {
-					"name": "sunztoogway-pfp.png",
-					"src": "asset:obsidian.blockref.9756d168-700f-4294-9779-9b74ee05970b",
+					"name": "suntzoogway-pfp.png",
+					"src": "asset:obsidian.blockref.e171ebe9-56cc-4caf-a711-d923094f3467",
 					"w": 390,
 					"h": 390,
 					"fileSize": 219963,
@@ -1018,6 +1021,126 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "aR9KV",
+				"typeName": "shape"
+			},
+			{
+				"x": 2476.7301694779303,
+				"y": 1299.6455870351729,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:SmB86KzwFF0U8ZhgTJfR6",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 230.46054077148438,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"marks": [
+															{
+																"type": "link",
+																"attrs": {
+																	"href": "https://github.com/SASenchal/God-Conjecture",
+																	"target": "_blank",
+																	"rel": "noopener noreferrer nofollow",
+																	"class": null
+																}
+															}
+														],
+														"text": "GitHub"
+													},
+													{
+														"type": "text",
+														"text": " repo"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"marks": [
+															{
+																"type": "link",
+																"attrs": {
+																	"href": "https://github.com/SASenchal/God-Conjecture/issues/4",
+																	"target": "_blank",
+																	"rel": "noopener noreferrer nofollow",
+																	"class": null
+																}
+															}
+														],
+														"text": "Outreach"
+													},
+													{
+														"type": "text",
+														"text": " plan"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aT7Qz",
+				"typeName": "shape"
+			},
+			{
+				"x": 336.1351431011067,
+				"y": 1676.0089518564496,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:CfAhKVkagbIpMCx5_vucQ",
+				"type": "image",
+				"props": {
+					"w": 390,
+					"h": 390,
+					"assetId": "asset:184495127",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "page:page",
+				"index": "aU2IN",
 				"typeName": "shape"
 			},
 			{
