@@ -3,6 +3,12 @@ tldraw-file: true
 tags:
   - tldraw
 ---
+![[d548e5b5-70ff-4f2a-a7cb-c3e03d10bffd-tldrawFile.png]]
+^d548e5b5-70ff-4f2a-a7cb-c3e03d10bffd
+
+![[fe286611-53e5-42ee-a99b-d7e801563735-tldrawFile.png]]
+^fe286611-53e5-42ee-a99b-d7e801563735
+
 ![[9f5ad112-f229-41f0-b422-8557af0e47e9-Screenshot-2025-11-24-at-11-30-44-AM-png.png]]
 ^9f5ad112-f229-41f0-b422-8557af0e47e9
 
@@ -83,6 +89,30 @@ tags:
 				"meta": {},
 				"id": "pointer:pointer",
 				"typeName": "pointer"
+			},
+			{
+				"x": 39.480852580341434,
+				"y": 15.739472222428503,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:zAqTrKrYf2lNNenJ-yVS-",
+				"type": "image",
+				"props": {
+					"w": 38.79923716029622,
+					"h": 52.13647493414805,
+					"assetId": "asset:1327547360",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "shape:UIjSTKUjaYAhlWyKJlVp8",
+				"index": "a1",
+				"typeName": "shape"
 			},
 			{
 				"x": 1421.6676490316247,
@@ -279,6 +309,84 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 996.862553540011,
+				"y": 2081.5464386873764,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:UF5x9gajH0xE87Jmlirm5",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "l",
+					"w": 650.5510471990858,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "\"open source books\""
+									}
+								]
+							},
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "more generally: collaborative science on GitHub"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "related: Obsidian notebook template"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aK40p",
+				"typeName": "shape"
+			},
+			{
 				"x": 983.3923320487831,
 				"y": 1247.997583860095,
 				"rotation": 0,
@@ -301,6 +409,19 @@ tags:
 				"parentId": "page:page",
 				"index": "a27OE",
 				"typeName": "shape"
+			},
+			{
+				"id": "asset:-1557108332",
+				"typeName": "asset",
+				"type": "bookmark",
+				"props": {
+					"src": "https://semble.so/",
+					"description": "",
+					"image": "https://semble.so/",
+					"favicon": "https://semble.so/",
+					"title": "https://semble.so/"
+				},
+				"meta": {}
 			},
 			{
 				"x": 0,
@@ -326,6 +447,60 @@ tags:
 				"meta": {}
 			},
 			{
+				"id": "asset:1327547360",
+				"type": "image",
+				"typeName": "asset",
+				"props": {
+					"name": "tldrawFile",
+					"src": "asset:obsidian.blockref.fe286611-53e5-42ee-a99b-d7e801563735",
+					"w": 32,
+					"h": 43,
+					"fileSize": 1220,
+					"mimeType": "image/png",
+					"isAnimated": false
+				},
+				"meta": {}
+			},
+			{
+				"x": 996.862553540011,
+				"y": 2081.5464386873764,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:h2JkJNs6Xjw9pt1849iCp",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "l",
+					"w": 370.9544372558594,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "\"open source books\""
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aJ6sw",
+				"typeName": "shape"
+			},
+			{
 				"x": 878.7764251932302,
 				"y": 464.7772949442068,
 				"rotation": 0,
@@ -347,6 +522,84 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "a1",
+				"typeName": "shape"
+			},
+			{
+				"x": 987.2283893807873,
+				"y": 2453.834471614621,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:azXTUCJnKKCKGQ0MYYbka",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "l",
+					"w": 589.3201293945312,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "ORI \"onboarding\" book"
+									}
+								]
+							},
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "A/B/U"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "What is true? what is real?"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aM9Ks",
 				"typeName": "shape"
 			},
 			{
@@ -392,7 +645,7 @@ tags:
 								"content": [
 									{
 										"type": "text",
-										"text": "⭐️ Current goals"
+										"text": "⭐️ Current personal goals"
 									}
 								]
 							},
@@ -541,6 +794,30 @@ tags:
 				"meta": {}
 			},
 			{
+				"x": 1635.1995174923727,
+				"y": 2229.8330417231386,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:oiWPTojAxiNz1Ze_wAeve",
+				"type": "image",
+				"props": {
+					"w": 238.66387961423945,
+					"h": 56.156206968056345,
+					"assetId": "asset:1217647841",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "page:page",
+				"index": "aP35S",
+				"typeName": "shape"
+			},
+			{
 				"x": 1504.4875345139344,
 				"y": 482.3387019987503,
 				"rotation": 0,
@@ -578,6 +855,21 @@ tags:
 				"parentId": "page:page",
 				"index": "a82v2",
 				"typeName": "shape"
+			},
+			{
+				"id": "asset:1217647841",
+				"type": "image",
+				"typeName": "asset",
+				"props": {
+					"name": "tldrawFile",
+					"src": "asset:obsidian.blockref.d548e5b5-70ff-4f2a-a7cb-c3e03d10bffd",
+					"w": 425,
+					"h": 100,
+					"fileSize": 28551,
+					"mimeType": "image/png",
+					"isAnimated": false
+				},
+				"meta": {}
 			},
 			{
 				"id": "asset:-1891270635",
@@ -978,6 +1270,106 @@ tags:
 				"typeName": "instance_page_state"
 			},
 			{
+				"x": 16.67542176067718,
+				"y": 72.49815575706862,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:smN_ZcFsExwi_uvGOzECI",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "l",
+					"w": 131.96336364746094,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 0.7472719503388011,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"marks": [
+											{
+												"type": "link",
+												"attrs": {
+													"href": "https://semble.so/",
+													"target": "_blank",
+													"rel": "noopener noreferrer nofollow",
+													"class": null
+												}
+											}
+										],
+										"text": "Semble"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "shape:UIjSTKUjaYAhlWyKJlVp8",
+				"index": "a29jJ",
+				"typeName": "shape"
+			},
+			{
+				"x": 1650.0863254958663,
+				"y": 2297.153410726529,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:7rXzzPPBYNrkZStzApfb2",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "l",
+					"w": 315.0507507324219,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 0.5463883665977509,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"marks": [
+											{
+												"type": "link",
+												"attrs": {
+													"href": "https://discoursegraphs.com/#about",
+													"target": "_blank",
+													"rel": "noopener noreferrer nofollow",
+													"class": null
+												}
+											}
+										],
+										"text": "discourse graphs"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aQ92c",
+				"typeName": "shape"
+			},
+			{
 				"id": "asset:-2110186291",
 				"type": "image",
 				"typeName": "asset",
@@ -1014,6 +1406,20 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "aH6tX",
+				"typeName": "shape"
+			},
+			{
+				"x": 1668.1532223659124,
+				"y": 2080.2633207572026,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:UIjSTKUjaYAhlWyKJlVp8",
+				"type": "group",
+				"parentId": "page:page",
+				"index": "aO0Zu",
+				"props": {},
 				"typeName": "shape"
 			},
 			{
