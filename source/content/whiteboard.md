@@ -3925,6 +3925,72 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 3594.435356794211,
+				"y": 353.21564531008016,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:0VpOeks5cXdHSdVcTb3zB",
+				"type": "text",
+				"props": {
+					"color": "light-violet",
+					"size": "s",
+					"w": 253.90238058462592,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "reward with tangible resources"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "at LEAST reward it with status / recognition"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "b0F6tE",
+				"typeName": "shape"
+			},
+			{
 				"x": 2612.624013563387,
 				"y": 188.1287642345679,
 				"rotation": 0,
