@@ -451,7 +451,7 @@ tags:
 				"props": {
 					"color": "black",
 					"size": "m",
-					"w": 311.25750732421875,
+					"w": 370.1225280761719,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": true,
@@ -474,6 +474,45 @@ tags:
 							{
 								"type": "bulletList",
 								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "ORI tiered channels "
+													}
+												]
+											},
+											{
+												"type": "bulletList",
+												"content": [
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "auto spiral dynamics "
+																	}
+																]
+															}
+														]
+													}
+												]
+											}
+										]
+									},
 									{
 										"type": "listItem",
 										"content": [
