@@ -728,30 +728,6 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": -115.79928261761509,
-				"y": -108.83363733327556,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:g0g83tTom36ylEDZonuto",
-				"type": "image",
-				"props": {
-					"w": 173.07877988681562,
-					"h": 173.07877988681562,
-					"assetId": "asset:184495127",
-					"playing": true,
-					"url": "",
-					"crop": null,
-					"flipX": false,
-					"flipY": false,
-					"altText": ""
-				},
-				"parentId": "page:afth7e61pq51gGfN2FiNv",
-				"index": "a1",
-				"typeName": "shape"
-			},
-			{
 				"x": 1078.9371524187811,
 				"y": 1563.4425763636614,
 				"rotation": 0,
@@ -1520,7 +1496,7 @@ tags:
 				"isChatting": false,
 				"highlightedUserIds": [],
 				"isFocused": false,
-				"devicePixelRatio": 3.4560000896453857,
+				"devicePixelRatio": 1.7280000448226929,
 				"isCoarsePointer": false,
 				"isHoveringCanvas": null,
 				"openMenus": [],
