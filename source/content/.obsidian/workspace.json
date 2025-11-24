@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Beliefs.md",
+                "file": "Daily Notes/2025-11-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Beliefs"
+              "title": "2025-11-23"
             }
           },
           {
@@ -295,10 +295,12 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "8f8cd0035551b05a",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "index.md",
+    "Daily Notes/2025-11-23.md",
+    "Daily Notes",
     "My Beliefs.md",
+    "index.md",
     "Useful Diagrams.md",
     "Screenshot Essays/There is No Source (original screenshot essay).md",
     "Screenshot Essays/Can we please just get ONE picture of humanity?.md",
@@ -337,12 +339,10 @@
     "Two aligned actors walk into a bar.md",
     "Untitled 1.md",
     "Things that are true about everyone in ORI.md",
-    "How to find a science \"intuition first\".md",
     "ORI/Untitled",
     "Projects/White Mirror - Reading Guide",
     "_/Untitled",
     "Projects",
-    "Reviews/done",
     "Untitled.canvas"
   ]
 }
