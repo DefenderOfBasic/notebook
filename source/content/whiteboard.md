@@ -136,6 +136,45 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 1453.8541445246938,
+				"y": 465.58010544855864,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:bf3vPWgAxLyDVJ1zoET_h",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 370.82740926927045,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 0.1332432980294381,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "like, I tweet things to test people's reactions, to keep my model of humanity up to date, or try and change minds/pave the way for truths that currently face resistance"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a5Bw8",
+				"typeName": "shape"
+			},
+			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
 				"selectedShapeIds": [],
@@ -149,8 +188,47 @@ tags:
 				"typeName": "instance_page_state"
 			},
 			{
-				"x": 1021.4380237200435,
-				"y": 458.8167358200785,
+				"x": 1482.0648628367323,
+				"y": 496.79493644606566,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:aHv2MEsI5jvw6Fkdyli1q",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 370.82740926927045,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 0.10799081288528052,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "this + the IRL testing I do is sufficient to get a \"complete\" picture of human civilization, as complete as I can "
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a82v2",
+				"typeName": "shape"
+			},
+			{
+				"x": 976.8753972222075,
+				"y": 456.1959341219133,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -160,10 +238,10 @@ tags:
 				"props": {
 					"color": "grey",
 					"size": "m",
-					"w": 416.0390625,
+					"w": 541.2013825886493,
 					"font": "draw",
 					"textAlign": "start",
-					"autoSize": true,
+					"autoSize": false,
 					"scale": 1,
 					"richText": {
 						"type": "doc",
@@ -182,7 +260,7 @@ tags:
 												"content": [
 													{
 														"type": "text",
-														"text": "twitter is my open notebook "
+														"text": "twitter is my open notebook & memetic engineering playground "
 													}
 												]
 											}
@@ -206,6 +284,45 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "a36TN",
+				"typeName": "shape"
+			},
+			{
+				"x": 1453.8541445246938,
+				"y": 465.58010544855864,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:H0gQesR6kf3b51Xp4JCgk",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 370.82740926927045,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 0.1332432980294381,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "like, I tweet things to test people's reactions, to keep my model of humanity up to date, or try and change minds/pave the way for truths that currently face resistance"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a46zj",
 				"typeName": "shape"
 			},
 			{
@@ -281,6 +398,45 @@ tags:
 					"isAnimated": false
 				},
 				"meta": {}
+			},
+			{
+				"x": 1507.8668026824955,
+				"y": 459.71502014861267,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:rj7Plc7PEA1ejhuTOtgOR",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 370.82740926927045,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 0.10799081288528052,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "this + the IRL testing I do is sufficient to get a \"complete\" picture of human civilization, as complete as I can "
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a79ZP",
+				"typeName": "shape"
 			}
 		]
 	}
