@@ -3,6 +3,9 @@ tldraw-file: true
 tags:
   - tldraw
 ---
+![[a4c92792-4d3e-49c9-95de-343a6b1d60ee-tldrawFile.png]]
+^a4c92792-4d3e-49c9-95de-343a6b1d60ee
+
 ![[4175de08-50a9-4541-bc38-5769fa3f0109-tldrawFile.png]]
 ^4175de08-50a9-4541-bc38-5769fa3f0109
 
@@ -68,8 +71,202 @@ tags:
 				"typeName": "pointer"
 			},
 			{
-				"x": -3.0212618734094576,
-				"y": 850.5995502573684,
+				"x": 1421.6676490316247,
+				"y": 936.0400765749109,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:CCRy_LWianGivlZDXabPf",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "s",
+					"w": 151.44488525390625,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"marks": [
+															{
+																"type": "link",
+																"attrs": {
+																	"href": "https://github.com/DefenderOfBasic/open-memetics-institute/blob/main/README.md",
+																	"target": "_blank",
+																	"rel": "noopener noreferrer nofollow",
+																	"class": null
+																}
+															}
+														],
+														"text": "GitHub"
+													},
+													{
+														"type": "text",
+														"text": " repo"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aG5ob",
+				"typeName": "shape"
+			},
+			{
+				"x": 2344.630592018789,
+				"y": 915.0091257462885,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:hIDJ0vRcHCzelgRzl30Zr",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "s",
+					"w": 299.1363830566406,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"marks": [
+															{
+																"type": "link",
+																"attrs": {
+																	"href": "https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument",
+																	"target": "_blank",
+																	"rel": "noopener noreferrer nofollow",
+																	"class": null
+																}
+															}
+														],
+														"text": "Substack essay"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"marks": [
+															{
+																"type": "link",
+																"attrs": {
+																	"href": "https://docs.google.com/presentation/d/16udF-m8tGQtLGzrf-ihRzxXs1efg5NrLdj_j6wLPZ0U/edit?slide=id.p#slide=id.p",
+																	"target": "_blank",
+																	"rel": "noopener noreferrer nofollow",
+																	"class": null
+																}
+															}
+														],
+														"text": "Slides"
+													},
+													{
+														"type": "text",
+														"text": " from Love Symposium"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"marks": [
+															{
+																"type": "link",
+																"attrs": {
+																	"href": "https://github.com/DefenderOfBasic/in-good-faith-handbook",
+																	"target": "_blank",
+																	"rel": "noopener noreferrer nofollow",
+																	"class": null
+																}
+															}
+														],
+														"text": "GitHub"
+													},
+													{
+														"type": "text",
+														"text": " repo"
+													}
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								}
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aFABP",
+				"typeName": "shape"
+			},
+			{
+				"x": 983.3923320487831,
+				"y": 888.3431159915315,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -191,6 +388,13 @@ tags:
 				"typeName": "instance_page_state"
 			},
 			{
+				"meta": {},
+				"id": "page:afth7e61pq51gGfN2FiNv",
+				"name": "misc",
+				"index": "a22Ur",
+				"typeName": "page"
+			},
+			{
 				"id": "asset:1979528586",
 				"type": "image",
 				"typeName": "asset",
@@ -245,8 +449,23 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 972.8602380432483,
-				"y": 820.7945236509834,
+				"id": "asset:-1891270635",
+				"type": "image",
+				"typeName": "asset",
+				"props": {
+					"name": "tldrawFile",
+					"src": "asset:obsidian.blockref.a4c92792-4d3e-49c9-95de-343a6b1d60ee",
+					"w": 586,
+					"h": 216,
+					"fileSize": 46193,
+					"mimeType": "image/png",
+					"isAnimated": false
+				},
+				"meta": {}
+			},
+			{
+				"x": 2948.717899832537,
+				"y": 858.5380893851465,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -352,6 +571,43 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 2948.717899832537,
+				"y": 852.4780033186692,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:1NurUPvXQJIwIV8iD52Mu",
+				"type": "geo",
+				"props": {
+					"w": 888.254501850029,
+					"h": 756.5191280502249,
+					"geo": "rectangle",
+					"dash": "draw",
+					"growY": 0,
+					"url": "",
+					"scale": 1,
+					"color": "black",
+					"labelColor": "black",
+					"fill": "none",
+					"size": "s",
+					"font": "draw",
+					"align": "middle",
+					"verticalAlign": "middle",
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph"
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aD85E",
+				"typeName": "shape"
+			},
+			{
 				"x": 1453.8541445246938,
 				"y": 465.58010544855864,
 				"rotation": 0,
@@ -391,8 +647,47 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": -23.39020219855979,
-				"y": 820.4067041227341,
+				"x": 968.2689913924346,
+				"y": 761.6609914965813,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:-D4ly26AxLkWYl9lVgBW0",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "xl",
+					"w": 182.7626953125,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Projects"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aCBYZ",
+				"typeName": "shape"
+			},
+			{
+				"x": 963.0233917236328,
+				"y": 858.1502698568972,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -428,8 +723,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 969.4570518558926,
-				"y": 814.734437584506,
+				"x": 1955.8706457780852,
+				"y": 852.4780033186692,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -522,6 +817,30 @@ tags:
 				"id": "instance:instance",
 				"currentPageId": "page:page",
 				"typeName": "instance"
+			},
+			{
+				"x": 1982.6156876237696,
+				"y": 890.9265307574824,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:-PNs-5kUxd4Qog7PrRy1a",
+				"type": "image",
+				"props": {
+					"w": 354.46838843395824,
+					"h": 130.65728993470134,
+					"assetId": "asset:-1891270635",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "page:page",
+				"index": "aE2Ac",
+				"typeName": "shape"
 			},
 			{
 				"id": "asset:-2110186291",
