@@ -3,6 +3,9 @@ tldraw-file: true
 tags:
   - tldraw
 ---
+![[7cc2fe1c-6e39-477c-9771-58f9159988d9-tldrawFile.png]]
+^7cc2fe1c-6e39-477c-9771-58f9159988d9
+
 ![[d548e5b5-70ff-4f2a-a7cb-c3e03d10bffd-tldrawFile.png]]
 ^d548e5b5-70ff-4f2a-a7cb-c3e03d10bffd
 
@@ -180,7 +183,7 @@ tags:
 			},
 			{
 				"x": 2344.630592018789,
-				"y": 1274.6635936148518,
+				"y": 2138.1060300171284,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -409,19 +412,6 @@ tags:
 				"parentId": "page:page",
 				"index": "a27OE",
 				"typeName": "shape"
-			},
-			{
-				"id": "asset:-1557108332",
-				"typeName": "asset",
-				"type": "bookmark",
-				"props": {
-					"src": "https://semble.so/",
-					"description": "",
-					"image": "https://semble.so/",
-					"favicon": "https://semble.so/",
-					"title": "https://semble.so/"
-				},
-				"meta": {}
 			},
 			{
 				"x": 0,
@@ -872,23 +862,8 @@ tags:
 				"meta": {}
 			},
 			{
-				"id": "asset:-1891270635",
-				"type": "image",
-				"typeName": "asset",
-				"props": {
-					"name": "tldrawFile",
-					"src": "asset:obsidian.blockref.a4c92792-4d3e-49c9-95de-343a6b1d60ee",
-					"w": 586,
-					"h": 216,
-					"fileSize": 46193,
-					"mimeType": "image/png",
-					"isAnimated": false
-				},
-				"meta": {}
-			},
-			{
 				"x": 2948.717899832537,
-				"y": 1218.1925572537098,
+				"y": 2081.6349936559864,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1009,8 +984,45 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 1955.8706457780852,
+				"y": 1217.8047377254607,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:2Z-DpKsF1h0rn_RR14sWI",
+				"type": "geo",
+				"props": {
+					"w": 888.254501850029,
+					"h": 756.5191280502249,
+					"geo": "rectangle",
+					"dash": "draw",
+					"growY": 0,
+					"url": "",
+					"scale": 1,
+					"color": "black",
+					"labelColor": "black",
+					"fill": "none",
+					"size": "s",
+					"font": "draw",
+					"align": "middle",
+					"verticalAlign": "middle",
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph"
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aR9KV",
+				"typeName": "shape"
+			},
+			{
 				"x": 2948.717899832537,
-				"y": 1212.1324711872326,
+				"y": 2075.574907589509,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1161,8 +1173,32 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 1983.0524827190038,
+				"y": 1268.492529236611,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:8Hm9jd3Pb29kCVw8Vf9gY",
+				"type": "image",
+				"props": {
+					"w": 433.2675907447124,
+					"h": 356.57873871887267,
+					"assetId": "asset:1384926043",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "page:page",
+				"index": "aS07a",
+				"typeName": "shape"
+			},
+			{
 				"x": 1955.8706457780852,
-				"y": 1212.1324711872326,
+				"y": 2075.574907589509,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1255,6 +1291,21 @@ tags:
 				"id": "instance:instance",
 				"currentPageId": "page:page",
 				"typeName": "instance"
+			},
+			{
+				"id": "asset:1384926043",
+				"type": "image",
+				"typeName": "asset",
+				"props": {
+					"name": "tldrawFile",
+					"src": "asset:obsidian.blockref.7cc2fe1c-6e39-477c-9771-58f9159988d9",
+					"w": 887,
+					"h": 730,
+					"fileSize": 314401,
+					"mimeType": "image/png",
+					"isAnimated": false
+				},
+				"meta": {}
 			},
 			{
 				"editingShapeId": null,
@@ -1386,7 +1437,7 @@ tags:
 			},
 			{
 				"x": 1984.849750014903,
-				"y": 1252.711087161275,
+				"y": 2116.153523563551,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
