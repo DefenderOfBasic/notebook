@@ -97,6 +97,57 @@ tags:
 				"typeName": "pointer"
 			},
 			{
+				"x": 2099.815333041952,
+				"y": 2279.26890060965,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:NxLOj4oW1LHk2s5OiZ9lu",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 616.3873329216286,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1.3682871196752064,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "\"creating a social protocol / culture\""
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "(can make money)"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "ag1SM",
+				"typeName": "shape"
+			},
+			{
 				"x": 39.480852580341434,
 				"y": 15.739472222428503,
 				"rotation": 0,
@@ -1004,6 +1055,45 @@ tags:
 				"meta": {}
 			},
 			{
+				"x": 2366.85144996662,
+				"y": 818.9671534870012,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:6OPRWSPm6qo3XZZm_PjG8",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 280.23162516890625,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "ORI is an alignment institute"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "ae9z8",
+				"typeName": "shape"
+			},
+			{
 				"x": 960.178487145419,
 				"y": 709.9026649874886,
 				"rotation": 0,
@@ -1121,8 +1211,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 1078.9371524187811,
-				"y": 1563.4425763636614,
+				"x": 1103.3099375583581,
+				"y": 1575.479011288377,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1132,7 +1222,7 @@ tags:
 				"props": {
 					"color": "black",
 					"size": "m",
-					"w": 474.6373291015625,
+					"w": 496.8857727050781,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": true,
@@ -1148,7 +1238,7 @@ tags:
 								"content": [
 									{
 										"type": "text",
-										"text": "⭐️ Make prosocial engineering a thing"
+										"text": "⭐️ Make \"prosocial engineering\" a thing"
 									}
 								]
 							}
@@ -1356,8 +1446,8 @@ tags:
 				"meta": {}
 			},
 			{
-				"x": 3083.6743698021937,
-				"y": 2425.707176369368,
+				"x": 3152.539664769849,
+				"y": 2418.575388447848,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1367,10 +1457,10 @@ tags:
 				"props": {
 					"color": "black",
 					"size": "m",
-					"w": 524.7720336914062,
+					"w": 367.7607665435703,
 					"font": "draw",
 					"textAlign": "start",
-					"autoSize": true,
+					"autoSize": false,
 					"scale": 1,
 					"richText": {
 						"type": "doc",
@@ -1383,7 +1473,7 @@ tags:
 								"content": [
 									{
 										"type": "text",
-										"text": "⭐️ Make launching scientific fields a thing"
+										"text": "⭐️ Make launching scientific fields a thing (or paradigm)"
 									}
 								]
 							}
@@ -1554,8 +1644,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 2476.7301694779303,
-				"y": 1299.6455870351729,
+				"x": 2429.88926037828,
+				"y": 1294.7718297593713,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1852,6 +1942,36 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "a46zj",
+				"typeName": "shape"
+			},
+			{
+				"x": 2925.507140655729,
+				"y": 761.3180753275822,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:cXjaCm5EQ99gCDOmBJXlg",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 20,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph"
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "ah2x6",
 				"typeName": "shape"
 			},
 			{
@@ -2307,6 +2427,63 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "ab7HQ",
+				"typeName": "shape"
+			},
+			{
+				"x": 2379.8450071530438,
+				"y": 935.2019021277019,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:OxSYTZyKeRSIUy6zCGIPt",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 212.2630157470703,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "INTERNAL PITCH"
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								}
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "EXTERNAL PITCH"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "af7Vw",
 				"typeName": "shape"
 			}
 		]
