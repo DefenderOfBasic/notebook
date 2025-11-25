@@ -11,14 +11,12 @@
             "id": "c167a97c399eed18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Screenshot Essays/What is the purpose of the news?.md",
-                "mode": "source",
-                "source": false
+                "file": "_/attachments /defender-pfp.png"
               },
-              "icon": "lucide-file",
-              "title": "What is the purpose of the news?"
+              "icon": "lucide-image",
+              "title": "defender-pfp"
             }
           },
           {
@@ -206,7 +204,7 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "c167a97c399eed18",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "_/attachments /defender-pfp.png",
     "Screenshot Essays/What is the purpose of the news?.md",
