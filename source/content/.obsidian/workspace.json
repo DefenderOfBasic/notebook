@@ -11,12 +11,14 @@
             "id": "c167a97c399eed18",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_/attachments /defender-pfp.png"
+                "file": "ORI/test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "defender-pfp"
+              "icon": "lucide-file",
+              "title": "test"
             }
           },
           {
@@ -206,8 +208,11 @@
   },
   "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "_/attachments /defender-pfp.png",
+    "ORI/test.md",
+    "_/attachments /Tldraw 2025-11-25 10.10AM.md",
     "Screenshot Essays/What is the purpose of the news?.md",
+    "ORI",
+    "_/attachments /defender-pfp.png",
     "whiteboard.md",
     "_/attachments /e171ebe9-56cc-4caf-a711-d923094f3467-suntzoogway-pfp-png.png",
     "_/attachments /suntzoogway-pfp.png",
@@ -249,9 +254,7 @@
     "Maxwell's Game.md",
     "memetics/📕 Egregore.md",
     "memetics/My Egregore Burst.md",
-    "How smart nerds hinder the spread of good ideas.md",
     "ORI/Untitled",
-    "Projects/White Mirror - Reading Guide",
-    "_/Untitled"
+    "Projects/White Mirror - Reading Guide"
   ]
 }
