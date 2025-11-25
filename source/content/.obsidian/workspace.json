@@ -11,14 +11,12 @@
             "id": "c167a97c399eed18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "ORI/test.md",
-                "mode": "source",
-                "source": false
+                "file": "ORI/whiteboard.md"
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "whiteboard"
             }
           },
           {
@@ -206,9 +204,12 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "c167a97c399eed18",
   "lastOpenFiles": [
+    "_/attachments /bb88ae34-1f87-41e1-9fce-c4b1401a1ebb-tldrawFile.png",
+    "_/attachments /2f057cb4-0f60-49d2-a5a3-2c0f2c158a0b-tldrawFile.png",
     "ORI/test.md",
+    "ORI/whiteboard.md",
     "_/attachments /Tldraw 2025-11-25 10.10AM.md",
     "Screenshot Essays/What is the purpose of the news?.md",
     "ORI",
@@ -223,7 +224,6 @@
     "Useful Diagrams.md",
     "_/attachments /4175de08-50a9-4541-bc38-5769fa3f0109-tldrawFile.png",
     "_/attachments /ori-logo.png",
-    "_/attachments /16a40083-b650-4bf2-afa9-c0067906fc38-tldrawFile.png",
     "index.md",
     "Memetics/Anonymous Tips.md",
     "Memetics/You can extrapolate from n = 1 surveys.md",
@@ -252,8 +252,6 @@
     "Academic Sociology vs Rogue Sociology.md",
     "Ogi's Explanation of Maxwell.md",
     "Maxwell's Game.md",
-    "memetics/📕 Egregore.md",
-    "memetics/My Egregore Burst.md",
     "ORI/Untitled",
     "Projects/White Mirror - Reading Guide"
   ]
