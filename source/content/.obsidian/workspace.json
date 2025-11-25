@@ -11,12 +11,14 @@
             "id": "c167a97c399eed18",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_/attachments /defender-pfp.png"
+                "file": "Screenshot Essays/What is the purpose of the news?.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "defender-pfp"
+              "icon": "lucide-file",
+              "title": "What is the purpose of the news?"
             }
           },
           {
@@ -206,6 +208,8 @@
   },
   "active": "c167a97c399eed18",
   "lastOpenFiles": [
+    "_/attachments /defender-pfp.png",
+    "Screenshot Essays/What is the purpose of the news?.md",
     "whiteboard.md",
     "_/attachments /e171ebe9-56cc-4caf-a711-d923094f3467-suntzoogway-pfp-png.png",
     "_/attachments /suntzoogway-pfp.png",
@@ -215,7 +219,6 @@
     "_/attachments /9f5ad112-f229-41f0-b422-8557af0e47e9-Screenshot-2025-11-24-at-11-30-44-AM-png.png",
     "Useful Diagrams.md",
     "_/attachments /4175de08-50a9-4541-bc38-5769fa3f0109-tldrawFile.png",
-    "_/attachments /defender-pfp.png",
     "_/attachments /ori-logo.png",
     "_/attachments /16a40083-b650-4bf2-afa9-c0067906fc38-tldrawFile.png",
     "index.md",
@@ -249,7 +252,6 @@
     "memetics/📕 Egregore.md",
     "memetics/My Egregore Burst.md",
     "How smart nerds hinder the spread of good ideas.md",
-    "All the world's billionaires are here.md",
     "ORI/Untitled",
     "Projects/White Mirror - Reading Guide",
     "_/Untitled"

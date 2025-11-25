@@ -1,0 +1,1 @@
+Imagine working at a big company - what's the point of learning about what the executives are doing, or what orgs completely unrelated to you are doing? 
