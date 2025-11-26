@@ -1554,8 +1554,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 592.9254932926887,
-				"y": 414.89632922272995,
+				"x": 634.3549066748146,
+				"y": 467.2448275082312,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1565,7 +1565,7 @@ tags:
 				"props": {
 					"color": "black",
 					"size": "m",
-					"w": 237.60857608100338,
+					"w": 126.91962269647631,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": true,
@@ -1584,7 +1584,34 @@ tags:
 										"text": "Logan"
 									}
 								]
-							},
+							}
+						]
+					}
+				},
+				"parentId": "page:afth7e61pq51gGfN2FiNv",
+				"index": "a5B1R",
+				"typeName": "shape"
+			},
+			{
+				"x": 637.2228923816253,
+				"y": 517.2846428994612,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:J8bdCDRdShWniQnzPHL4f",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 334.3695068359375,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
 							{
 								"type": "paragraph",
 								"attrs": {
@@ -1593,7 +1620,7 @@ tags:
 								"content": [
 									{
 										"type": "text",
-										"text": "(pipeline)"
+										"text": "candidate for ORI member"
 									}
 								]
 							}
@@ -1601,7 +1628,7 @@ tags:
 					}
 				},
 				"parentId": "page:afth7e61pq51gGfN2FiNv",
-				"index": "a5B1R",
+				"index": "a63KA",
 				"typeName": "shape"
 			},
 			{
@@ -1677,6 +1704,45 @@ tags:
 					"isAnimated": false
 				},
 				"meta": {}
+			},
+			{
+				"x": 633.0848406507074,
+				"y": 549.4561916584787,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:6KqQpTE9qYYwd7AoU1NLS",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 426.8447230287994,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 0.9738310275793592,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "memetics work (of trying to get a \"big picture\" view of civilization)"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:afth7e61pq51gGfN2FiNv",
+				"index": "a73YO",
+				"typeName": "shape"
 			},
 			{
 				"x": 1635.1995174923727,
@@ -1980,7 +2046,7 @@ tags:
 				"props": {
 					"color": "grey",
 					"size": "m",
-					"w": 341.09458095231065,
+					"w": 414.94715687496205,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": false,
@@ -2015,6 +2081,79 @@ tags:
 													{
 														"type": "text",
 														"text": "Whitepaper for ORI as alignment institute with suntzoogway"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "metalignment protocol"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "what to ask for "
+													}
+												]
+											},
+											{
+												"type": "bulletList",
+												"content": [
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "a year's worth of salary"
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "a pilot of a month where we bring whoever it is we "
+																	}
+																]
+															}
+														]
 													}
 												]
 											}
@@ -6630,6 +6769,55 @@ tags:
 				},
 				"parentId": "page:afth7e61pq51gGfN2FiNv",
 				"index": "a1",
+				"typeName": "shape"
+			},
+			{
+				"x": 632.6735371718415,
+				"y": 624.5623127535767,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:RylW39inlUFIjxAO9c77G",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 537.5668334960938,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "here's something I want you to review"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:afth7e61pq51gGfN2FiNv",
+				"index": "a83VN",
 				"typeName": "shape"
 			}
 		]
