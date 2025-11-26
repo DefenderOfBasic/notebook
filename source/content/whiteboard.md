@@ -1344,6 +1344,45 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": -40.62635260559682,
+				"y": 844.7361494606301,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:LTryqyT4-rT4s1rJGrRkx",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 267.970263243681,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 1.9943493485801738,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Tessus went to Edge City for a month"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:afth7e61pq51gGfN2FiNv",
+				"index": "a9663",
+				"typeName": "shape"
+			},
+			{
 				"x": 987.2283893807873,
 				"y": 2453.834471614621,
 				"rotation": 0,
@@ -2035,8 +2074,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 34.03138676289575,
-				"y": 345.8801909841954,
+				"x": -2.938628133854195,
+				"y": 339.604254253858,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -2080,7 +2119,7 @@ tags:
 												"content": [
 													{
 														"type": "text",
-														"text": "Whitepaper for ORI as alignment institute with suntzoogway"
+														"text": "Whitepaper for ORI as metalignment institute with suntzoogway"
 													}
 												]
 											}
