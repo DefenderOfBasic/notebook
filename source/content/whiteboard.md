@@ -167,6 +167,45 @@ tags:
 				"typeName": "camera"
 			},
 			{
+				"x": 975.0567755906255,
+				"y": 315.6424784807757,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:XAoAxuBKXwMxZauD-vvZg",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 122.27186559464076,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 0.6680988581756134,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "giving credit"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"index": "aK45O",
+				"typeName": "shape"
+			},
+			{
 				"x": 0,
 				"y": 0,
 				"lastActivityTimestamp": 0,
@@ -630,8 +669,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 695.6792407075862,
-				"y": 492.4582321045963,
+				"x": 668.8208918261186,
+				"y": 516.086419387919,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -2727,6 +2766,45 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "aV8z7",
+				"typeName": "shape"
+			},
+			{
+				"x": 920.051349005015,
+				"y": 288.5490779390953,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:J0GidpGpewCzQ1eK26pGU",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 228.51193237304688,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "\"idea provenance\""
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"index": "aH7Zz",
 				"typeName": "shape"
 			},
 			{
@@ -4903,6 +4981,105 @@ tags:
 				"typeName": "instance_page_state"
 			},
 			{
+				"x": 928.8972405851405,
+				"y": 568.8942201658429,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:gMazD6Lb2pm4oFuxfUDmq",
+				"type": "text",
+				"props": {
+					"color": "light-green",
+					"size": "m",
+					"w": 423.7068786621094,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "response to CTO offer"
+													}
+												]
+											},
+											{
+												"type": "bulletList",
+												"content": [
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "read the pitch deck "
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "turning this into a client?"
+																	}
+																]
+															}
+														]
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												}
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"index": "aG2XF",
+				"typeName": "shape"
+			},
+			{
 				"x": 16.67542176067718,
 				"y": 72.49815575706862,
 				"rotation": 0,
@@ -5174,8 +5351,8 @@ tags:
 				"meta": {}
 			},
 			{
-				"x": 671.6976678987556,
-				"y": 361.64269611581295,
+				"x": 729.4591515284716,
+				"y": 472.9079095262862,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -5189,7 +5366,7 @@ tags:
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": false,
-					"scale": 1,
+					"scale": 0.41747774922307146,
 					"richText": {
 						"type": "doc",
 						"content": [
@@ -5213,7 +5390,7 @@ tags:
 								"content": [
 									{
 										"type": "text",
-										"text": "CTO"
+										"text": "CTO (music industry)"
 									}
 								]
 							}
@@ -5436,8 +5613,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 561.0432706658212,
-				"y": 434.6139326745427,
+				"x": 534.1849217843535,
+				"y": 458.2421199578655,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
