@@ -821,6 +821,77 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 899.4669420629066,
+				"y": 821.6725402447798,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:Fpscfd-t8-vXOchOKuRJR",
+				"type": "text",
+				"props": {
+					"color": "light-blue",
+					"size": "m",
+					"w": 411.54876708984375,
+					"font": "draw",
+					"textAlign": "middle",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Actually do the day to day work"
+													}
+												]
+											},
+											{
+												"type": "bulletList",
+												"content": [
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "a pipeline of projects like this"
+																	}
+																]
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"index": "aM3x1",
+				"typeName": "shape"
+			},
+			{
 				"x": 519.4236435819712,
 				"y": 629.4325136634053,
 				"rotation": 0,
@@ -5131,39 +5202,6 @@ tags:
 												]
 											}
 										]
-									},
-									{
-										"type": "listItem",
-										"content": [
-											{
-												"type": "paragraph",
-												"attrs": {
-													"dir": "auto"
-												},
-												"content": [
-													{
-														"type": "text",
-														"text": "Actually do the day to day work"
-													}
-												]
-											},
-											{
-												"type": "bulletList",
-												"content": [
-													{
-														"type": "listItem",
-														"content": [
-															{
-																"type": "paragraph",
-																"attrs": {
-																	"dir": "auto"
-																}
-															}
-														]
-													}
-												]
-											}
-										]
 									}
 								]
 							}
@@ -5446,8 +5484,47 @@ tags:
 				"meta": {}
 			},
 			{
-				"x": 1336.405724160086,
-				"y": 710.9753551883078,
+				"x": 999.6553487999181,
+				"y": 1069.1509322616987,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:cLrMYRhglAV5osKa3h1Gj",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 359.29383126761957,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 0.6706574247047852,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "HERE'S ALL THE PEOPLE THAT I AM WORKING WITH"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"index": "aO2jC",
+				"typeName": "shape"
+			},
+			{
+				"x": 1339.359697269626,
+				"y": 705.9890339088262,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -5559,7 +5636,7 @@ tags:
 												"content": [
 													{
 														"type": "text",
-														"text": "he got $250k and hired 2 people"
+														"text": "he got $500k and hired 2 people"
 													}
 												]
 											}
@@ -5700,6 +5777,89 @@ tags:
 				"parentId": "page:page",
 				"index": "aO0Zu",
 				"props": {},
+				"typeName": "shape"
+			},
+			{
+				"x": 939.3159191010955,
+				"y": 898.651745269164,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:znxQc8jSKyWKdx8OahEqb",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 465.59866479324273,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 0.6706574247047852,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "meeting 1 on 1 with people"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Making a software prototype"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "\"marketing\" / science communication"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"index": "aN8yP",
 				"typeName": "shape"
 			},
 			{
