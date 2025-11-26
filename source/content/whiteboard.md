@@ -653,6 +653,13 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"meta": {},
+				"id": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"name": "plan",
+				"index": "a30mC",
+				"typeName": "page"
+			},
+			{
 				"x": 2999.370626593802,
 				"y": 2550.3583750351104,
 				"rotation": 0,
@@ -3105,6 +3112,101 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "a79ZP",
+				"typeName": "shape"
+			},
+			{
+				"x": 138.46389770507812,
+				"y": 169.31153297424316,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:Wm0wk7pOb1n4pKhB7gZKj",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 561.4202880859375,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "BEFORE TRAVEL"
+									}
+								]
+							},
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "daily routine "
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "a \"plan\" for the job + personal priorities "
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "\"big thing\" is clear (north star)"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"index": "a1",
 				"typeName": "shape"
 			}
 		]
