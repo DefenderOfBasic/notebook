@@ -1554,6 +1554,57 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 592.9254932926887,
+				"y": 414.89632922272995,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:eEmLyRz5v7kOMRctXUE-v",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 237.60857608100338,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1.6946742505094832,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Logan"
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "(pipeline)"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:afth7e61pq51gGfN2FiNv",
+				"index": "a5B1R",
+				"typeName": "shape"
+			},
+			{
 				"x": 1095.6262236129826,
 				"y": 1515.942041347341,
 				"rotation": 0,
@@ -1918,6 +1969,67 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 34.03138676289575,
+				"y": 345.8801909841954,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:BYowUXo9jylcHHXYWLPVw",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 341.09458095231065,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 1.351484411601713,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "ORI pitch"
+									}
+								]
+							},
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Whitepaper for ORI as alignment institute with suntzoogway"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:afth7e61pq51gGfN2FiNv",
+				"index": "a32Td",
+				"typeName": "shape"
+			},
+			{
 				"x": 2948.717899832537,
 				"y": 2081.6349936559864,
 				"rotation": 0,
@@ -2037,6 +2149,101 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "a36TN",
+				"typeName": "shape"
+			},
+			{
+				"x": 614.0951784003079,
+				"y": 195.4678918877126,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:5VTX7AylasMkeK4yoQJBB",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 352.16808829593646,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Open memetics egregore is growing"
+									}
+								]
+							},
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "GitHub"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Substack essay"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "(anatomy / book pitch?)"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:afth7e61pq51gGfN2FiNv",
+				"index": "a49iv",
 				"typeName": "shape"
 			},
 			{
@@ -6070,8 +6277,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 96.6333035782119,
-				"y": 248.89260029004652,
+				"x": 44.89855757593057,
+				"y": 193.9041886315782,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -6098,6 +6305,28 @@ tags:
 									{
 										"type": "text",
 										"text": "Sam's God Conjecture"
+									}
+								]
+							},
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "essay on hell"
+													}
+												]
+											}
+										]
 									}
 								]
 							}
