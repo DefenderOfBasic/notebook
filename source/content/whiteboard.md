@@ -6070,6 +6070,45 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 96.6333035782119,
+				"y": 248.89260029004652,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:mXk5_Co4ly14TYVUibIyR",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 284.4022453863152,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 1.351484411601713,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Sam's God Conjecture"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:afth7e61pq51gGfN2FiNv",
+				"index": "a24Gy",
+				"typeName": "shape"
+			},
+			{
 				"x": 939.3159191010955,
 				"y": 898.651745269164,
 				"rotation": 0,
@@ -6323,6 +6362,45 @@ tags:
 				},
 				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
 				"index": "a50v4",
+				"typeName": "shape"
+			},
+			{
+				"x": 154.6005658673722,
+				"y": 84.95779062371167,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:i-HUzPp5KEWy_mJ6inhxO",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 718.9504689980021,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 2.2844079269626283,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "What's happening at ORI"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:afth7e61pq51gGfN2FiNv",
+				"index": "a1",
 				"typeName": "shape"
 			}
 		]
