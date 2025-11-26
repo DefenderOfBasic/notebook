@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memetics/To Michael Smith.md",
+                "file": "Memetics/Anonymous Tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Michael Smith"
-            }
-          },
-          {
-            "id": "557e1db05d963714",
-            "type": "leaf",
-            "state": {
-              "type": "tldraw-view",
-              "state": {
-                "file": "whiteboard.md"
-              },
-              "icon": "lucide-file",
-              "title": "whiteboard"
+              "title": "Anonymous Tips"
             }
           }
         ]
@@ -196,10 +184,15 @@
   },
   "active": "c167a97c399eed18",
   "lastOpenFiles": [
-    "ORI/Onboarding.md",
-    "Memetics/To Michael Smith.md",
-    "_/attachments /image-1.png",
+    "Memetics/You can extrapolate from n = 1 surveys.md",
+    "Memetics/Anonymous Tips.md",
+    "whiteboard.md",
     "ORI/whiteboard.md",
+    "index.md",
+    "Useful Diagrams.md",
+    "Memetics/To Michael Smith.md",
+    "ORI/Onboarding.md",
+    "_/attachments /image-1.png",
     "_/attachments /bb88ae34-1f87-41e1-9fce-c4b1401a1ebb-tldrawFile.png",
     "_/attachments /2f057cb4-0f60-49d2-a5a3-2c0f2c158a0b-tldrawFile.png",
     "ORI/test.md",
@@ -207,17 +200,12 @@
     "Screenshot Essays/What is the purpose of the news?.md",
     "ORI",
     "_/attachments /defender-pfp.png",
-    "whiteboard.md",
     "_/attachments /e171ebe9-56cc-4caf-a711-d923094f3467-suntzoogway-pfp-png.png",
     "_/attachments /suntzoogway-pfp.png",
     "_/attachments /7cc2fe1c-6e39-477c-9771-58f9159988d9-tldrawFile.png",
     "_/attachments /d548e5b5-70ff-4f2a-a7cb-c3e03d10bffd-tldrawFile.png",
     "_/attachments /fe286611-53e5-42ee-a99b-d7e801563735-tldrawFile.png",
     "_/attachments /9f5ad112-f229-41f0-b422-8557af0e47e9-Screenshot-2025-11-24-at-11-30-44-AM-png.png",
-    "Useful Diagrams.md",
-    "index.md",
-    "Memetics/Anonymous Tips.md",
-    "Memetics/You can extrapolate from n = 1 surveys.md",
     "_/My Beliefs.md",
     "Memetics",
     "Screenshot Essays/No one who gets their information from a private group chat is allowed to contribute to the Open Memetics Institute.md",
