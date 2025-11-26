@@ -233,8 +233,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 107.46422085817002,
-				"y": 43.431952242863474,
+				"x": 100.20617117839393,
+				"y": 56.031519877639084,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -244,7 +244,7 @@ tags:
 				"props": {
 					"color": "black",
 					"size": "m",
-					"w": 125.77394104003906,
+					"w": 214.40150451660156,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": true,
@@ -260,7 +260,7 @@ tags:
 								"content": [
 									{
 										"type": "text",
-										"text": "American "
+										"text": "American liberal "
 									}
 								]
 							}
