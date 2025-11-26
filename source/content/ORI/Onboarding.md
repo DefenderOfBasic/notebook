@@ -1,0 +1,6 @@
+- Need an entry point / calibration with someone else? (explain how the leaderboard works?)
+- GitHub profile
+- Obsidian notebook with
+	- github pages publish
+	- tldraw
+	- image resize 
