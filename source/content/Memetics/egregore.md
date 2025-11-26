@@ -56,6 +56,45 @@ tags:
 				"typeName": "pointer"
 			},
 			{
+				"x": -25.174187422575585,
+				"y": -46.32045466867797,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:6v4vswBCnvUsdllkurCi3",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 88.90870666503906,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 0.5282018647146499,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Muslim"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a58v5",
+				"typeName": "shape"
+			},
+			{
 				"x": 0,
 				"y": 0,
 				"z": 1,
@@ -103,31 +142,18 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"editingShapeId": null,
-				"croppingShapeId": null,
-				"selectedShapeIds": [],
-				"hoveredShapeId": null,
-				"erasingShapeIds": [],
-				"hintingShapeIds": [],
-				"focusedGroupId": null,
-				"meta": {},
-				"id": "instance_page_state:page:page",
-				"pageId": "page:page",
-				"typeName": "instance_page_state"
-			},
-			{
-				"x": 139.34775923414546,
-				"y": -209.18403996216713,
+				"x": 123.52510533891822,
+				"y": -52.860693410126885,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {},
-				"id": "shape:_79XU2VDZM-zKRbKOnskU",
+				"id": "shape:IQd_MJ1coeDLqZVT-_Tqj",
 				"type": "text",
 				"props": {
 					"color": "black",
 					"size": "m",
-					"w": 17.68294334411621,
+					"w": 84.88038635253906,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": true,
@@ -143,7 +169,7 @@ tags:
 								"content": [
 									{
 										"type": "text",
-										"text": "O"
+										"text": "Israeli"
 									}
 								]
 							}
@@ -151,7 +177,98 @@ tags:
 					}
 				},
 				"parentId": "page:page",
-				"index": "a38Pq",
+				"index": "a74xs",
+				"typeName": "shape"
+			},
+			{
+				"editingShapeId": null,
+				"croppingShapeId": null,
+				"selectedShapeIds": [],
+				"hoveredShapeId": null,
+				"erasingShapeIds": [],
+				"hintingShapeIds": [],
+				"focusedGroupId": null,
+				"meta": {},
+				"id": "instance_page_state:page:page",
+				"pageId": "page:page",
+				"typeName": "instance_page_state"
+			},
+			{
+				"x": 6.228715420982439,
+				"y": -83.4239768162052,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:vIXDkQL73yXaVlPjBXBYa",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 59.7293815612793,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Arab"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a49Ix",
+				"typeName": "shape"
+			},
+			{
+				"x": 107.46422085817002,
+				"y": 43.431952242863474,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:7XwNB2rmBb862Y6OzxCdh",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 125.77394104003906,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "American "
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a82mX",
 				"typeName": "shape"
 			},
 			{
@@ -212,6 +329,45 @@ tags:
 				"id": "instance:instance",
 				"currentPageId": "page:page",
 				"typeName": "instance"
+			},
+			{
+				"x": 35.6469225336551,
+				"y": -46.696543820605626,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:LMxXehL8I6kzK-IvUQuMf",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 59.15759735307586,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 0.5282018647146499,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Christian"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a64Bi",
+				"typeName": "shape"
 			},
 			{
 				"x": 561.1398381024195,
