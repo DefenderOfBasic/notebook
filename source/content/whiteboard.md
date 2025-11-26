@@ -4981,8 +4981,8 @@ tags:
 				"typeName": "instance_page_state"
 			},
 			{
-				"x": 928.8972405851405,
-				"y": 568.8942201658429,
+				"x": 908.0541560208883,
+				"y": 561.6944937069374,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -4992,10 +4992,10 @@ tags:
 				"props": {
 					"color": "light-green",
 					"size": "m",
-					"w": 423.7068786621094,
+					"w": 488.53879446108476,
 					"font": "draw",
 					"textAlign": "start",
-					"autoSize": true,
+					"autoSize": false,
 					"scale": 1,
 					"richText": {
 						"type": "doc",
@@ -5066,7 +5066,102 @@ tags:
 												"type": "paragraph",
 												"attrs": {
 													"dir": "auto"
-												}
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Make a pitch for fundraising"
+													}
+												]
+											},
+											{
+												"type": "bulletList",
+												"content": [
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "describe what work I'm planning to do"
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "who I'm working with"
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "how much $$ we need"
+																	}
+																]
+															}
+														]
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Actually do the day to day work"
+													}
+												]
+											},
+											{
+												"type": "bulletList",
+												"content": [
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																}
+															}
+														]
+													}
+												]
 											}
 										]
 									}
@@ -5349,6 +5444,135 @@ tags:
 					"isAnimated": false
 				},
 				"meta": {}
+			},
+			{
+				"x": 1336.405724160086,
+				"y": 710.9753551883078,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:UCFTwQtxuZdoODhlNPjHx",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 449.4025816332671,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 0.26856935413509425,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Write this up as a case study"
+									}
+								]
+							},
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "I found a need in the market"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "I found a person who can fill it"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "I helped him make a prototype and market it"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "and THEN connected him with investors"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "he got $250k and hired 2 people"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"index": "aL6qR",
+				"typeName": "shape"
 			},
 			{
 				"x": 729.4591515284716,
