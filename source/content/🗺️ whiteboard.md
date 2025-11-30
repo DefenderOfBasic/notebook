@@ -1437,7 +1437,7 @@ tags:
 				"meta": {}
 			},
 			{
-				"x": 986.5876946404323,
+				"x": 919.5592235104486,
 				"y": 723.22103854243,
 				"rotation": 0,
 				"isLocked": false,
@@ -6038,8 +6038,8 @@ tags:
 				"typeName": "camera"
 			},
 			{
-				"x": 1553.1883575158006,
-				"y": 758.3272487733145,
+				"x": 1482.840161277708,
+				"y": 766.6302716945114,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -6047,7 +6047,7 @@ tags:
 				"id": "shape:PuW8PYJ0wtQ_FU8XMRCqX",
 				"type": "text",
 				"props": {
-					"color": "grey",
+					"color": "yellow",
 					"size": "m",
 					"w": 420.5587200748557,
 					"font": "draw",

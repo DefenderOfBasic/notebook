@@ -23,10 +23,12 @@
             "id": "d91c7de509b8165d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "tldraw-view",
+              "state": {
+                "file": "🗺️ whiteboard.md"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "🗺️ whiteboard"
             }
           }
         ],
