@@ -536,8 +536,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 1650.4336570960093,
-				"y": 114.50909981221679,
+				"x": 1774.029795890385,
+				"y": 140.02011392777337,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1397,6 +1397,55 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 1866.6649075454307,
+				"y": -276.37138586695426,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:kik1W-WLcx38nquFQ6L3Y",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 353.0643310546875,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "religion as game theory"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aA4SN",
+				"typeName": "shape"
+			},
+			{
 				"x": -71.50691476437369,
 				"y": 401.19910389998796,
 				"rotation": 0,
@@ -1713,6 +1762,258 @@ tags:
 				},
 				"parentId": "page:7y2BkHxU5UQkPUn90pKDn",
 				"index": "a70di",
+				"typeName": "shape"
+			},
+			{
+				"x": -392.0017866102772,
+				"y": 5.430924165719318,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:rI5HDYSdhTJFDdg29IC2W",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 570.326904296875,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Who I am working with:"
+									}
+								]
+							},
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Suntzoogway"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Katt"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Sam Senchal"
+													}
+												]
+											},
+											{
+												"type": "bulletList",
+												"content": [
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "Walter"
+																	}
+																]
+															}
+														]
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "ISeePattern"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "RonenV"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "CA egregore (Xiq, Goat, Emergent)"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Michael Smith & Malcolm"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Periphery"
+													}
+												]
+											},
+											{
+												"type": "bulletList",
+												"content": [
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "Andrew Ngo, Hazard, <third person>"
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "Ann"
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																}
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aBADa",
 				"typeName": "shape"
 			},
 			{
