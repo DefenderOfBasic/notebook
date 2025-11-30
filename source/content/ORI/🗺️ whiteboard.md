@@ -877,8 +877,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 878.7960543691449,
-				"y": 903.2449693150243,
+				"x": 774.219627525957,
+				"y": 942.3670218816744,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1408,7 +1408,7 @@ tags:
 				"props": {
 					"color": "black",
 					"size": "m",
-					"w": 353.0643310546875,
+					"w": 488.3001708984375,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": true,
@@ -1431,6 +1431,23 @@ tags:
 													{
 														"type": "text",
 														"text": "religion as game theory"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "this is the core orchestrator layer "
 													}
 												]
 											}
@@ -1493,6 +1510,72 @@ tags:
 				},
 				"parentId": "page:7y2BkHxU5UQkPUn90pKDn",
 				"index": "a961U",
+				"typeName": "shape"
+			},
+			{
+				"x": 1901.4953665149617,
+				"y": 279.4482067155569,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:kWsbGftullYgO9WT_DQ4I",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 486.6183166503906,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Anatomy of an Internet Argument"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Open Memetics"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aC92G",
 				"typeName": "shape"
 			},
 			{
@@ -1765,8 +1848,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": -392.0017866102772,
-				"y": 5.430924165719318,
+				"x": 1139.893051830762,
+				"y": 639.3903793149135,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1780,7 +1863,7 @@ tags:
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": true,
-					"scale": 1,
+					"scale": 0.4352199808912398,
 					"richText": {
 						"type": "doc",
 						"content": [
