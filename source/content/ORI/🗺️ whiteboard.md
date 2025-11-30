@@ -3,6 +3,12 @@ tldraw-file: true
 tags:
   - tldraw
 ---
+![[b5493d8a-39d4-4e0d-afe2-d127918ac5f1-tldrawFile.png]]
+^b5493d8a-39d4-4e0d-afe2-d127918ac5f1
+
+![[7fde808f-f74d-475a-b4b7-526da33def80-tldrawFile.png]]
+^7fde808f-f74d-475a-b4b7-526da33def80
+
 ![[bb88ae34-1f87-41e1-9fce-c4b1401a1ebb-tldrawFile.png]]
 ^bb88ae34-1f87-41e1-9fce-c4b1401a1ebb
 
@@ -114,6 +120,19 @@ tags:
 				"parentId": "page:7y2BkHxU5UQkPUn90pKDn",
 				"index": "aB38x",
 				"typeName": "shape"
+			},
+			{
+				"editingShapeId": null,
+				"croppingShapeId": null,
+				"selectedShapeIds": [],
+				"hoveredShapeId": null,
+				"erasingShapeIds": [],
+				"hintingShapeIds": [],
+				"focusedGroupId": null,
+				"meta": {},
+				"id": "instance_page_state:page:7y2BkHxU5UQkPUn90pKDn",
+				"pageId": "page:7y2BkHxU5UQkPUn90pKDn",
+				"typeName": "instance_page_state"
 			},
 			{
 				"x": 455.38518225265466,
@@ -389,6 +408,56 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 187.2937832401878,
+				"y": 799.4888424143272,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:JSmgrRsR6s103YCLpQgci",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 371.83085270202605,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 0.6304043202100168,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"marks": [
+											{
+												"type": "link",
+												"attrs": {
+													"href": "https://slimemoldtimemold.com/2025/11/30/links-for-november-2025/",
+													"target": "_blank",
+													"rel": "noopener noreferrer nofollow",
+													"class": null
+												}
+											}
+										],
+										"text": "https://slimemoldtimemold.com/2025/11/30/links-for-november-2025/"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a3BnW",
+				"typeName": "shape"
+			},
+			{
 				"x": -71.87712759418986,
 				"y": 178.67351527931044,
 				"rotation": 0,
@@ -494,6 +563,29 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"id": "asset:1327000080",
+				"type": "image",
+				"typeName": "asset",
+				"props": {
+					"name": "tldrawFile",
+					"src": "asset:obsidian.blockref.7fde808f-f74d-475a-b4b7-526da33def80",
+					"w": 676,
+					"h": 164,
+					"fileSize": 62467,
+					"mimeType": "image/png",
+					"isAnimated": false
+				},
+				"meta": {}
+			},
+			{
+				"x": 0,
+				"y": 0,
+				"z": 1,
+				"meta": {},
+				"id": "camera:page:7y2BkHxU5UQkPUn90pKDn",
+				"typeName": "camera"
+			},
+			{
 				"x": -114.60161159791846,
 				"y": 75.78391665145875,
 				"rotation": 0,
@@ -529,6 +621,166 @@ tags:
 				"id": "instance_page_state:page:page",
 				"pageId": "page:page",
 				"typeName": "instance_page_state"
+			},
+			{
+				"id": "asset:1056264166",
+				"type": "image",
+				"typeName": "asset",
+				"props": {
+					"name": "tldrawFile",
+					"src": "asset:obsidian.blockref.b5493d8a-39d4-4e0d-afe2-d127918ac5f1",
+					"w": 937,
+					"h": 594,
+					"fileSize": 351640,
+					"mimeType": "image/png",
+					"isAnimated": false
+				},
+				"meta": {}
+			},
+			{
+				"x": 795.2538691891306,
+				"y": 527.7077595847109,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:B4s9Rr77lOhdb2SZ2m3GF",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 536.4549114131291,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Semble"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Epistemic Garden / Community Archive"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Torus Network / Speaker John Ash"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Myk et al"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Tianmu et al"
+													}
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								}
+							},
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Analogue & Kanro "
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a405b",
+				"typeName": "shape"
 			},
 			{
 				"x": 96.87970361616266,
@@ -581,6 +833,30 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 107.81210600558313,
+				"y": 400.21111816399616,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:28cfJJI7QPoKpM-TJUL9z",
+				"type": "image",
+				"props": {
+					"w": 528.6555131291934,
+					"h": 128.25370436862087,
+					"assetId": "asset:1327000080",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "page:page",
+				"index": "a1",
+				"typeName": "shape"
+			},
+			{
 				"x": -124.79193722853779,
 				"y": 440.22859714131636,
 				"rotation": 0,
@@ -610,6 +886,30 @@ tags:
 				"name": "misc",
 				"index": "a21tC",
 				"typeName": "page"
+			},
+			{
+				"x": 108.89269530988975,
+				"y": 523.9663473560604,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:DyhTobDBNqeQQvFK9D7an",
+				"type": "image",
+				"props": {
+					"w": 411.11723559895773,
+					"h": 260.62287934448335,
+					"assetId": "asset:1056264166",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "page:page",
+				"index": "a28k8",
+				"typeName": "shape"
 			},
 			{
 				"x": -71.50691476437369,
@@ -979,6 +1279,19 @@ tags:
 				"parentId": "page:7y2BkHxU5UQkPUn90pKDn",
 				"index": "a89jm",
 				"typeName": "shape"
+			},
+			{
+				"id": "asset:1581766074",
+				"typeName": "asset",
+				"type": "bookmark",
+				"props": {
+					"src": "https://slimemoldtimemold.com/2025/11/30/links-for-november-2025/",
+					"description": "",
+					"image": "https://slimemoldtimemold.com/2025/11/30/links-for-november-2025/",
+					"favicon": "https://slimemoldtimemold.com/2025/11/30/links-for-november-2025/",
+					"title": "https://slimemoldtimemold.com/2025/11/30/links-for-november-2025/"
+				},
+				"meta": {}
 			},
 			{
 				"x": 235.86375006415943,

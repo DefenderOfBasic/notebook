@@ -13,13 +13,24 @@
             "state": {
               "type": "tldraw-view",
               "state": {
-                "file": "🗺️ whiteboard.md"
+                "file": "ORI/🗺️ whiteboard.md"
               },
               "icon": "lucide-file",
               "title": "🗺️ whiteboard"
             }
+          },
+          {
+            "id": "d91c7de509b8165d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,15 +191,17 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "8e4ade999e063590",
+  "active": "d91c7de509b8165d",
   "lastOpenFiles": [
     "ORI/🗺️ whiteboard.md",
+    "_/attachments /b5493d8a-39d4-4e0d-afe2-d127918ac5f1-tldrawFile.png",
+    "_/attachments /7fde808f-f74d-475a-b4b7-526da33def80-tldrawFile.png",
     "ORI/Onboarding.md",
+    "🗺️ whiteboard.md",
     "Daily Notes/2025-11-26.md",
     "_/attachments /image-3.png",
     "_/attachments /image-2.png",
     "Daily Notes/2025-11-23.md",
-    "🗺️ whiteboard.md",
     "Memetics/egregore.md",
     "Memetics/To Michael Smith.md",
     "Memetics/Untitled.md",
@@ -206,8 +219,6 @@
     "_/attachments /defender-pfp.png",
     "_/attachments /e171ebe9-56cc-4caf-a711-d923094f3467-suntzoogway-pfp-png.png",
     "_/attachments /suntzoogway-pfp.png",
-    "_/attachments /7cc2fe1c-6e39-477c-9771-58f9159988d9-tldrawFile.png",
-    "_/attachments /d548e5b5-70ff-4f2a-a7cb-c3e03d10bffd-tldrawFile.png",
     "_/My Beliefs.md",
     "Memetics",
     "Screenshot Essays/No one who gets their information from a private group chat is allowed to contribute to the Open Memetics Institute.md",
