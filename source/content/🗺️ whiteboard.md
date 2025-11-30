@@ -1437,8 +1437,8 @@ tags:
 				"meta": {}
 			},
 			{
-				"x": 960.178487145419,
-				"y": 709.9026649874886,
+				"x": 986.5876946404323,
+				"y": 723.22103854243,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1452,7 +1452,7 @@ tags:
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": false,
-					"scale": 1.5014706066507935,
+					"scale": 1.2498973313976838,
 					"richText": {
 						"type": "doc",
 						"content": [
@@ -1464,7 +1464,7 @@ tags:
 								"content": [
 									{
 										"type": "text",
-										"text": "⭐️ Current personal goals"
+										"text": "⭐️ Current goals"
 									}
 								]
 							},
@@ -3206,6 +3206,19 @@ tags:
 				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
 				"index": "aR84L",
 				"typeName": "shape"
+			},
+			{
+				"editingShapeId": null,
+				"croppingShapeId": null,
+				"selectedShapeIds": [],
+				"hoveredShapeId": null,
+				"erasingShapeIds": [],
+				"hintingShapeIds": [],
+				"focusedGroupId": null,
+				"meta": {},
+				"id": "instance_page_state:page:zAa_G_PdUgDrr8-AGI-Qd",
+				"pageId": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"typeName": "instance_page_state"
 			},
 			{
 				"x": 1668.875010101217,
@@ -5301,7 +5314,7 @@ tags:
 				"isChatting": false,
 				"highlightedUserIds": [],
 				"isFocused": false,
-				"devicePixelRatio": 1.7280000448226929,
+				"devicePixelRatio": 3.4560000896453857,
 				"isCoarsePointer": false,
 				"isHoveringCanvas": null,
 				"openMenus": [],
@@ -5483,7 +5496,7 @@ tags:
 																"content": [
 																	{
 																		"type": "text",
-																		"text": "how much $$ we need"
+																		"text": "how much $ we need"
 																	}
 																]
 															}
@@ -6014,6 +6027,53 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "aH6tX",
+				"typeName": "shape"
+			},
+			{
+				"x": 0,
+				"y": 0,
+				"z": 1,
+				"meta": {},
+				"id": "camera:page:zAa_G_PdUgDrr8-AGI-Qd",
+				"typeName": "camera"
+			},
+			{
+				"x": 1572.270265049675,
+				"y": 759.934439494427,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:PuW8PYJ0wtQ_FU8XMRCqX",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 420.5587200748557,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 0.6367127577505125,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Alternatively, just find a funded project to work on, like Anatomy of an Internet Argument?"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aq57h",
 				"typeName": "shape"
 			},
 			{
