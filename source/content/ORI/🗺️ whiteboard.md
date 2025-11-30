@@ -818,6 +818,23 @@ tags:
 																]
 															}
 														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "$"
+																	}
+																]
+															}
+														]
 													}
 												]
 											}
