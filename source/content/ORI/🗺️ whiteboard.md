@@ -122,6 +122,84 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 634.2974135707049,
+				"y": -245.31783544107077,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:IEC137pg_uWxz--rfEFIQ",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 779.3253645349588,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 3.4176035540227248,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "science of purpose"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a63k0",
+				"typeName": "shape"
+			},
+			{
+				"x": 1796.8606867523438,
+				"y": -415.6950804570195,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:t3B38mzZn-HQ23uPKkAFi",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 685.8134713919497,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 3.4176035540227248,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "meta-alignment"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a83O7",
+				"typeName": "shape"
+			},
+			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
 				"selectedShapeIds": [],
@@ -458,6 +536,45 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 1650.4336570960093,
+				"y": 114.50909981221679,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:nHM3lmNfZSAOgvVm0SYD4",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 1220.493834446194,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 3.4176035540227248,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "memetics (aka meta-science)"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a94GW",
+				"typeName": "shape"
+			},
+			{
 				"x": -71.87712759418986,
 				"y": 178.67351527931044,
 				"rotation": 0,
@@ -636,6 +753,128 @@ tags:
 					"isAnimated": false
 				},
 				"meta": {}
+			},
+			{
+				"x": 735.317503794969,
+				"y": -136.65029422485318,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:BYZDf22htBtKHqqWvs2-u",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 464.5868835449219,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Maxwell's game"
+													}
+												]
+											},
+											{
+												"type": "bulletList",
+												"content": [
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "how can mind outwit matter"
+																	}
+																]
+															}
+														]
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "The God Conjecture"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Blaise Aguera / Teology "
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Michael Levin"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a75oz",
+				"typeName": "shape"
 			},
 			{
 				"x": 878.7960543691449,
@@ -830,7 +1069,24 @@ tags:
 																"content": [
 																	{
 																		"type": "text",
-																		"text": "$"
+																		"text": "Tessus in Argentina"
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "Defender in SF "
 																	}
 																]
 															}
