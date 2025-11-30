@@ -11,12 +11,14 @@
             "id": "8e4ade999e063590",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "ORI/🗺️ whiteboard.md"
+                "file": "Daily Notes/2025-11-30.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "🗺️ whiteboard"
+              "title": "2025-11-30"
             }
           },
           {
@@ -194,15 +196,16 @@
   },
   "active": "8e4ade999e063590",
   "lastOpenFiles": [
+    "Daily Notes/2025-11-23.md",
+    "Daily Notes/2025-11-30.md",
+    "ORI/🗺️ whiteboard.md",
     "ORI/Onboarding.md",
     "🗺️ whiteboard.md",
-    "ORI/🗺️ whiteboard.md",
     "_/attachments /b5493d8a-39d4-4e0d-afe2-d127918ac5f1-tldrawFile.png",
     "_/attachments /7fde808f-f74d-475a-b4b7-526da33def80-tldrawFile.png",
     "Daily Notes/2025-11-26.md",
     "_/attachments /image-3.png",
     "_/attachments /image-2.png",
-    "Daily Notes/2025-11-23.md",
     "Memetics/egregore.md",
     "Memetics/To Michael Smith.md",
     "Memetics/Untitled.md",
