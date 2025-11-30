@@ -638,6 +638,218 @@ tags:
 				"meta": {}
 			},
 			{
+				"x": 878.7960543691449,
+				"y": 903.2449693150243,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:vJDzh-kUR97lk_5dNW_n8",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 493.788818359375,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "⭐️ where has the ORI money gone?"
+													}
+												]
+											},
+											{
+												"type": "bulletList",
+												"content": [
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "$5k to onabenchinapark "
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "$1k to Leo for vibecamp"
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "$10k to Leo"
+																	}
+																]
+															},
+															{
+																"type": "bulletList",
+																"content": [
+																	{
+																		"type": "listItem",
+																		"content": [
+																			{
+																				"type": "paragraph",
+																				"attrs": {
+																					"dir": "auto"
+																				},
+																				"content": [
+																					{
+																						"type": "text",
+																						"text": "$5k to Kirk"
+																					}
+																				]
+																			}
+																		]
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "$10k to Volky"
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "$3k to Heph"
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "$5k to Oz "
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "$8k David Rug"
+																	}
+																]
+															}
+														]
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Total: $47k "
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a547K",
+				"typeName": "shape"
+			},
+			{
 				"x": 795.2538691891306,
 				"y": 527.7077595847109,
 				"rotation": 0,
