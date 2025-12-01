@@ -53,14 +53,14 @@
             "state": {
               "type": "tldraw-view",
               "state": {
-                "file": "🗺️ whiteboard.md"
+                "file": "ORI/🗺️ ori-whiteboard.md"
               },
               "icon": "lucide-file",
-              "title": "🗺️ whiteboard"
+              "title": "🗺️ ori-whiteboard"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -249,8 +249,8 @@
           }
         ],
         "direction": "vertical",
-        "x": -1119,
-        "y": -402,
+        "x": -1118,
+        "y": -343,
         "width": 1083,
         "height": 1005,
         "maximize": false,
@@ -258,14 +258,15 @@
       }
     ]
   },
-  "active": "3a349aa6e67cd22e",
+  "active": "42c878ebe1ec3b86",
   "lastOpenFiles": [
-    "Useful Diagrams.md",
+    "_/attachments /one-step-above-one-below.jpeg",
     "ORI/🗺️ ori-whiteboard.md",
+    "🗺️ whiteboard.md",
     "Daily Notes/2025-11-30.md",
+    "Useful Diagrams.md",
     "Daily Notes/2025-11-23.md",
     "_/attachments /75cdbcf9-c886-4428-b64e-16ab3ec3c7d6-tldrawFile.png",
-    "🗺️ whiteboard.md",
     "_/attachments /7bc039e6-bb91-491b-8a15-8a776a55f79f-tldrawFile.png",
     "_/attachments /b5493d8a-39d4-4e0d-afe2-d127918ac5f1-tldrawFile.png",
     "_/attachments /image-1.png",
@@ -274,7 +275,6 @@
     "_/attachments /fe286611-53e5-42ee-a99b-d7e801563735-tldrawFile.png",
     "_/attachments /suntzoogway-pfp.png",
     "_/attachments /4175de08-50a9-4541-bc38-5769fa3f0109-tldrawFile.png",
-    "_/attachments /defender-pfp.png",
     "ORI/Onboarding.md",
     "Daily Notes/2025-11-26.md",
     "Memetics/egregore.md",

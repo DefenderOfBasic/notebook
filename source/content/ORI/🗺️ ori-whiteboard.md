@@ -531,6 +531,45 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 1570.5541775046036,
+				"y": 994.2830368625098,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:Hxv-L5S2NTrJYVL50301v",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 228.80128479003906,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "ORI ONBOARDING"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aD5Ds",
+				"typeName": "shape"
+			},
+			{
 				"x": 187.2937832401878,
 				"y": 799.4888424143272,
 				"rotation": 0,
@@ -578,6 +617,45 @@ tags:
 				},
 				"parentId": "page:page",
 				"index": "a3BnW",
+				"typeName": "shape"
+			},
+			{
+				"x": 1598.7135647431835,
+				"y": 1044.5416968783557,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:STP4zRux4qsUMnEGFti2y",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 95.8260269165039,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "GITHUB"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aE2BH",
 				"typeName": "shape"
 			},
 			{
@@ -1060,6 +1138,81 @@ tags:
 				"id": "instance_page_state:page:OJ4AG2DSVNBLET5LuUiLW",
 				"pageId": "page:OJ4AG2DSVNBLET5LuUiLW",
 				"typeName": "instance_page_state"
+			},
+			{
+				"x": 1560.0754119039427,
+				"y": 1132.2945331256815,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:dclFYqNBk41eIkdrf7D-s",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 249.9420623779297,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "\"what do you need\""
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "(1) attention"
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "(2) capital"
+									}
+								]
+							},
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "(3) feedback"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aFCI7",
+				"typeName": "shape"
 			},
 			{
 				"x": 774.219627525957,
@@ -2068,7 +2221,7 @@ tags:
 				"isChatting": false,
 				"highlightedUserIds": [],
 				"isFocused": false,
-				"devicePixelRatio": 3.4560000896453857,
+				"devicePixelRatio": 1.7280000448226929,
 				"isCoarsePointer": false,
 				"isHoveringCanvas": null,
 				"openMenus": [],
