@@ -3,6 +3,9 @@ tldraw-file: true
 tags:
   - tldraw
 ---
+![[7bc039e6-bb91-491b-8a15-8a776a55f79f-tldrawFile.png]]
+^7bc039e6-bb91-491b-8a15-8a776a55f79f
+
 ![[b5493d8a-39d4-4e0d-afe2-d127918ac5f1-tldrawFile.png]]
 ^b5493d8a-39d4-4e0d-afe2-d127918ac5f1
 
@@ -755,6 +758,94 @@ tags:
 				"meta": {}
 			},
 			{
+				"x": 85.85327258644514,
+				"y": 164.05232979627607,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:iDAF4sIwuZR-hvl_PENun",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 501.32596321404736,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 0.7281756365023351,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "ORI onboarding "
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "where has all the money gone"
+													}
+												]
+											},
+											{
+												"type": "bulletList",
+												"content": [
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "(ORI has given ~$50k in grants, most have gone bust, but there are a few successes) "
+																	}
+																]
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:OJ4AG2DSVNBLET5LuUiLW",
+				"index": "a31Gj",
+				"typeName": "shape"
+			},
+			{
 				"x": 735.317503794969,
 				"y": -136.65029422485318,
 				"rotation": 0,
@@ -875,6 +966,58 @@ tags:
 				"parentId": "page:page",
 				"index": "a75oz",
 				"typeName": "shape"
+			},
+			{
+				"x": 106.69669332660976,
+				"y": 110.61156463623047,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:zDD06Mv8zlslGl7I6JG_D",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 241.1123046875,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1.003558705450825,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Happy Dec 1st, ORI!"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:OJ4AG2DSVNBLET5LuUiLW",
+				"index": "a1",
+				"typeName": "shape"
+			},
+			{
+				"editingShapeId": null,
+				"croppingShapeId": null,
+				"selectedShapeIds": [],
+				"hoveredShapeId": null,
+				"erasingShapeIds": [],
+				"hintingShapeIds": [],
+				"focusedGroupId": null,
+				"meta": {},
+				"id": "instance_page_state:page:OJ4AG2DSVNBLET5LuUiLW",
+				"pageId": "page:OJ4AG2DSVNBLET5LuUiLW",
+				"typeName": "instance_page_state"
 			},
 			{
 				"x": 774.219627525957,
@@ -1342,6 +1485,14 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 0,
+				"y": 0,
+				"z": 1,
+				"meta": {},
+				"id": "camera:page:OJ4AG2DSVNBLET5LuUiLW",
+				"typeName": "camera"
+			},
+			{
 				"x": -124.79193722853779,
 				"y": 440.22859714131636,
 				"rotation": 0,
@@ -1741,6 +1892,45 @@ tags:
 				"id": "instance:instance",
 				"currentPageId": "page:page",
 				"typeName": "instance"
+			},
+			{
+				"id": "asset:1545374429",
+				"type": "image",
+				"typeName": "asset",
+				"props": {
+					"name": "tldrawFile",
+					"src": "asset:obsidian.blockref.7bc039e6-bb91-491b-8a15-8a776a55f79f",
+					"w": 400,
+					"h": 400,
+					"fileSize": 18764,
+					"mimeType": "image/png",
+					"isAnimated": false
+				},
+				"meta": {}
+			},
+			{
+				"x": 40.36994934082031,
+				"y": 100.19122314453125,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:jA4s3KWP_qNLhpm-hZBIL",
+				"type": "image",
+				"props": {
+					"w": 53.80635070800781,
+					"h": 53.80635070800781,
+					"assetId": "asset:1545374429",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "page:OJ4AG2DSVNBLET5LuUiLW",
+				"index": "a24sL",
+				"typeName": "shape"
 			},
 			{
 				"x": -77.2176570070779,
@@ -2150,19 +2340,6 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"id": "asset:1581766074",
-				"typeName": "asset",
-				"type": "bookmark",
-				"props": {
-					"src": "https://slimemoldtimemold.com/2025/11/30/links-for-november-2025/",
-					"description": "",
-					"image": "https://slimemoldtimemold.com/2025/11/30/links-for-november-2025/",
-					"favicon": "https://slimemoldtimemold.com/2025/11/30/links-for-november-2025/",
-					"title": "https://slimemoldtimemold.com/2025/11/30/links-for-november-2025/"
-				},
-				"meta": {}
-			},
-			{
 				"x": 235.86375006415943,
 				"y": 96.11674164206693,
 				"rotation": 0,
@@ -2261,6 +2438,13 @@ tags:
 				"parentId": "page:7y2BkHxU5UQkPUn90pKDn",
 				"index": "a68aO",
 				"typeName": "shape"
+			},
+			{
+				"meta": {},
+				"id": "page:OJ4AG2DSVNBLET5LuUiLW",
+				"name": "Dec 1st",
+				"index": "a1e5a",
+				"typeName": "page"
 			}
 		]
 	}
