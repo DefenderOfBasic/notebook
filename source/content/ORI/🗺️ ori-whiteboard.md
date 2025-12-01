@@ -3,6 +3,9 @@ tldraw-file: true
 tags:
   - tldraw
 ---
+![[75cdbcf9-c886-4428-b64e-16ab3ec3c7d6-tldrawFile.png]]
+^75cdbcf9-c886-4428-b64e-16ab3ec3c7d6
+
 ![[7bc039e6-bb91-491b-8a15-8a776a55f79f-tldrawFile.png]]
 ^7bc039e6-bb91-491b-8a15-8a776a55f79f
 
@@ -164,8 +167,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 44.57212890404274,
-				"y": 342.652657435795,
+				"x": 39.4022687809652,
+				"y": 352.31394523530497,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -745,6 +748,55 @@ tags:
 				"typeName": "camera"
 			},
 			{
+				"x": 57.21738687843252,
+				"y": 282.045964153858,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:MRRrwK436-g4X_O6EwFOg",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 735.0809409316172,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 0.30694969226708746,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "stands for \"Open Research Institute\", it's currently an egregore"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:OJ4AG2DSVNBLET5LuUiLW",
+				"index": "a72O0",
+				"typeName": "shape"
+			},
+			{
 				"x": -114.60161159791846,
 				"y": 75.78391665145875,
 				"rotation": 0,
@@ -770,7 +822,7 @@ tags:
 			},
 			{
 				"x": 42.53120021202743,
-				"y": 238.76589388426163,
+				"y": 242.60250452448776,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1451,8 +1503,23 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 45.08812096136947,
-				"y": 166.25432553207455,
+				"id": "asset:580161825",
+				"type": "image",
+				"typeName": "asset",
+				"props": {
+					"name": "tldrawFile",
+					"src": "asset:obsidian.blockref.75cdbcf9-c886-4428-b64e-16ab3ec3c7d6",
+					"w": 1716,
+					"h": 1884,
+					"fileSize": 1791439,
+					"mimeType": "image/png",
+					"isAnimated": false
+				},
+				"meta": {}
+			},
+			{
+				"x": 47.60571519044092,
+				"y": 157.6284458294365,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1462,7 +1529,7 @@ tags:
 				"props": {
 					"color": "grey",
 					"size": "m",
-					"w": 536.5831178222693,
+					"w": 479.9335682995512,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": false,
@@ -1478,7 +1545,7 @@ tags:
 								"content": [
 									{
 										"type": "text",
-										"text": "It's Monday, Dec 1st, 2025. This is an update to how ORI is doing"
+										"text": "It's Monday, Dec 1st, 2025. This is a \"big picture\" update for everyone who is involved in ORI"
 									}
 								]
 							}
@@ -1690,6 +1757,30 @@ tags:
 				},
 				"parentId": "page:7y2BkHxU5UQkPUn90pKDn",
 				"index": "a961U",
+				"typeName": "shape"
+			},
+			{
+				"x": 83.40666345740922,
+				"y": 397.4274789296481,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:FLwKSSgytamerLtalI2VJ",
+				"type": "image",
+				"props": {
+					"w": 51.599390067243355,
+					"h": 56.651078605295154,
+					"assetId": "asset:580161825",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "page:OJ4AG2DSVNBLET5LuUiLW",
+				"index": "a63hL",
 				"typeName": "shape"
 			},
 			{
