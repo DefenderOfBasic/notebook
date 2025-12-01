@@ -45,7 +45,8 @@
               "title": "🗺️ whiteboard"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,8 +207,9 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "8e4ade999e063590",
+  "active": "d91c7de509b8165d",
   "lastOpenFiles": [
+    "Daily Notes/2025-11-30.md",
     "Daily Notes/2025-11-23.md",
     "ORI/🗺️ ori-whiteboard.md",
     "_/attachments /75cdbcf9-c886-4428-b64e-16ab3ec3c7d6-tldrawFile.png",
@@ -221,7 +223,6 @@
     "_/attachments /suntzoogway-pfp.png",
     "_/attachments /4175de08-50a9-4541-bc38-5769fa3f0109-tldrawFile.png",
     "_/attachments /defender-pfp.png",
-    "Daily Notes/2025-11-30.md",
     "ORI/Onboarding.md",
     "Daily Notes/2025-11-26.md",
     "Memetics/egregore.md",

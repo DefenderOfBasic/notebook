@@ -128,6 +128,45 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 715.502241557024,
+				"y": 241.9755263008587,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:4YFocQ0AdDkbJ57lvX0_P",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 285.04161283832445,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "publish this substack (25% done)"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:OJ4AG2DSVNBLET5LuUiLW",
+				"index": "a86Sp",
+				"typeName": "shape"
+			},
+			{
 				"x": 634.2974135707049,
 				"y": -245.31783544107077,
 				"rotation": 0,
@@ -1010,8 +1049,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 106.69669332660976,
-				"y": 110.61156463623047,
+				"x": 768.3174733631331,
+				"y": 95.10729326652955,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1518,8 +1557,8 @@ tags:
 				"meta": {}
 			},
 			{
-				"x": 47.60571519044092,
-				"y": 157.6284458294365,
+				"x": 707.1071807870027,
+				"y": 140.7895621891848,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -2029,8 +2068,8 @@ tags:
 				"meta": {}
 			},
 			{
-				"x": 40.36994934082031,
-				"y": 100.19122314453125,
+				"x": 701.9907293773435,
+				"y": 84.68695177483033,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
