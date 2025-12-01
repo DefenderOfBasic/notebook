@@ -164,6 +164,45 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 44.57212890404274,
+				"y": 342.652657435795,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:zdYk72c9s5YALbYVNrz3B",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 495.7148132324219,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "(2) What are we working on right now?"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:OJ4AG2DSVNBLET5LuUiLW",
+				"index": "a43cT",
+				"typeName": "shape"
+			},
+			{
 				"x": 1796.8606867523438,
 				"y": -415.6950804570195,
 				"rotation": 0,
@@ -730,6 +769,45 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 42.53120021202743,
+				"y": 238.76589388426163,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:fJ9kDz9J935kUPQeqGNnV",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 201.4891815185547,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "(1) What is ORI?"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:OJ4AG2DSVNBLET5LuUiLW",
+				"index": "a362w",
+				"typeName": "shape"
+			},
+			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
 				"selectedShapeIds": [],
@@ -756,94 +834,6 @@ tags:
 					"isAnimated": false
 				},
 				"meta": {}
-			},
-			{
-				"x": 85.85327258644514,
-				"y": 164.05232979627607,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:iDAF4sIwuZR-hvl_PENun",
-				"type": "text",
-				"props": {
-					"color": "grey",
-					"size": "m",
-					"w": 501.32596321404736,
-					"font": "draw",
-					"textAlign": "start",
-					"autoSize": false,
-					"scale": 0.7281756365023351,
-					"richText": {
-						"type": "doc",
-						"content": [
-							{
-								"type": "bulletList",
-								"content": [
-									{
-										"type": "listItem",
-										"content": [
-											{
-												"type": "paragraph",
-												"attrs": {
-													"dir": "auto"
-												},
-												"content": [
-													{
-														"type": "text",
-														"text": "ORI onboarding "
-													}
-												]
-											}
-										]
-									},
-									{
-										"type": "listItem",
-										"content": [
-											{
-												"type": "paragraph",
-												"attrs": {
-													"dir": "auto"
-												},
-												"content": [
-													{
-														"type": "text",
-														"text": "where has all the money gone"
-													}
-												]
-											},
-											{
-												"type": "bulletList",
-												"content": [
-													{
-														"type": "listItem",
-														"content": [
-															{
-																"type": "paragraph",
-																"attrs": {
-																	"dir": "auto"
-																},
-																"content": [
-																	{
-																		"type": "text",
-																		"text": "(ORI has given ~$50k in grants, most have gone bust, but there are a few successes) "
-																	}
-																]
-															}
-														]
-													}
-												]
-											}
-										]
-									}
-								]
-							}
-						]
-					}
-				},
-				"parentId": "page:OJ4AG2DSVNBLET5LuUiLW",
-				"index": "a31Gj",
-				"typeName": "shape"
 			},
 			{
 				"x": 735.317503794969,
@@ -979,7 +969,7 @@ tags:
 				"props": {
 					"color": "black",
 					"size": "m",
-					"w": 241.1123046875,
+					"w": 240.3324182507854,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": true,
@@ -995,7 +985,7 @@ tags:
 								"content": [
 									{
 										"type": "text",
-										"text": "Happy Dec 1st, ORI!"
+										"text": "Good morning ORI!"
 									}
 								]
 							}
@@ -1458,6 +1448,45 @@ tags:
 				},
 				"parentId": "page:7y2BkHxU5UQkPUn90pKDn",
 				"index": "aC9ZF",
+				"typeName": "shape"
+			},
+			{
+				"x": 45.08812096136947,
+				"y": 166.25432553207455,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:_zIx3BoJzUodVsP2VdWNt",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 536.5831178222693,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 0.7453923587819513,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "It's Monday, Dec 1st, 2025. This is an update to how ORI is doing"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:OJ4AG2DSVNBLET5LuUiLW",
+				"index": "a57QE",
 				"typeName": "shape"
 			},
 			{
