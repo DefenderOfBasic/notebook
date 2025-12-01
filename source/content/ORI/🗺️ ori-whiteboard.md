@@ -1073,7 +1073,7 @@ tags:
 				"props": {
 					"color": "black",
 					"size": "m",
-					"w": 493.788818359375,
+					"w": 493.49493408203125,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": true,
@@ -1237,7 +1237,7 @@ tags:
 																"content": [
 																	{
 																		"type": "text",
-																		"text": "$8k David Rug"
+																		"text": "⭐️ $8k David Rug"
 																	}
 																]
 															}
@@ -1254,7 +1254,7 @@ tags:
 																"content": [
 																	{
 																		"type": "text",
-																		"text": "Tessus in Argentina"
+																		"text": "⭐️ Tessus in Argentina"
 																	}
 																]
 															}
@@ -1271,7 +1271,7 @@ tags:
 																"content": [
 																	{
 																		"type": "text",
-																		"text": "Defender in SF "
+																		"text": "⭐️ Defender in SF "
 																	}
 																]
 															}
@@ -1341,7 +1341,7 @@ tags:
 												"content": [
 													{
 														"type": "text",
-														"text": "Semble"
+														"text": "Semble ($1 million to build)"
 													}
 												]
 											}
