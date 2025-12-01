@@ -1308,7 +1308,7 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 795.2538691891306,
+				"x": 771.5241100158397,
 				"y": 527.7077595847109,
 				"rotation": 0,
 				"isLocked": false,
@@ -1395,6 +1395,28 @@ tags:
 														"text": "Myk et al"
 													}
 												]
+											},
+											{
+												"type": "bulletList",
+												"content": [
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "mycelial institute"
+																	}
+																]
+															}
+														]
+													}
+												]
 											}
 										]
 									},
@@ -1412,6 +1434,51 @@ tags:
 														"text": "Tianmu et al"
 													}
 												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Adam & Slime Mold TM"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "Homebrew NYC"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												}
 											}
 										]
 									}
@@ -1437,7 +1504,7 @@ tags:
 												"content": [
 													{
 														"type": "text",
-														"text": "Analogue & Kanro "
+														"text": "Analogue & Kanro (vitalik) "
 													}
 												]
 											}
@@ -2167,7 +2234,7 @@ tags:
 				"id": "shape:rI5HDYSdhTJFDdg29IC2W",
 				"type": "text",
 				"props": {
-					"color": "black",
+					"color": "grey",
 					"size": "m",
 					"w": 570.326904296875,
 					"font": "draw",
