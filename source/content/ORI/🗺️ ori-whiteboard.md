@@ -128,45 +128,6 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 715.502241557024,
-				"y": 241.9755263008587,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:4YFocQ0AdDkbJ57lvX0_P",
-				"type": "text",
-				"props": {
-					"color": "black",
-					"size": "m",
-					"w": 285.04161283832445,
-					"font": "draw",
-					"textAlign": "start",
-					"autoSize": false,
-					"scale": 1,
-					"richText": {
-						"type": "doc",
-						"content": [
-							{
-								"type": "paragraph",
-								"attrs": {
-									"dir": "auto"
-								},
-								"content": [
-									{
-										"type": "text",
-										"text": "publish this substack (25% done)"
-									}
-								]
-							}
-						]
-					}
-				},
-				"parentId": "page:OJ4AG2DSVNBLET5LuUiLW",
-				"index": "a86Sp",
-				"typeName": "shape"
-			},
-			{
 				"x": 634.2974135707049,
 				"y": -245.31783544107077,
 				"rotation": 0,
