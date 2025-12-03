@@ -1951,7 +1951,7 @@ tags:
 												"content": [
 													{
 														"type": "text",
-														"text": "⭐️ weekly plan (pre SF)"
+														"text": "⭐️ weekly plan "
 													}
 												]
 											},
@@ -1974,6 +1974,23 @@ tags:
 																]
 															}
 														]
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "\"fast break plan\""
 													}
 												]
 											}
