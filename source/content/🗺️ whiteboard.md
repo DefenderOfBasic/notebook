@@ -57528,6 +57528,55 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 195.29959389722717,
+				"y": 2771.917683001351,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:6JXuxzpiILdXFWCWsxxCD",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "xl",
+					"w": 1107.4902405247644,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1.57025900671133,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "finding external deadlines"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"index": "b0w79F",
+				"typeName": "shape"
+			},
+			{
 				"x": 2472.457515023014,
 				"y": 3064.4788902777345,
 				"rotation": 0,
@@ -77065,6 +77114,45 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 182.49800179621036,
+				"y": 2678.5771664467775,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:MMqs9P688TjHPerR8LK17",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "xl",
+					"w": 496.3884582519531,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1.57025900671133,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "\"this task, this week\""
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"index": "b0v0wY",
+				"typeName": "shape"
+			},
+			{
 				"x": 5750.91,
 				"y": 2657.23,
 				"rotation": 0,
@@ -93330,8 +93418,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 308.802485767883,
-				"y": 3182.8254056186192,
+				"x": 306.6510461208129,
+				"y": 3186.4710496091034,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
