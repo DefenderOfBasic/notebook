@@ -1918,6 +1918,77 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 1400.8407501302984,
+				"y": 1535.5569051522177,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:BAlYjK7SZulhsh-1dWUr2",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 385.1836606274832,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 2.928893992675949,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "⭐️ weekly plan (pre SF)"
+													}
+												]
+											},
+											{
+												"type": "bulletList",
+												"content": [
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "Sunday night / Mon morning"
+																	}
+																]
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"index": "aW5Hk",
+				"typeName": "shape"
+			},
+			{
 				"x": 2948.717899832537,
 				"y": 2081.6349936559864,
 				"rotation": 0,
@@ -5314,7 +5385,7 @@ tags:
 				"isChatting": false,
 				"highlightedUserIds": [],
 				"isFocused": false,
-				"devicePixelRatio": 3.4560000896453857,
+				"devicePixelRatio": 1.7280000448226929,
 				"isCoarsePointer": false,
 				"isHoveringCanvas": null,
 				"openMenus": [],
@@ -5563,6 +5634,101 @@ tags:
 				},
 				"parentId": "shape:UIjSTKUjaYAhlWyKJlVp8",
 				"index": "a29jJ",
+				"typeName": "shape"
+			},
+			{
+				"x": 45.88957508504268,
+				"y": 1470.9888135168806,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:h_alrxkSVaXkZN8iOOQ_U",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 373.3278117977377,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 3.7144675653672468,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "GOAL FOR TODAY:"
+									}
+								]
+							},
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "reflect on past week / future direction"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "lesson: \"management\" work vs tangible work"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "personal vs work is still active project"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"index": "aV26O",
 				"typeName": "shape"
 			},
 			{
