@@ -784,8 +784,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 2605.9924721724037,
-				"y": -112.6238894509986,
+				"x": 3756.9100989214703,
+				"y": -80.80516156225076,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1787,6 +1787,45 @@ tags:
 				"meta": {}
 			},
 			{
+				"x": 912.8850594629246,
+				"y": 550.7557258134415,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:voHpPa4h7YCNilJ1edey5",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 24.726852416992188,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1.8178603667008442,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "✅"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"index": "adBFL",
+				"typeName": "shape"
+			},
+			{
 				"x": 1635.1995174923727,
 				"y": 2229.8330417231386,
 				"rotation": 0,
@@ -1850,8 +1889,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 893.5017252625759,
-				"y": 634.1279565984422,
+				"x": 900.2489380841006,
+				"y": 631.3571393768015,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -2202,6 +2241,117 @@ tags:
 					"isAnimated": false
 				},
 				"meta": {}
+			},
+			{
+				"x": 2345.5258654098834,
+				"y": -31.176343660203656,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:WIYOqDXvbBCQaYMdvlOgN",
+				"type": "text",
+				"props": {
+					"color": "grey",
+					"size": "m",
+					"w": 392.037008877283,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 4.426182079987214,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "every week:"
+									}
+								]
+							},
+							{
+								"type": "bulletList",
+								"content": [
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "my own plan"
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "listItem",
+										"content": [
+											{
+												"type": "paragraph",
+												"attrs": {
+													"dir": "auto"
+												},
+												"content": [
+													{
+														"type": "text",
+														"text": "new inbound"
+													}
+												]
+											},
+											{
+												"type": "bulletList",
+												"content": [
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																},
+																"content": [
+																	{
+																		"type": "text",
+																		"text": "project pitches / ideas"
+																	}
+																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																}
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:zAa_G_PdUgDrr8-AGI-Qd",
+				"index": "ae4Di",
+				"typeName": "shape"
 			},
 			{
 				"x": 976.8753972222075,
@@ -6589,8 +6739,8 @@ tags:
 				"typeName": "shape"
 			},
 			{
-				"x": 939.3159191010955,
-				"y": 898.651745269164,
+				"x": 931.5236716306019,
+				"y": 900.482452254725,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
