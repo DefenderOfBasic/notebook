@@ -65,12 +65,14 @@
             "id": "cc8ef1650771356f",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "ORI/🗺️ ori-whiteboard.md"
+                "file": "Daily Notes/2025-11-23.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "🗺️ ori-whiteboard"
+              "title": "2025-11-23"
             }
           }
         ],
@@ -274,9 +276,9 @@
   },
   "active": "cc8ef1650771356f",
   "lastOpenFiles": [
+    "ORI/🗺️ ori-whiteboard.md",
     "🗺️ whiteboard.md",
     "_/attachments /64cfc6db-7827-4470-ade1-d02c2e00790a-tldrawFile.png",
-    "ORI/🗺️ ori-whiteboard.md",
     "Untitled.md",
     "Useful Diagrams.md",
     "Daily Notes/2025-11-30.md",
