@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025-11-23.md",
+                "file": "Screenshot Essays/Can we please just get ONE picture of humanity?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-23"
+              "title": "Can we please just get ONE picture of humanity?"
             }
           }
         ],
@@ -237,54 +237,19 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "floating": {
-    "id": "b787bd6c112ba3f6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "67d257df5653f2d9",
-        "type": "window",
-        "children": [
-          {
-            "id": "9794b6fc7d52d4f6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3a349aa6e67cd22e",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "_/attachments /one-step-above-one-below.jpeg"
-                  },
-                  "icon": "lucide-image",
-                  "title": "one-step-above-one-below"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 817,
-        "y": 182,
-        "width": 1083,
-        "height": 1005,
-        "maximize": false,
-        "zoom": 3
-      }
-    ]
-  },
   "active": "cc8ef1650771356f",
   "lastOpenFiles": [
+    "Screenshot Essays/There is No Source (original screenshot essay).md",
     "ORI/📰 There are 2 sources of motion in the universe.md",
+    "ORI/Onboarding.md",
     "Daily Notes/2025-11-23.md",
+    "_/attachments /one-step-above-one-below.jpeg",
     "ORI/🗺️ ori-whiteboard.md",
     "🗺️ whiteboard.md",
     "_/attachments /64cfc6db-7827-4470-ade1-d02c2e00790a-tldrawFile.png",
     "Untitled.md",
     "Useful Diagrams.md",
     "Daily Notes/2025-11-30.md",
-    "_/attachments /one-step-above-one-below.jpeg",
     "_/attachments /75cdbcf9-c886-4428-b64e-16ab3ec3c7d6-tldrawFile.png",
     "_/attachments /7bc039e6-bb91-491b-8a15-8a776a55f79f-tldrawFile.png",
     "_/attachments /b5493d8a-39d4-4e0d-afe2-d127918ac5f1-tldrawFile.png",
@@ -293,7 +258,6 @@
     "_/attachments /d548e5b5-70ff-4f2a-a7cb-c3e03d10bffd-tldrawFile.png",
     "_/attachments /fe286611-53e5-42ee-a99b-d7e801563735-tldrawFile.png",
     "_/attachments /suntzoogway-pfp.png",
-    "ORI/Onboarding.md",
     "Daily Notes/2025-11-26.md",
     "Memetics/egregore.md",
     "Memetics/To Michael Smith.md",
@@ -311,7 +275,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Daily Notes",
-    "Screenshot Essays/There is No Source (original screenshot essay).md",
     "Screenshot Essays/Can we please just get ONE picture of humanity?.md",
     "_/attachments /egregore-proton.mp4",
     "Screenshot Essays",
@@ -321,7 +284,6 @@
     "Whiteboard.md",
     "Reality has no safety guarentees.md",
     "_/attachments /Geopolitics - Blackbird.AI's Constellation Narrative Intelligence Platform.mp4",
-    "_/Anatomy of an Internet Argument.md",
     "ORI/Untitled",
     "Projects/White Mirror - Reading Guide"
   ]
