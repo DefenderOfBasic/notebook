@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Screenshot Essays/Can we please just get ONE picture of humanity?.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Can we please just get ONE picture of humanity?"
+              "title": "index"
             }
           }
         ],
@@ -239,6 +239,9 @@
   },
   "active": "cc8ef1650771356f",
   "lastOpenFiles": [
+    "Memetics/How to get to 1 million people.md",
+    "index.md",
+    "Screenshot Essays/Can we please just get ONE picture of humanity?.md",
     "Screenshot Essays/There is No Source (original screenshot essay).md",
     "ORI/📰 There are 2 sources of motion in the universe.md",
     "ORI/Onboarding.md",
@@ -261,8 +264,6 @@
     "Daily Notes/2025-11-26.md",
     "Memetics/egregore.md",
     "Memetics/To Michael Smith.md",
-    "Memetics/Untitled.md",
-    "index.md",
     "Memetics/You can extrapolate from n = 1 surveys.md",
     "Memetics/Anonymous Tips.md",
     "ORI/test.md",
@@ -275,7 +276,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Daily Notes",
-    "Screenshot Essays/Can we please just get ONE picture of humanity?.md",
     "_/attachments /egregore-proton.mp4",
     "Screenshot Essays",
     "_/attachments ",
