@@ -8,7 +8,8 @@ aliases:
 - Kattt
 - Shadow Rebbe 
 - ORI discord
-- Substack audience 
+- Substack audience
+- Twitter audience
 
 A little further away
 
