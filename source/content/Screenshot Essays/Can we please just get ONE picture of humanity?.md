@@ -12,6 +12,6 @@ Why? Because Reality Has No Safety Guarentees. I need to know if the superorgani
 
 > are the egregores you live inside healthy, or dying? (your team/company/society/ideology/friend group/civilization)
 
-h
+
 ![[reality-no-safety-guarantees.png]]
 
