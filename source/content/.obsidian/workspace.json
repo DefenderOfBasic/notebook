@@ -129,8 +129,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,7 +237,7 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "0829eb50dbb8a2b3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "Screenshot Essays/There is No Source (original screenshot essay).md",
     "Screenshot Essays/Children can learn epistemology.md",
