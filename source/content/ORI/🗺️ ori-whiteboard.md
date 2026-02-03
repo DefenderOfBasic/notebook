@@ -1226,7 +1226,7 @@ tags:
 				"props": {
 					"color": "black",
 					"size": "m",
-					"w": 493.49493408203125,
+					"w": 493.788818359375,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": true,
@@ -1376,6 +1376,17 @@ tags:
 																		"text": "$5k to Oz "
 																	}
 																]
+															}
+														]
+													},
+													{
+														"type": "listItem",
+														"content": [
+															{
+																"type": "paragraph",
+																"attrs": {
+																	"dir": "auto"
+																}
 															}
 														]
 													},
@@ -2221,7 +2232,7 @@ tags:
 				"isChatting": false,
 				"highlightedUserIds": [],
 				"isFocused": false,
-				"devicePixelRatio": 1.7280000448226929,
+				"devicePixelRatio": 3.4560000896453857,
 				"isCoarsePointer": false,
 				"isHoveringCanvas": null,
 				"openMenus": [],
