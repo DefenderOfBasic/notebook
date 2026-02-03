@@ -1386,17 +1386,6 @@ tags:
 																"type": "paragraph",
 																"attrs": {
 																	"dir": "auto"
-																}
-															}
-														]
-													},
-													{
-														"type": "listItem",
-														"content": [
-															{
-																"type": "paragraph",
-																"attrs": {
-																	"dir": "auto"
 																},
 																"content": [
 																	{
