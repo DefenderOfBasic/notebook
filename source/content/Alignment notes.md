@@ -2,7 +2,10 @@
 	- Zach had a bad experience 
 	- BUT THEN, I realized, I treated people the same way Hank did 
 - STUCK IN PRE MOVE OR DIE 
+	- why do I not 
 	- maybe 50/50 
+
+
 
 
 TRUE FACTS
@@ -10,4 +13,4 @@ TRUE FACTS
 - Omar runs "Defender" media account, which makes money 
 	- $73.5k 
 	- Argentina trip 
-- 
+- the game is open source media account
