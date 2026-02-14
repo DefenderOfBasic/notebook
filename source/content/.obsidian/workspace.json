@@ -86,9 +86,23 @@
               "icon": "lucide-file",
               "title": "2026-02-12"
             }
+          },
+          {
+            "id": "a18f046358f75b8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the biggest group chat on planet earth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the biggest group chat on planet earth"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -249,10 +263,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "4f97c17fc625b693",
+  "active": "a18f046358f75b8b",
   "lastOpenFiles": [
-    "Alignment notes.md",
     "Daily Notes/2026-02-12.md",
+    "the biggest group chat on planet earth.md",
+    "Alignment notes.md",
     "ORI/🗺️ ori-whiteboard.md",
     "ORI/Onboarding.md",
     "Daily Notes/2026-01-30.md",
@@ -286,7 +301,6 @@
     "Memetics/Anonymous Tips.md",
     "ORI/test.md",
     "_/attachments /Tldraw 2025-11-25 10.10AM.md",
-    "Screenshot Essays/What is the purpose of the news?.md",
     "ORI",
     "Memetics",
     "Untitled.canvas",
