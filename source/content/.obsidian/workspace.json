@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the biggest group chat on planet earth.md",
+                "file": "Memetics/To Michael Smith.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the biggest group chat on planet earth"
+              "title": "To Michael Smith"
             }
           }
         ],
@@ -265,8 +265,8 @@
   },
   "active": "a18f046358f75b8b",
   "lastOpenFiles": [
-    "Daily Notes/2026-02-12.md",
     "the biggest group chat on planet earth.md",
+    "Daily Notes/2026-02-12.md",
     "Alignment notes.md",
     "ORI/🗺️ ori-whiteboard.md",
     "ORI/Onboarding.md",
