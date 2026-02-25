@@ -114,9 +114,23 @@
               "icon": "lucide-file",
               "title": "Why LLMs CANNOT be used for translation"
             }
+          },
+          {
+            "id": "9e41a592067b613a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -277,10 +291,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "448e4475b6843b15",
+  "active": "9e41a592067b613a",
   "lastOpenFiles": [
-    "Memetics/To Michael Smith.md",
     "Why LLMs CANNOT be used for translation.md",
+    "Untitled 1.md",
+    "Memetics/To Michael Smith.md",
     "the biggest group chat on planet earth.md",
     "Daily Notes/2026-02-12.md",
     "Alignment notes.md",
@@ -314,7 +329,6 @@
     "Memetics/egregore.md",
     "Memetics/You can extrapolate from n = 1 surveys.md",
     "Memetics/Anonymous Tips.md",
-    "ORI/test.md",
     "ORI",
     "Memetics",
     "Untitled.canvas",
