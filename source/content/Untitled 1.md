@@ -15,3 +15,7 @@ A lot of fraud is profitable because of the regular influx of new people to the 
 [A-programmers] -> ... as above but for programmers (this is easier than for the above 2, wider blindspots, because closer to normie)
 [A-normie] -> this is the steady baseline that you use to measure. If you can't see it anymore, then your measurements all break
 
+-----
+
+
+
