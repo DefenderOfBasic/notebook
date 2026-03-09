@@ -27,5 +27,7 @@ You've always known Bob & Amanda had tension, but you were never sure exactly wh
 -----
 
 
-- The Narcissus Loop
-- 
+- data feed into Innovation Lens
+
+
+I think this is the exciting part/overlap for me: “make better predictions about where we’ll get better results if we funnel money/talent/resources”. This is what I do “manually” acting as a scout
