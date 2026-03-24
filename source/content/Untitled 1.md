@@ -1,4 +1,8 @@
 
+It has come to my attention that "Defender" has a lot of flaws. These used to be "cute quirks" but now that I have power & resources to allocate, people I am accountable to, I recognize 
+
+
+
 # "Community Notes" for Ithaca?
 
 Yet another victim in my social circle has fallen to the Aspen Dental scam this week _(they push for unnecessary procedures which are at best a huge waste of money, at worst actively bad for you)_. He was new to Ithaca, and like many he had to get burned first before he learned. 
