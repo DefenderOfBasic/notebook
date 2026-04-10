@@ -2,6 +2,17 @@
 It has come to my attention that "Defender" has a lot of flaws. These used to be "cute quirks" but now that I have power & resources to allocate, people I am accountable to, I recognize 
 
 
+# Good does not demand your attention
+
+<span style="color:#26824b">The good waits in line, waits for you to choose it.</span>
+
+<span style="color:#822c26">The evil demands, coerces, gets the resource it wants out of you, whether you consent or not</span>.
+
+<span style="color:#26824b">I pay attention to that which demands of me</span>. Whereas that which wants me, and cares about me, and needs me, _rots on the vine_
+
+It will never ask me to produce beyond what I am capable of. It will trust me when I say "sorry, I can't." To a fault. To the decay of both of us. 
+
+
 
 # "Community Notes" for Ithaca?
 
